@@ -1,0 +1,21 @@
+pred,device,features,estimate,ci,n,prediction,verdict,note,p
+P2a,CHEST,cardiac,0.4784212961545162,"[0.411, 0.543]",15,< 0.6,confirmed,,
+P2a,CHEST,eda,0.7800369978036567,"[0.664, 0.882]",15,,report only,,
+P2a,CHEST,temp,0.8238650149833177,"[0.718, 0.92]",15,> 0.6,confirmed,,
+P2a,CHEST,resp,0.4757625638395948,"[0.377, 0.568]",15,,report only,,
+P2a,CHEST,motion,0.4849070378548245,"[0.432, 0.548]",15,,report only,,
+P2a,WRIST,cardiac,0.5211332726056896,"[0.466, 0.576]",14,,report only,,
+P2a,WRIST,eda,0.7906760722009892,"[0.645, 0.903]",15,> 0.6,confirmed,,
+P2a,WRIST,temp,0.6961194508767224,"[0.543, 0.846]",15,> 0.6,inconclusive,,
+P2a,WRIST,motion,0.5169145281400542,"[0.455, 0.574]",15,,report only,,
+P2b,-,"clock only (raw time, within-person AUROC)",1.0,"[1.0, 1.0]",15,> 0.9,confirmed,stress after baseline in 100% of people,
+P2b,-,clock only (LOSO model),1.0,"[1.0, 1.0]",15,report,report only,,
+P2c,CHEST,all,0.08252291791212073,"[0.008, 0.185]",15,stress-vs-baseline > stress-vs-amusement,confirmed,stress vs baseline 0.991; stress vs amusement 0.908,0.0038428970276066315
+explor.,CHEST,"same-session personal, physiology",0.9119831297746274,"[0.818, 0.985]",15,,exploratory,,
+explor.,CHEST,"same-session personal, clock",1.0,"[1.0, 1.0]",15,,exploratory,,
+P2c,WRIST,all,0.03425250170003767,"[-0.083, 0.147]",15,stress-vs-baseline > stress-vs-amusement,confirmed,stress vs baseline 0.920; stress vs amusement 0.886,0.025230304305546795
+explor.,WRIST,"same-session personal, physiology",0.7396685421689917,"[0.559, 0.909]",15,,exploratory,,
+explor.,WRIST,"same-session personal, clock",1.0,"[1.0, 1.0]",15,,exploratory,,
+explor.,CHEST,usable cardiac windows (rest / stress),0.9802494802494802,"[0.994, 0.98]",15,,exploratory,,
+explor.,WRIST,usable cardiac windows (rest / stress),0.07172557172557173,"[0.585, 0.072]",15,,exploratory,,
+explor.,WRIST/CHEST,"HR effect ratio (stress - baseline, rest-SD)",0.7294405120566961,"[0.248, 1.31]",8,,exploratory,"chest 6.80 SD, wrist 4.96 SD",

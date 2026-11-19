@@ -1,0 +1,7 @@
+features,protocol,mean,ci,n
+all features,same-session personal,0.9880345394736842,"[0.972, 1.0]",10
+all features,cross-session personal,0.7657057751734861,"[0.599, 0.916]",10
+all features,"population, other day",0.7931227601404232,"[0.552, 0.982]",10
+cardiac only,same-session personal,0.8198897918196164,"[0.722, 0.912]",9
+cardiac only,cross-session personal,0.5737797005731788,"[0.414, 0.723]",9
+cardiac only,"population, other day",0.7757117119103835,"[0.654, 0.881]",9

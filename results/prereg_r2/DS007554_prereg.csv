@@ -1,0 +1,8 @@
+pred,test,estimate,ci,p,n,p_holm,verdict
+P3a,HR full - active motor (bpm),2.210178683671825,"[0.86, 3.56]",0.0006596103448039958,28,0.0019788310344119875,confirmed
+P3b,HR active - passive motor (bpm),0.7793017200848916,"[-0.71, 2.27]",0.15303505569373166,28,0.3060701113874633,not confirmed
+P3c,effort rating full - active motor (1-9),6.270833333333333,"[5.833, 6.653]",8.859536324772177e-06,24,3.543814529908871e-05,confirmed
+P3d,personal AUROC within-block 0.550 vs across repetitions 0.549,0.0012708478460178069,"[-0.146, 0.145]",0.3926825523376465,21,0.3926825523376465,not confirmed
+explor.,P3d over all 21 task pairs: within 0.598 vs across 0.522,0.07554799024529568,"[0.012, 0.137]",0.03180783987045288,25,,
+explor.,mean HR (bpm) by task,,"{'activemotor': 69.1, 'full': 72.1, 'mentalarithmetic': 70.6, 'motorimagery': 70.2, 'nback': 73.1, 'nbackarithmetic': 70.9, 'passivemotor': 68.2}",,28,,
+explor.,mean effort rating by task,,"{'activemotor': 1.55, 'full': 7.85, 'mentalarithmetic': 3.88, 'motorimagery': 2.15, 'nback': 5.69, 'nbackarithmetic': 7.16, 'passivemotor': 1.35}",,28,,

@@ -1,0 +1,104 @@
+[
+[
+"P1a Torso-ECG heart rate higher in 3-back than 0-back (rest SD)",
+"MAUS",
+"1.13 (0.66, 1.60), n = 21",
+"confirmed"
+],
+[
+"P1b Wrist/ECG heart-rate effect ratio, lower CI > 0.5",
+"MAUS",
+"1.04 (0.97, 1.16), n = 22",
+"confirmed"
+],
+[
+"P1c-i Fewer usable wrist windows than ECG (wrist minus ECG)",
+"MAUS",
+"−0.11 (−0.18, −0.05), n = 22",
+"confirmed (low risk)"
+],
+[
+"P1c-ii Wrist loses more windows in 3-back (hard minus easy)",
+"MAUS",
+"−0.05 (−0.12, 0.01), n = 22",
+"inconclusive"
+],
+[
+"P1d-i Two blocks of one level separable by finger EDA (> 0.6)",
+"MAUS",
+"0.82 (0.75, 0.89), n = 22",
+"confirmed"
+],
+[
+"P1d-ii Two blocks of one level not separable by ECG (< 0.6)",
+"MAUS",
+"0.63 (0.56, 0.69), n = 22",
+"inconclusive"
+],
+[
+"P2a-i Split-half null, chest cardiac < 0.6",
+"WESAD",
+"0.48 (0.41, 0.54), n = 15",
+"confirmed"
+],
+[
+"P2a-ii Split-half null, chest temperature > 0.6",
+"WESAD",
+"0.82 (0.72, 0.92), n = 15",
+"confirmed"
+],
+[
+"P2a-iii Split-half null, wrist EDA > 0.6",
+"WESAD",
+"0.79 (0.65, 0.90), n = 15",
+"confirmed"
+],
+[
+"P2a-iv Split-half null, wrist temperature > 0.6",
+"WESAD",
+"0.70 (0.54, 0.85), n = 15",
+"inconclusive"
+],
+[
+"P2b Clock-only model separates stress from baseline (> 0.9)",
+"WESAD",
+"1 (1, 1), n = 15",
+"design check"
+],
+[
+"P2c Stress-vs-baseline AUROC above stress-vs-amusement",
+"WESAD",
+"chest 0.08 (0.01, 0.18), n = 15; wrist 0.03 (−0.08, 0.15), n = 15",
+"inconclusive"
+],
+[
+"P3a Heart rate: cognitive-motor above motor-only (bpm)",
+"ds007554",
+"2.21 (0.86, 3.56), n = 28",
+"confirmed"
+],
+[
+"P3b Heart rate: active above passive motor (bpm)",
+"ds007554",
+"0.78 (−0.71, 2.27), n = 28",
+"inconclusive"
+],
+[
+"P3c Effort rating: cognitive-motor above motor-only (1-9)",
+"ds007554",
+"6.27 (5.83, 6.65), n = 24",
+"confirmed (low risk)"
+],
+[
+"P3d Personal AUROC within block above across repetitions",
+"ds007554",
+"0.00 (−0.15, 0.14), n = 21",
+"inconclusive"
+],
+[
+"P4a Personal AUROC same-session above cross-session",
+"CogWear",
+"E4 0.22 (0.07, 0.38), n = 10; watch not testable (n = 0)",
+"confirmed"
+]
+]

@@ -1,0 +1,243 @@
+dataset,policy,pid,half,false_trigger,missed_trigger
+COG-BCI,"load, fixed rest baseline",sub-01,first half,0.7792207792207793,0.2357723577235772
+COG-BCI,"load, fixed rest baseline",sub-01,second half,0.24468085106382978,0.5
+COG-BCI,"load, fixed rest baseline",sub-02,first half,0.03508771929824561,0.6292134831460674
+COG-BCI,"load, fixed rest baseline",sub-02,second half,0.018518518518518517,1.0
+COG-BCI,"load, fixed rest baseline",sub-03,first half,0.5617977528089888,0.08490566037735847
+COG-BCI,"load, fixed rest baseline",sub-03,second half,0.2987012987012987,0.11290322580645162
+COG-BCI,"load, fixed rest baseline",sub-04,first half,0.9,0.13475177304964536
+COG-BCI,"load, fixed rest baseline",sub-04,second half,0.21929824561403508,0.0
+COG-BCI,"load, fixed rest baseline",sub-05,first half,0.25925925925925924,0.32098765432098764
+COG-BCI,"load, fixed rest baseline",sub-05,second half,,0.5714285714285714
+COG-BCI,"load, fixed rest baseline",sub-06,first half,0.5636363636363636,0.28037383177570097
+COG-BCI,"load, fixed rest baseline",sub-06,second half,0.1346153846153846,0.5094339622641509
+COG-BCI,"load, fixed rest baseline",sub-07,first half,0.9367088607594937,0.0
+COG-BCI,"load, fixed rest baseline",sub-07,second half,0.963855421686747,0.0
+COG-BCI,"load, fixed rest baseline",sub-08,first half,,0.7575757575757576
+COG-BCI,"load, fixed rest baseline",sub-08,second half,0.0880503144654088,
+COG-BCI,"load, fixed rest baseline",sub-09,first half,0.18181818181818182,1.0
+COG-BCI,"load, fixed rest baseline",sub-09,second half,0.0,0.5689655172413793
+COG-BCI,"load, fixed rest baseline",sub-10,first half,0.5073529411764706,0.5185185185185186
+COG-BCI,"load, fixed rest baseline",sub-10,second half,0.0,0.3846153846153846
+COG-BCI,"load, fixed rest baseline",sub-11,first half,0.0,1.0
+COG-BCI,"load, fixed rest baseline",sub-11,second half,0.0,0.86
+COG-BCI,"load, fixed rest baseline",sub-12,first half,0.16923076923076924,0.6506024096385542
+COG-BCI,"load, fixed rest baseline",sub-12,second half,0.8888888888888888,0.6538461538461539
+COG-BCI,"load, fixed rest baseline",sub-13,first half,0.88,0.3493975903614458
+COG-BCI,"load, fixed rest baseline",sub-13,second half,0.0,0.0
+COG-BCI,"load, fixed rest baseline",sub-14,first half,0.9047619047619048,0.33333333333333337
+COG-BCI,"load, fixed rest baseline",sub-14,second half,0.05357142857142857,0.11904761904761907
+COG-BCI,"load, fixed rest baseline",sub-15,first half,0.2781954887218045,0.8658536585365854
+COG-BCI,"load, fixed rest baseline",sub-15,second half,0.0,0.962962962962963
+COG-BCI,"load, fixed rest baseline",sub-16,first half,0.4117647058823529,0.7
+COG-BCI,"load, fixed rest baseline",sub-16,second half,0.14545454545454545,0.7922077922077921
+COG-BCI,"load, fixed rest baseline",sub-17,first half,0.9428571428571428,0.07692307692307687
+COG-BCI,"load, fixed rest baseline",sub-17,second half,0.8269230769230769,0.13749999999999996
+COG-BCI,"load, fixed rest baseline",sub-18,first half,0.1,0.3975903614457831
+COG-BCI,"load, fixed rest baseline",sub-18,second half,0.37735849056603776,1.0
+COG-BCI,"load, fixed rest baseline",sub-19,first half,0.24175824175824176,0.3414634146341463
+COG-BCI,"load, fixed rest baseline",sub-19,second half,0.25333333333333335,0.48051948051948057
+COG-BCI,"load, fixed rest baseline",sub-20,first half,0.9310344827586207,0.2773722627737226
+COG-BCI,"load, fixed rest baseline",sub-20,second half,0.4263565891472868,0.43999999999999995
+COG-BCI,"load, fixed rest baseline",sub-21,first half,0.06666666666666667,0.23636363636363633
+COG-BCI,"load, fixed rest baseline",sub-21,second half,0.3300970873786408,
+COG-BCI,"load, fixed rest baseline",sub-22,first half,0.5663716814159292,0.14942528735632188
+COG-BCI,"load, fixed rest baseline",sub-22,second half,0.42,0.025316455696202556
+COG-BCI,"load, fixed rest baseline",sub-23,first half,0.24203821656050956,1.0
+COG-BCI,"load, fixed rest baseline",sub-23,second half,,0.5047619047619047
+COG-BCI,"load, fixed rest baseline",sub-24,first half,0.15294117647058825,0.6888888888888889
+COG-BCI,"load, fixed rest baseline",sub-24,second half,0.16,0.9066666666666666
+COG-BCI,"load, fixed rest baseline",sub-25,first half,0.30864197530864196,0.5575221238938053
+COG-BCI,"load, fixed rest baseline",sub-25,second half,0.12658227848101267,0.28
+COG-BCI,"load, fixed rest baseline",sub-26,first half,0.5384615384615384,0.32407407407407407
+COG-BCI,"load, fixed rest baseline",sub-26,second half,0.0,0.537037037037037
+COG-BCI,"load, fixed rest baseline",sub-27,first half,0.8598130841121495,0.13749999999999996
+COG-BCI,"load, fixed rest baseline",sub-27,second half,1.0,0.07692307692307687
+COG-BCI,"load, fixed rest baseline",sub-28,first half,0.2037037037037037,0.625
+COG-BCI,"load, fixed rest baseline",sub-28,second half,0.0,1.0
+COG-BCI,"load, fixed rest baseline",sub-29,first half,0.5681818181818182,0.0
+COG-BCI,"load, fixed rest baseline",sub-29,second half,0.56,0.24691358024691357
+COG-BCI,"load, rolling 10-min baseline",sub-01,first half,0.7272727272727273,0.25742574257425743
+COG-BCI,"load, rolling 10-min baseline",sub-01,second half,0.819672131147541,0.23076923076923073
+COG-BCI,"load, rolling 10-min baseline",sub-02,first half,0.7283950617283951,0.4925373134328358
+COG-BCI,"load, rolling 10-min baseline",sub-02,second half,0.18518518518518517,0.3571428571428571
+COG-BCI,"load, rolling 10-min baseline",sub-03,first half,0.5970149253731343,0.27380952380952384
+COG-BCI,"load, rolling 10-min baseline",sub-03,second half,0.7272727272727273,0.125
+COG-BCI,"load, rolling 10-min baseline",sub-04,first half,1.0,0.5966386554621849
+COG-BCI,"load, rolling 10-min baseline",sub-04,second half,0.2621359223300971,0.9285714285714286
+COG-BCI,"load, rolling 10-min baseline",sub-05,first half,0.7916666666666666,0.05714285714285716
+COG-BCI,"load, rolling 10-min baseline",sub-05,second half,,0.09589041095890416
+COG-BCI,"load, rolling 10-min baseline",sub-06,first half,0.5454545454545454,0.23529411764705888
+COG-BCI,"load, rolling 10-min baseline",sub-06,second half,0.9166666666666666,0.3571428571428571
+COG-BCI,"load, rolling 10-min baseline",sub-07,first half,0.543859649122807,0.1923076923076923
+COG-BCI,"load, rolling 10-min baseline",sub-07,second half,0.6805555555555556,0.3392857142857143
+COG-BCI,"load, rolling 10-min baseline",sub-08,first half,,0.3727272727272727
+COG-BCI,"load, rolling 10-min baseline",sub-08,second half,0.635036496350365,
+COG-BCI,"load, rolling 10-min baseline",sub-09,first half,1.0,0.12698412698412698
+COG-BCI,"load, rolling 10-min baseline",sub-09,second half,0.7352941176470589,0.22916666666666663
+COG-BCI,"load, rolling 10-min baseline",sub-10,first half,0.7530864197530864,0.4590163934426229
+COG-BCI,"load, rolling 10-min baseline",sub-10,second half,1.0,0.23880597014925375
+COG-BCI,"load, rolling 10-min baseline",sub-11,first half,0.9375,0.20454545454545459
+COG-BCI,"load, rolling 10-min baseline",sub-11,second half,1.0,0.0
+COG-BCI,"load, rolling 10-min baseline",sub-12,first half,0.6666666666666666,0.016393442622950838
+COG-BCI,"load, rolling 10-min baseline",sub-12,second half,1.0,0.0
+COG-BCI,"load, rolling 10-min baseline",sub-13,first half,1.0,0.4426229508196722
+COG-BCI,"load, rolling 10-min baseline",sub-13,second half,0.4666666666666667,0.16000000000000003
+COG-BCI,"load, rolling 10-min baseline",sub-14,first half,0.8055555555555556,0.4736842105263158
+COG-BCI,"load, rolling 10-min baseline",sub-14,second half,0.24444444444444444,0.125
+COG-BCI,"load, rolling 10-min baseline",sub-15,first half,0.6179775280898876,0.25
+COG-BCI,"load, rolling 10-min baseline",sub-15,second half,1.0,0.09999999999999998
+COG-BCI,"load, rolling 10-min baseline",sub-16,first half,0.6956521739130435,0.07246376811594202
+COG-BCI,"load, rolling 10-min baseline",sub-16,second half,0.5454545454545454,0.045454545454545414
+COG-BCI,"load, rolling 10-min baseline",sub-17,first half,0.6506024096385542,0.1964285714285714
+COG-BCI,"load, rolling 10-min baseline",sub-17,second half,1.0,0.08620689655172409
+COG-BCI,"load, rolling 10-min baseline",sub-18,first half,0.8961038961038961,0.04166666666666663
+COG-BCI,"load, rolling 10-min baseline",sub-18,second half,0.8490566037735849,0.375
+COG-BCI,"load, rolling 10-min baseline",sub-19,first half,0.5362318840579711,0.15000000000000002
+COG-BCI,"load, rolling 10-min baseline",sub-19,second half,0.671875,0.07272727272727275
+COG-BCI,"load, rolling 10-min baseline",sub-20,first half,0.8333333333333334,0.13414634146341464
+COG-BCI,"load, rolling 10-min baseline",sub-20,second half,0.5169491525423728,0.0
+COG-BCI,"load, rolling 10-min baseline",sub-21,first half,0.32653061224489793,0.38636363636363635
+COG-BCI,"load, rolling 10-min baseline",sub-21,second half,0.43209876543209874,
+COG-BCI,"load, rolling 10-min baseline",sub-22,first half,0.3375,0.7076923076923076
+COG-BCI,"load, rolling 10-min baseline",sub-22,second half,0.20512820512820512,0.27941176470588236
+COG-BCI,"load, rolling 10-min baseline",sub-23,first half,0.5241935483870968,0.1428571428571429
+COG-BCI,"load, rolling 10-min baseline",sub-23,second half,,0.07446808510638303
+COG-BCI,"load, rolling 10-min baseline",sub-24,first half,0.4126984126984127,0.3529411764705882
+COG-BCI,"load, rolling 10-min baseline",sub-24,second half,0.71875,0.75
+COG-BCI,"load, rolling 10-min baseline",sub-25,first half,0.8125,0.17500000000000004
+COG-BCI,"load, rolling 10-min baseline",sub-25,second half,0.5441176470588235,0.2142857142857143
+COG-BCI,"load, rolling 10-min baseline",sub-26,first half,0.5970149253731343,0.686046511627907
+COG-BCI,"load, rolling 10-min baseline",sub-26,second half,0.6811594202898551,0.0625
+COG-BCI,"load, rolling 10-min baseline",sub-27,first half,0.6941176470588235,0.23404255319148937
+COG-BCI,"load, rolling 10-min baseline",sub-27,second half,1.0,0.23076923076923073
+COG-BCI,"load, rolling 10-min baseline",sub-28,first half,0.8421052631578947,0.22549019607843135
+COG-BCI,"load, rolling 10-min baseline",sub-28,second half,0.8571428571428571,0.07692307692307687
+COG-BCI,"load, rolling 10-min baseline",sub-29,first half,0.5353535353535354,0.0892857142857143
+COG-BCI,"load, rolling 10-min baseline",sub-29,second half,1.0,0.0714285714285714
+MultiPhysio-HRC day 2,engagement detector,10000,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,10000,end rest,0.07692307692307693,
+MultiPhysio-HRC day 2,engagement detector,10000,work,,0.796875
+MultiPhysio-HRC day 2,engagement detector,10001,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,10001,end rest,0.7692307692307693,
+MultiPhysio-HRC day 2,engagement detector,10001,work,,0.006329113924050667
+MultiPhysio-HRC day 2,engagement detector,1001,start rest,0.03571428571428571,
+MultiPhysio-HRC day 2,engagement detector,1001,end rest,0.07692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1001,work,,0.8644859813084113
+MultiPhysio-HRC day 2,engagement detector,1005,start rest,0.21428571428571427,
+MultiPhysio-HRC day 2,engagement detector,1005,end rest,0.7692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1005,work,,0.1696428571428571
+MultiPhysio-HRC day 2,engagement detector,1007,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,1007,end rest,0.46153846153846156,
+MultiPhysio-HRC day 2,engagement detector,1007,work,,0.018181818181818188
+MultiPhysio-HRC day 2,engagement detector,1008,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1008,end rest,0.15384615384615385,
+MultiPhysio-HRC day 2,engagement detector,1008,work,,0.12609970674486803
+MultiPhysio-HRC day 2,engagement detector,1030,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,1030,end rest,0.7692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1030,work,,0.06849315068493156
+MultiPhysio-HRC day 2,engagement detector,1031,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1031,end rest,0.46153846153846156,
+MultiPhysio-HRC day 2,engagement detector,1031,work,,0.18999999999999995
+MultiPhysio-HRC day 2,engagement detector,1032,start rest,0.10714285714285714,
+MultiPhysio-HRC day 2,engagement detector,1032,end rest,0.5384615384615384,
+MultiPhysio-HRC day 2,engagement detector,1032,work,,0.40336134453781514
+MultiPhysio-HRC day 2,engagement detector,1034,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1034,end rest,1.0,
+MultiPhysio-HRC day 2,engagement detector,1034,work,,0.11333333333333329
+MultiPhysio-HRC day 2,engagement detector,1035,start rest,0.10714285714285714,
+MultiPhysio-HRC day 2,engagement detector,1035,end rest,1.0,
+MultiPhysio-HRC day 2,engagement detector,1035,work,,0.005571030640668551
+MultiPhysio-HRC day 2,engagement detector,1036,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1036,end rest,0.7692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1036,work,,0.24390243902439024
+MultiPhysio-HRC day 2,engagement detector,1037,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,1037,end rest,0.9230769230769231,
+MultiPhysio-HRC day 2,engagement detector,1037,work,,0.0068259385665528916
+MultiPhysio-HRC day 2,engagement detector,1038,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,1038,end rest,0.38461538461538464,
+MultiPhysio-HRC day 2,engagement detector,1038,work,,0.1432664756446992
+MultiPhysio-HRC day 2,engagement detector,1039,start rest,0.25,
+MultiPhysio-HRC day 2,engagement detector,1039,end rest,0.15384615384615385,
+MultiPhysio-HRC day 2,engagement detector,1039,work,,0.3593220338983051
+MultiPhysio-HRC day 2,engagement detector,1041,start rest,0.10714285714285714,
+MultiPhysio-HRC day 2,engagement detector,1041,end rest,0.07692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1041,work,,0.3285714285714286
+MultiPhysio-HRC day 2,engagement detector,1042,start rest,0.1111111111111111,
+MultiPhysio-HRC day 2,engagement detector,1042,end rest,0.3076923076923077,
+MultiPhysio-HRC day 2,engagement detector,1042,work,,0.7859922178988327
+MultiPhysio-HRC day 2,engagement detector,1043,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,1043,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1043,work,,0.39639639639639634
+MultiPhysio-HRC day 2,engagement detector,1044,start rest,0.10714285714285714,
+MultiPhysio-HRC day 2,engagement detector,1044,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1044,work,,0.006711409395973145
+MultiPhysio-HRC day 2,engagement detector,1045,start rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1045,end rest,0.23076923076923078,
+MultiPhysio-HRC day 2,engagement detector,1045,work,,0.036437246963562764
+MultiPhysio-HRC day 2,engagement detector,1050,start rest,0.0625,
+MultiPhysio-HRC day 2,engagement detector,1050,end rest,0.5625,
+MultiPhysio-HRC day 2,engagement detector,1050,work,,0.02898550724637683
+MultiPhysio-HRC day 2,engagement detector,1051,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1051,end rest,0.07692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1051,work,,0.37356321839080464
+MultiPhysio-HRC day 2,engagement detector,1052,start rest,0.0625,
+MultiPhysio-HRC day 2,engagement detector,1052,end rest,0.4375,
+MultiPhysio-HRC day 2,engagement detector,1052,work,,0.010309278350515427
+MultiPhysio-HRC day 2,engagement detector,1053,start rest,0.125,
+MultiPhysio-HRC day 2,engagement detector,1053,end rest,0.5,
+MultiPhysio-HRC day 2,engagement detector,1053,work,,0.4758842443729904
+MultiPhysio-HRC day 2,engagement detector,1054,start rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1054,end rest,0.25,
+MultiPhysio-HRC day 2,engagement detector,1054,work,,0.2836879432624113
+MultiPhysio-HRC day 2,engagement detector,1055,start rest,0.21428571428571427,
+MultiPhysio-HRC day 2,engagement detector,1055,end rest,0.07692307692307693,
+MultiPhysio-HRC day 2,engagement detector,1055,work,,0.6637554585152838
+MultiPhysio-HRC day 2,engagement detector,1056,start rest,0.125,
+MultiPhysio-HRC day 2,engagement detector,1056,end rest,0.125,
+MultiPhysio-HRC day 2,engagement detector,1056,work,,0.880794701986755
+MultiPhysio-HRC day 2,engagement detector,1057,start rest,0.0625,
+MultiPhysio-HRC day 2,engagement detector,1057,end rest,0.0625,
+MultiPhysio-HRC day 2,engagement detector,1057,work,,0.3286219081272085
+MultiPhysio-HRC day 2,engagement detector,1058,start rest,0.125,
+MultiPhysio-HRC day 2,engagement detector,1058,end rest,0.1875,
+MultiPhysio-HRC day 2,engagement detector,1058,work,,0.9727047146401985
+MultiPhysio-HRC day 2,engagement detector,1059,start rest,0.0625,
+MultiPhysio-HRC day 2,engagement detector,1059,end rest,0.25,
+MultiPhysio-HRC day 2,engagement detector,1059,work,,0.13286713286713292
+MultiPhysio-HRC day 2,engagement detector,1061,start rest,0.1875,
+MultiPhysio-HRC day 2,engagement detector,1061,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1061,work,,0.60625
+MultiPhysio-HRC day 2,engagement detector,1062,start rest,0.125,
+MultiPhysio-HRC day 2,engagement detector,1062,end rest,0.125,
+MultiPhysio-HRC day 2,engagement detector,1062,work,,0.04528301886792452
+MultiPhysio-HRC day 2,engagement detector,1063,start rest,0.10714285714285714,
+MultiPhysio-HRC day 2,engagement detector,1063,end rest,0.15384615384615385,
+MultiPhysio-HRC day 2,engagement detector,1063,work,,0.32272727272727275
+MultiPhysio-HRC day 2,engagement detector,1065,start rest,0.17857142857142858,
+MultiPhysio-HRC day 2,engagement detector,1065,end rest,0.23076923076923078,
+MultiPhysio-HRC day 2,engagement detector,1065,work,,0.32389937106918243
+MultiPhysio-HRC day 2,engagement detector,1066,start rest,0.1875,
+MultiPhysio-HRC day 2,engagement detector,1066,end rest,0.1875,
+MultiPhysio-HRC day 2,engagement detector,1066,work,,0.6877323420074349
+MultiPhysio-HRC day 2,engagement detector,1067,start rest,0.03571428571428571,
+MultiPhysio-HRC day 2,engagement detector,1067,end rest,0.6153846153846154,
+MultiPhysio-HRC day 2,engagement detector,1067,work,,0.07835820895522383
+MultiPhysio-HRC day 2,engagement detector,1070,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1070,end rest,0.5384615384615384,
+MultiPhysio-HRC day 2,engagement detector,1070,work,,0.33684210526315794
+MultiPhysio-HRC day 2,engagement detector,1075,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,1075,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1075,work,,0.9846153846153847
+MultiPhysio-HRC day 2,engagement detector,10869,start rest,0.14285714285714285,
+MultiPhysio-HRC day 2,engagement detector,10869,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,10869,work,,0.5630252100840336
+MultiPhysio-HRC day 2,engagement detector,1090,start rest,0.10714285714285714,
+MultiPhysio-HRC day 2,engagement detector,1090,end rest,0.3076923076923077,
+MultiPhysio-HRC day 2,engagement detector,1090,work,,0.1518518518518519
+MultiPhysio-HRC day 2,engagement detector,1095,start rest,0.07142857142857142,
+MultiPhysio-HRC day 2,engagement detector,1095,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,1095,work,,0.7372013651877133
+MultiPhysio-HRC day 2,engagement detector,10978,start rest,0.03571428571428571,
+MultiPhysio-HRC day 2,engagement detector,10978,end rest,0.0,
+MultiPhysio-HRC day 2,engagement detector,10978,work,,0.5315315315315315

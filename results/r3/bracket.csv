@@ -1,0 +1,13 @@
+dataset,norm,contrast,rep,auc,ci,n
+COGBCI,start rest,task vs start rest,physiology,0.6945427900177162,"[0.65, 0.737]",29
+COGBCI,start rest,task vs start rest,physiology without temp/EDA level,0.6945427900177162,"[0.65, 0.737]",29
+COGBCI,start rest,task vs end rest,physiology,0.7587533503233691,"[0.697, 0.812]",29
+COGBCI,start rest,task vs end rest,physiology without temp/EDA level,0.7587533503233691,"[0.697, 0.812]",29
+COGBCI,start rest,end rest vs start rest,physiology,0.7809285382561245,"[0.714, 0.843]",29
+COGBCI,start rest,end rest vs start rest,physiology without temp/EDA level,0.7809285382561245,"[0.716, 0.843]",29
+MPHRC day 2,start rest,task vs start rest,physiology,0.8167025768021943,"[0.753, 0.871]",42
+MPHRC day 2,start rest,task vs start rest,physiology without temp/EDA level,0.8196627033642426,"[0.767, 0.869]",42
+MPHRC day 2,start rest,task vs end rest,physiology,0.8016849377882108,"[0.753, 0.844]",42
+MPHRC day 2,start rest,task vs end rest,physiology without temp/EDA level,0.8020320460799998,"[0.756, 0.847]",42
+MPHRC day 2,start rest,end rest vs start rest,physiology,0.7097386430533751,"[0.615, 0.796]",42
+MPHRC day 2,start rest,end rest vs start rest,physiology without temp/EDA level,0.5481753572155357,"[0.456, 0.645]",42

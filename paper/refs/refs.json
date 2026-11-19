@@ -1,0 +1,1099 @@
+{
+ "young2015": {
+  "doi": "10.1080/00140139.2014.956151",
+  "authors": [
+   "Young, M.S.",
+   "Brookhuis, K.A.",
+   "Wickens, C.D.",
+   "Hancock, P.A."
+  ],
+  "title": "State of science: mental workload in ergonomics",
+  "journal": "Ergonomics",
+  "journal_full": "Ergonomics",
+  "year": 2014,
+  "volume": "58",
+  "issue": "1",
+  "page": "1-17",
+  "type": "journal-article",
+  "publisher": "Informa UK Limited"
+ },
+ "charles2019": {
+  "doi": "10.1016/j.apergo.2018.08.028",
+  "authors": [
+   "Charles, R.L.",
+   "Nixon, J."
+  ],
+  "title": "Measuring mental workload using physiological measures: A systematic review",
+  "journal": "Applied Ergonomics",
+  "journal_full": "Applied Ergonomics",
+  "year": 2019,
+  "volume": "74",
+  "issue": "",
+  "page": "221-232",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "fairclough2009": {
+  "doi": "10.1016/j.intcom.2008.10.011",
+  "authors": [
+   "Fairclough, S.H."
+  ],
+  "title": "Fundamentals of physiological computing",
+  "journal": "Interacting with Computers",
+  "journal_full": "Interacting with Computers",
+  "year": 2009,
+  "volume": "21",
+  "issue": "1-2",
+  "page": "133-145",
+  "type": "journal-article",
+  "publisher": "Oxford University Press (OUP)"
+ },
+ "villani2018": {
+  "doi": "10.1016/j.mechatronics.2018.02.009",
+  "authors": [
+   "Villani, V.",
+   "Pini, F.",
+   "Leali, F.",
+   "Secchi, C."
+  ],
+  "title": "Survey on human–robot collaboration in industrial settings: Safety, intuitive interfaces and applications",
+  "journal": "Mechatronics",
+  "journal_full": "Mechatronics",
+  "year": 2018,
+  "volume": "55",
+  "issue": "",
+  "page": "248-266",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "gervasi2020": {
+  "doi": "10.1007/s00170-020-05363-1",
+  "authors": [
+   "Gervasi, R.",
+   "Mastrogiacomo, L.",
+   "Franceschini, F."
+  ],
+  "title": "A conceptual framework to evaluate human-robot collaboration",
+  "journal": "Int J Adv Manuf Technol",
+  "journal_full": "The International Journal of Advanced Manufacturing Technology",
+  "year": 2020,
+  "volume": "108",
+  "issue": "3",
+  "page": "841-865",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "kreibig2010": {
+  "doi": "10.1016/j.biopsycho.2010.03.010",
+  "authors": [
+   "Kreibig, S.D."
+  ],
+  "title": "Autonomic nervous system activity in emotion: A review",
+  "journal": "Biological Psychology",
+  "journal_full": "Biological Psychology",
+  "year": 2010,
+  "volume": "84",
+  "issue": "3",
+  "page": "394-421",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "boucsein2012": {
+  "doi": "10.1007/978-1-4614-1126-0",
+  "authors": [
+   "Boucsein, W."
+  ],
+  "title": "Electrodermal Activity",
+  "journal": "",
+  "journal_full": "",
+  "year": 2012,
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "type": "book",
+  "publisher": "Springer US"
+ },
+ "bent2020": {
+  "doi": "10.1038/s41746-020-0226-6",
+  "authors": [
+   "Bent, B.",
+   "Goldstein, B.A.",
+   "Kibbe, W.A.",
+   "Dunn, J.P."
+  ],
+  "title": "Investigating sources of inaccuracy in wearable optical heart rate sensors",
+  "journal": "npj Digit. Med.",
+  "journal_full": "npj Digital Medicine",
+  "year": 2020,
+  "volume": "3",
+  "issue": "1",
+  "page": "18",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "schmidt2019": {
+  "doi": "10.3390/s19194079",
+  "authors": [
+   "Schmidt, P.",
+   "Reiss, A.",
+   "Dürichen, R.",
+   "Van Laerhoven, K."
+  ],
+  "title": "Wearable-Based Affect Recognition—A Review",
+  "journal": "Sensors",
+  "journal_full": "Sensors",
+  "year": 2019,
+  "volume": "19",
+  "issue": "19",
+  "page": "4079",
+  "type": "journal-article",
+  "publisher": "MDPI AG"
+ },
+ "persstress2024": {
+  "doi": "10.3390/s24103221",
+  "authors": [
+   "Bolpagni, M.",
+   "Pardini, S.",
+   "Dianti, M.",
+   "Gabrielli, S."
+  ],
+  "title": "Personalized Stress Detection Using Biosignals from Wearables: A Scoping Review",
+  "journal": "Sensors",
+  "journal_full": "Sensors",
+  "year": 2024,
+  "volume": "24",
+  "issue": "10",
+  "page": "3221",
+  "type": "journal-article",
+  "publisher": "MDPI AG"
+ },
+ "saeb2017": {
+  "doi": "10.1093/gigascience/gix019",
+  "authors": [
+   "Saeb, S.",
+   "Lonini, L.",
+   "Jayaraman, A.",
+   "Mohr, D.C.",
+   "Kording, K.P."
+  ],
+  "title": "The need to approximate the use-case in clinical machine learning",
+  "journal": "GigaScience",
+  "journal_full": "GigaScience",
+  "year": 2017,
+  "volume": "6",
+  "issue": "5",
+  "page": "gix019",
+  "type": "journal-article",
+  "publisher": "Oxford University Press (OUP)"
+ },
+ "li2021": {
+  "doi": "10.1109/TPAMI.2020.2973153",
+  "authors": [
+   "Li, R.",
+   "Johansen, J.S.",
+   "Ahmed, H.",
+   "Ilyevsky, T.V.",
+   "Wilbur, R.B.",
+   "Bharadwaj, H.M.",
+   "Siskind, J.M."
+  ],
+  "title": "The Perils and Pitfalls of Block Design for EEG Classification Experiments",
+  "journal": "IEEE Trans. Pattern Anal. Mach. Intell.",
+  "journal_full": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "year": 2020,
+  "volume": "",
+  "issue": "",
+  "page": "1-1",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ "schroeder2025": {
+  "doi": "10.3389/fnrgo.2025.1582724",
+  "authors": [
+   "Schroeder, F.",
+   "Fairclough, S.",
+   "Dehais, F.",
+   "Richins, M."
+  ],
+  "title": "The impact of cross-validation choices on pBCI classification metrics: lessons for transparent reporting",
+  "journal": "Front. Neuroergonomics",
+  "journal_full": "Frontiers in Neuroergonomics",
+  "year": 2025,
+  "volume": "6",
+  "issue": "",
+  "page": "1582724",
+  "type": "journal-article",
+  "publisher": "Frontiers Media SA"
+ },
+ "kapoor2023": {
+  "doi": "10.1016/j.patter.2023.100804",
+  "authors": [
+   "Kapoor, S.",
+   "Narayanan, A."
+  ],
+  "title": "Leakage and the reproducibility crisis in machine-learning-based science",
+  "journal": "Patterns",
+  "journal_full": "Patterns",
+  "year": 2023,
+  "volume": "4",
+  "issue": "9",
+  "page": "100804",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "kahraman2026": {
+  "doi": "10.21203/rs.3.rs-10535611/v1",
+  "authors": [
+   "Kahraman, F.",
+   "Özsezer, G.",
+   "Mermer, G."
+  ],
+  "title": "Validation design changes wearable stress-state classification performance in hospital nurses",
+  "journal": "",
+  "journal_full": "",
+  "year": 2026,
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "type": "posted-content",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "hinss2023": {
+  "doi": "10.1038/s41597-022-01898-y",
+  "authors": [
+   "Hinss, M.F.",
+   "Jahanpour, E.S.",
+   "Somon, B.",
+   "Pluchon, L.",
+   "Dehais, F.",
+   "Roy, R.N."
+  ],
+  "title": "Open multi-session and multi-task EEG cognitive Dataset for passive brain-computer Interface Applications",
+  "journal": "Sci Data",
+  "journal_full": "Scientific Data",
+  "year": 2023,
+  "volume": "10",
+  "issue": "1",
+  "page": "85",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "universe2024": {
+  "doi": "10.1038/s41597-024-03738-7",
+  "authors": [
+   "Anders, C.",
+   "Moontaha, S.",
+   "Real, S.",
+   "Arnrich, B."
+  ],
+  "title": "Unobtrusive measurement of cognitive load and physiological signals in uncontrolled environments",
+  "journal": "Sci Data",
+  "journal_full": "Scientific Data",
+  "year": 2024,
+  "volume": "11",
+  "issue": "1",
+  "page": "1000",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "mphrc2025": {
+  "doi": "10.3390/robotics14120184",
+  "authors": [
+   "Bussolan, A.",
+   "Baraldo, S.",
+   "Avram, O.",
+   "Urcola, P.",
+   "Montesano, L.",
+   "Gambardella, L.M.",
+   "Valente, A."
+  ],
+  "title": "MultiPhysio-HRC: A Multimodal Physiological Signals Dataset for Industrial Human–Robot Collaboration",
+  "journal": "Robotics",
+  "journal_full": "Robotics",
+  "year": 2025,
+  "volume": "14",
+  "issue": "12",
+  "page": "184",
+  "type": "journal-article",
+  "publisher": "MDPI AG"
+ },
+ "gjoreski2020": {
+  "doi": "10.3390/app10113843",
+  "authors": [
+   "Gjoreski, M.",
+   "Kolenik, T.",
+   "Knez, T.",
+   "Luštrek, M.",
+   "Gams, M.",
+   "Gjoreski, H.",
+   "Pejović, V."
+  ],
+  "title": "Datasets for Cognitive Load Inference Using Wearable Sensors and Psychological Traits",
+  "journal": "Applied Sciences",
+  "journal_full": "Applied Sciences",
+  "year": 2020,
+  "volume": "10",
+  "issue": "11",
+  "page": "3843",
+  "type": "journal-article",
+  "publisher": "MDPI AG"
+ },
+ "wesad2018": {
+  "doi": "10.1145/3242969.3242985",
+  "authors": [
+   "Schmidt, P.",
+   "Reiss, A.",
+   "Duerichen, R.",
+   "Marberger, C.",
+   "Van Laerhoven, K."
+  ],
+  "title": "Introducing WESAD, a Multimodal Dataset for Wearable Stress and Affect Detection",
+  "journal": "Proceedings of the 20th ACM International Conference on Multimodal Interaction",
+  "journal_full": "Proceedings of the 20th ACM International Conference on Multimodal Interaction",
+  "year": 2018,
+  "volume": "",
+  "issue": "",
+  "page": "400-408",
+  "type": "proceedings-article",
+  "publisher": "ACM"
+ },
+ "ds007554_2026": {
+  "doi": "10.1038/s41597-026-08125-y",
+  "authors": [
+   "Ajra, Z.",
+   "Vergotte, G.",
+   "Perrey, S.",
+   "Evra, L.",
+   "Pla, S.",
+   "Dray, G.",
+   "Montmain, J.",
+   "Xu, B."
+  ],
+  "title": "An Open-Access Multi-modal Dataset for Cognitive, Motor and Cognitive-Motor Tasks",
+  "journal": "Sci Data",
+  "journal_full": "Scientific Data",
+  "year": 2026,
+  "volume": "",
+  "issue": "",
+  "page": "",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "sensecobot2024": {
+  "doi": "10.1145/3610977.3636440",
+  "authors": [
+   "Borghi, S.",
+   "Zucchi, F.",
+   "Prati, E.",
+   "Ruo, A.",
+   "Villani, V.",
+   "Sabattini, L.",
+   "Peruzzini, M."
+  ],
+  "title": "Unlocking Human-Robot Dynamics: Introducing SenseCobot, a Novel Multimodal Dataset on Industry 4.0",
+  "journal": "Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+  "journal_full": "Proceedings of the 2024 ACM/IEEE International Conference on Human-Robot Interaction",
+  "year": 2024,
+  "volume": "",
+  "issue": "",
+  "page": "880-884",
+  "type": "proceedings-article",
+  "publisher": "ACM"
+ },
+ "cogwear2023": {
+  "doi": "10.13026/5f6t-b637",
+  "authors": [
+   "Grzeszczyk, M.K.",
+   "Blanco, R.",
+   "Adamczyk, P.",
+   "Kus, M.",
+   "Marek, S.",
+   "Pręcikowski, R.",
+   "Lisowska, A."
+  ],
+  "title": "CogWear: Can we detect cognitive effort with consumer-grade wearables?",
+  "journal": "PhysioNet",
+  "year": 2023,
+  "version": "1.0.0",
+  "type": "dataset"
+ },
+ "clues2026": {
+  "doi": "10.1145/3831656",
+  "authors": [
+   "Krstevska, A.",
+   "Goyal, S.",
+   "Fiorini, L.",
+   "Bombassei De Bona, F.",
+   "Kirilenko, D.",
+   "Li, M.",
+   "Trojer, S.",
+   "Božak, T.",
+   "Anžur, Z.",
+   "Luštrek, M.",
+   "Gjoreski, H.",
+   "Langheinrich, M.",
+   "Slapničar, G.",
+   "Gjoreski, M."
+  ],
+  "title": "CLUES: Cognitive Load Understanding through Experimental Sensing Dataset",
+  "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+  "journal_full": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "year": 2026,
+  "volume": "10",
+  "issue": "3",
+  "page": "1-33",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)"
+ },
+ "mocas2024": {
+  "doi": "10.1109/taffc.2024.3414330",
+  "authors": [
+   "Jo, W.",
+   "Wang, R.",
+   "Cha, G.E.",
+   "Sun, S.",
+   "Senthilkumaran, R.K.",
+   "Foti, D.",
+   "Min, B.C."
+  ],
+  "title": "MOCAS: A Multimodal Dataset for Objective Cognitive Workload Assessment on Simultaneous Tasks",
+  "journal": "IEEE Trans. Affective Comput.",
+  "journal_full": "IEEE Transactions on Affective Computing",
+  "year": 2025,
+  "volume": "16",
+  "issue": "1",
+  "page": "116-132",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ "makowski2021": {
+  "doi": "10.3758/s13428-020-01516-y",
+  "authors": [
+   "Makowski, D.",
+   "Pham, T.",
+   "Lau, Z.J.",
+   "Brammer, J.C.",
+   "Lespinasse, F.",
+   "Pham, H.",
+   "Schölzel, C.",
+   "Chen, S.H.A."
+  ],
+  "title": "NeuroKit2: A Python toolbox for neurophysiological signal processing",
+  "journal": "Behav Res",
+  "journal_full": "Behavior Research Methods",
+  "year": 2021,
+  "volume": "53",
+  "issue": "4",
+  "page": "1689-1696",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "hart1988": {
+  "doi": "10.1016/S0166-4115(08)62386-9",
+  "authors": [
+   "Hart, S.G.",
+   "Staveland, L.E."
+  ],
+  "title": "Development of NASA-TLX (Task Load Index): Results of Empirical and Theoretical Research",
+  "journal": "Advances in Psychology",
+  "journal_full": "Advances in Psychology",
+  "year": 1988,
+  "volume": "",
+  "issue": "",
+  "page": "139-183",
+  "type": "book-chapter",
+  "publisher": "Elsevier"
+ },
+ "lakens2017": {
+  "doi": "10.1177/1948550617697177",
+  "authors": [
+   "Lakens, D."
+  ],
+  "title": "Equivalence Tests: A Practical Primer for t Tests, Correlations, and Meta-Analyses",
+  "journal": "Social Psychological and Personality Science",
+  "journal_full": "Social Psychological and Personality Science",
+  "year": 2017,
+  "volume": "8",
+  "issue": "4",
+  "page": "355-362",
+  "type": "journal-article",
+  "publisher": "SAGE Publications"
+ },
+ "nosek2018": {
+  "doi": "10.1073/pnas.1708274114",
+  "authors": [
+   "Nosek, B.A.",
+   "Ebersole, C.R.",
+   "DeHaven, A.C.",
+   "Mellor, D.T."
+  ],
+  "title": "The preregistration revolution",
+  "journal": "Proc. Natl. Acad. Sci. U.S.A.",
+  "journal_full": "Proceedings of the National Academy of Sciences",
+  "year": 2018,
+  "volume": "115",
+  "issue": "11",
+  "page": "2600-2606",
+  "type": "journal-article",
+  "publisher": "National Academy of Sciences"
+ },
+ "seabold2010": {
+  "doi": "10.25080/Majora-92bf1922-011",
+  "authors": [
+   "Seabold, S.",
+   "Perktold, J."
+  ],
+  "title": "Statsmodels: Econometric and Statistical Modeling with Python",
+  "journal": "Proceedings of the Python in Science Conference",
+  "journal_full": "Proceedings of the Python in Science Conference",
+  "year": 2010,
+  "volume": "",
+  "issue": "",
+  "page": "92-96",
+  "type": "proceedings-article",
+  "publisher": "SciPy"
+ },
+ "goldberger2000": {
+  "doi": "10.1161/01.CIR.101.23.e215",
+  "authors": [
+   "Goldberger, A.L.",
+   "Amaral, L.A.N.",
+   "Glass, L.",
+   "Hausdorff, J.M.",
+   "Ivanov, P.C.",
+   "Mark, R.G.",
+   "Mietus, J.E.",
+   "Moody, G.B.",
+   "Peng, C.K.",
+   "Stanley, H.E."
+  ],
+  "title": "PhysioBank, PhysioToolkit, and PhysioNet",
+  "journal": "Circulation",
+  "journal_full": "Circulation",
+  "year": 2000,
+  "volume": "101",
+  "issue": "23",
+  "page": "e215–e220",
+  "type": "journal-article",
+  "publisher": "Ovid Technologies (Wolters Kluwer Health)"
+ },
+ "hhiss2025": {
+  "doi": "10.1145/3749465",
+  "authors": [
+   "Xiao, Y.",
+   "Sharma, H.",
+   "Kaur, S.",
+   "Bergen-Cico, D.",
+   "Salekin, A."
+  ],
+  "title": "Human Heterogeneity Invariant Stress Sensing",
+  "journal": "Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.",
+  "journal_full": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies",
+  "year": 2025,
+  "volume": "9",
+  "issue": "3",
+  "page": "1-42",
+  "type": "journal-article",
+  "publisher": "Association for Computing Machinery (ACM)"
+ },
+ "maus2021": {
+  "arxiv": "2111.02561",
+  "authors": [
+   "Beh, W.-K.",
+   "Wu, Y.-H.",
+   "Wu, A.-Y."
+  ],
+  "title": "MAUS: A Dataset for Mental Workload Assessment on N-back Task Using Wearable Sensor",
+  "year": 2021,
+  "type": "preprint"
+ },
+ "normwear2024": {
+  "arxiv": "2412.09758",
+  "authors": [
+   "Luo, Y.",
+   "Chen, Y.",
+   "Salekin, A.",
+   "Rahman, T."
+  ],
+  "title": "Toward Foundation Model for Multivariate Wearable Sensing of Physiological Signals",
+  "year": 2024,
+  "type": "preprint"
+ },
+ "wang2024": {
+  "arxiv": "2405.00213",
+  "authors": [
+   "Wang, J.",
+   "Altay, A.",
+   "Velipasalar, S."
+  ],
+  "title": "Block-As-Domain Adaptation for Workload Prediction from fNIRS Data",
+  "year": 2024,
+  "type": "preprint"
+ },
+ "shi2026": {
+  "arxiv": "2609.30721",
+  "authors": [
+   "Shi, X.",
+   "Zhang, L.",
+   "Shi, B."
+  ],
+  "title": "When 10,000 Windows Are Not 10,000 Tests: Auditing Statistical Confidence in Sliding-Window Time-Series Classification",
+  "year": 2026,
+  "type": "preprint"
+ },
+ "cogadapt2026": {
+  "arxiv": "2605.22774",
+  "authors": [
+   "Mousavi, A.",
+   "Nourbakhsh, E.",
+   "Sirjani, M.S.",
+   "Xie, M.",
+   "Slavin, R.",
+   "Neely, L.",
+   "Davis, J.",
+   "Quarles, J."
+  ],
+  "title": "CogAdapt: Adapting Clinical ECG Foundation Models for Wearable Cognitive Load Assessment",
+  "year": 2026,
+  "type": "preprint"
+ },
+ "safeeda2026": {
+  "arxiv": "2610.01692",
+  "authors": [
+   "Chai, H.",
+   "Luo, X.",
+   "Liu, Z.",
+   "Jiang, F."
+  ],
+  "title": "Artifact Annotations Partially Substitute for Per-User Calibration: SAFE-EDA and a Normalization-Controlled Evaluation of Wrist-EDA Affect Recognition",
+  "year": 2026,
+  "type": "preprint"
+ },
+ "clare2024": {
+  "arxiv": "2404.17098",
+  "authors": [
+   "Bhatti, A.",
+   "Angkan, P.",
+   "Behinaein, B.",
+   "Mahmud, Z.",
+   "Rodenburg, D.",
+   "Braund, H.",
+   "Mclellan, P.J.",
+   "Ruberto, A.",
+   "Harrison, G.",
+   "Wilson, D.",
+   "Szulewski, A.",
+   "Howes, D.",
+   "Etemad, A.",
+   "Hungler, P."
+  ],
+  "title": "CLARE: Cognitive Load Assessment in REaltime with Multimodal Data",
+  "year": 2024,
+  "type": "preprint"
+ },
+ "mphrc_arxiv": {
+  "arxiv": "2510.00703",
+  "authors": [
+   "Bussolan, A.",
+   "Baraldo, S.",
+   "Avram, O.",
+   "Urcola, P.",
+   "Montesano, L.",
+   "Gambardella, L.M.",
+   "Valente, A."
+  ],
+  "title": "MultiPhysio-HRC: Multimodal Physiological Signals Dataset for industrial Human-Robot Collaboration",
+  "year": 2025,
+  "type": "preprint"
+ },
+ "mocas_arxiv": {
+  "arxiv": "2210.03065",
+  "authors": [
+   "Jo, W.",
+   "Wang, R.",
+   "Sun, S.",
+   "Senthilkumaran, R.K.",
+   "Foti, D.",
+   "Min, B.C."
+  ],
+  "title": "MOCAS: A Multimodal Dataset for Objective Cognitive Workload Assessment on Simultaneous Tasks",
+  "year": 2022,
+  "type": "preprint"
+ },
+ "holm1979": {
+  "authors": [
+   "Holm, S."
+  ],
+  "title": "A Simple Sequentially Rejective Multiple Test Procedure",
+  "journal": "Scand. J. Stat.",
+  "year": 1979,
+  "volume": "6",
+  "page": "65–70",
+  "type": "journal-article"
+ },
+ "pedregosa2011": {
+  "authors": [
+   "Pedregosa, F.",
+   "Varoquaux, G.",
+   "Gramfort, A.",
+   "Michel, V.",
+   "Thirion, B.",
+   "Grisel, O.",
+   "Blondel, M.",
+   "Prettenhofer, P.",
+   "Weiss, R.",
+   "Dubourg, V."
+  ],
+  "et_al": true,
+  "title": "Scikit-learn: Machine Learning in Python",
+  "journal": "J. Mach. Learn. Res.",
+  "year": 2011,
+  "volume": "12",
+  "page": "2825–2830",
+  "type": "journal-article"
+ },
+ "menghini2019": {
+  "doi": "10.1111/psyp.13441",
+  "authors": [
+   "Menghini, L.",
+   "Gianfranchi, E.",
+   "Cellini, N.",
+   "Patron, E.",
+   "Tagliabue, M.",
+   "Sarlo, M."
+  ],
+  "title": "Stressing the accuracy: Wrist‐worn wearable sensor validation over different conditions",
+  "journal": "Psychophysiology",
+  "journal_full": "Psychophysiology",
+  "year": 2019,
+  "volume": "56",
+  "issue": "11",
+  "page": "e13441",
+  "type": "journal-article",
+  "publisher": "Wiley"
+ },
+ "schuurmans2020": {
+  "doi": "10.1007/s10916-020-01648-w",
+  "authors": [
+   "Schuurmans, A.A.T.",
+   "de Looff, P.",
+   "Nijhof, K.S.",
+   "Rosada, C.",
+   "Scholte, R.H.J.",
+   "Popma, A.",
+   "Otten, R."
+  ],
+  "title": "Validity of the Empatica E4 Wristband to Measure Heart Rate Variability (HRV) Parameters: a Comparison to Electrocardiography (ECG)",
+  "journal": "J Med Syst",
+  "journal_full": "Journal of Medical Systems",
+  "year": 2020,
+  "volume": "44",
+  "issue": "11",
+  "page": "190",
+  "type": "journal-article",
+  "publisher": "Springer Science and Business Media LLC"
+ },
+ "lipponen2019": {
+  "doi": "10.1080/03091902.2019.1640306",
+  "authors": [
+   "Lipponen, J.A.",
+   "Tarvainen, M.P."
+  ],
+  "title": "A robust algorithm for heart rate variability time series artefact correction using novel beat classification",
+  "journal": "Journal of Medical Engineering & Technology",
+  "journal_full": "Journal of Medical Engineering & Technology",
+  "year": 2019,
+  "volume": "43",
+  "issue": "3",
+  "page": "173-181",
+  "type": "journal-article",
+  "publisher": "Informa UK Limited"
+ },
+ "shaffer2017": {
+  "doi": "10.3389/fpubh.2017.00258",
+  "authors": [
+   "Shaffer, F.",
+   "Ginsberg, J.P."
+  ],
+  "title": "An Overview of Heart Rate Variability Metrics and Norms",
+  "journal": "Front. Public Health",
+  "journal_full": "Frontiers in Public Health",
+  "year": 2017,
+  "volume": "5",
+  "issue": "",
+  "page": "258",
+  "type": "journal-article",
+  "publisher": "Frontiers Media SA"
+ },
+ "kulic2007": {
+  "doi": "10.1109/TRO.2007.904899",
+  "authors": [
+   "Kulic, D.",
+   "Croft, E.A."
+  ],
+  "title": "Affective State Estimation for Human–Robot Interaction",
+  "journal": "IEEE Trans. Robot.",
+  "journal_full": "IEEE Transactions on Robotics",
+  "year": 2007,
+  "volume": "23",
+  "issue": "5",
+  "page": "991-1000",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ "arai2010": {
+  "doi": "10.1016/j.cirp.2010.03.043",
+  "authors": [
+   "Arai, T.",
+   "Kato, R.",
+   "Fujita, M."
+  ],
+  "title": "Assessment of operator stress induced by robot collaboration in assembly",
+  "journal": "CIRP Annals",
+  "journal_full": "CIRP Annals",
+  "year": 2010,
+  "volume": "59",
+  "issue": "1",
+  "page": "5-8",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "byrne1996": {
+  "doi": "10.1016/0301-0511(95)05161-9",
+  "authors": [
+   "Byrne, E.A.",
+   "Parasuraman, R."
+  ],
+  "title": "Psychophysiology and adaptive automation",
+  "journal": "Biological Psychology",
+  "journal_full": "Biological Psychology",
+  "year": 1996,
+  "volume": "42",
+  "issue": "3",
+  "page": "249-268",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "heard2018": {
+  "doi": "10.1109/THMS.2017.2782483",
+  "authors": [
+   "Heard, J.",
+   "Harriott, C.E.",
+   "Adams, J.A."
+  ],
+  "title": "A survey of workload assessment algorithms",
+  "journal": "IEEE Trans. Human-Mach. Syst.",
+  "journal_full": "IEEE Transactions on Human-Machine Systems",
+  "year": 2018,
+  "volume": "48",
+  "issue": "5",
+  "page": "434-451",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ "spr2012": {
+  "doi": "10.1111/j.1469-8986.2012.01384.x",
+  "authors": [
+   "Society for Psychophysiological Research Ad Hoc Committee on Electrodermal Measures"
+  ],
+  "title": "Publication recommendations for electrodermal measurements",
+  "journal": "Psychophysiology",
+  "journal_full": "Psychophysiology",
+  "year": 2012,
+  "volume": "49",
+  "issue": "8",
+  "page": "1017-1034",
+  "type": "journal-article",
+  "publisher": "Wiley"
+ },
+ "charlton2022": {
+  "doi": "10.1109/JPROC.2022.3149785",
+  "authors": [
+   "Charlton, P.H.",
+   "Kyriacou, P.A.",
+   "Mant, J.",
+   "Marozas, V.",
+   "Chowienczyk, P.",
+   "Alastruey, J."
+  ],
+  "title": "Wearable Photoplethysmography for Cardiovascular Monitoring",
+  "journal": "Proc. IEEE",
+  "journal_full": "Proceedings of the IEEE",
+  "year": 2022,
+  "volume": "110",
+  "issue": "3",
+  "page": "355-381",
+  "type": "journal-article",
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)"
+ },
+ "reiss2019": {
+  "doi": "10.3390/s19143079",
+  "authors": [
+   "Reiss, A.",
+   "Indlekofer, I.",
+   "Schmidt, P.",
+   "Van Laerhoven, K."
+  ],
+  "title": "Deep PPG: Large-Scale Heart Rate Estimation with Convolutional Neural Networks",
+  "journal": "Sensors",
+  "journal_full": "Sensors",
+  "year": 2019,
+  "volume": "19",
+  "issue": "14",
+  "page": "3079",
+  "type": "journal-article",
+  "publisher": "MDPI AG"
+ },
+ "hopko2022": {
+  "doi": "10.3389/frobt.2022.799522",
+  "authors": [
+   "Hopko, S.",
+   "Wang, J.",
+   "Mehta, R."
+  ],
+  "title": "Human Factors Considerations and Metrics in Shared Space Human-Robot Collaboration: A Systematic Review",
+  "journal": "Front. Robot. AI",
+  "journal_full": "Frontiers in Robotics and AI",
+  "year": 2022,
+  "volume": "9",
+  "issue": "",
+  "page": "799522",
+  "type": "journal-article",
+  "publisher": "Frontiers Media SA"
+ },
+ "landi2018": {
+  "doi": "10.1016/j.mechatronics.2018.07.012",
+  "authors": [
+   "Landi, C.T.",
+   "Villani, V.",
+   "Ferraguti, F.",
+   "Sabattini, L.",
+   "Secchi, C.",
+   "Fantuzzi, C."
+  ],
+  "title": "Relieving operators’ workload: Towards affective robotics in industrial scenarios",
+  "journal": "Mechatronics",
+  "journal_full": "Mechatronics",
+  "year": 2018,
+  "volume": "54",
+  "issue": "",
+  "page": "144-154",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "munoz2015": {
+  "doi": "10.1371/journal.pone.0138921",
+  "authors": [
+   "Munoz, M.L.",
+   "van Roon, A.",
+   "Riese, H.",
+   "Thio, C.",
+   "Oostenbroek, E.",
+   "Westrik, I.",
+   "de Geus, E.J.C.",
+   "Gansevoort, R.",
+   "Lefrandt, J.",
+   "Nolte, I.M.",
+   "Snieder, H."
+  ],
+  "title": "Validity of (Ultra-)Short Recordings for Heart Rate Variability Measurements",
+  "journal": "PLoS ONE",
+  "journal_full": "PLOS ONE",
+  "year": 2015,
+  "volume": "10",
+  "issue": "9",
+  "page": "e0138921",
+  "type": "journal-article",
+  "publisher": "Public Library of Science (PLoS)"
+ },
+ "vandooren2012": {
+  "doi": "10.1016/j.physbeh.2012.01.020",
+  "authors": [
+   "van Dooren, M.",
+   "de Vries, J.J.G.G.J.",
+   "Janssen, J.H."
+  ],
+  "title": "Emotional sweating across the body: Comparing 16 different skin conductance measurement locations",
+  "journal": "Physiology & Behavior",
+  "journal_full": "Physiology & Behavior",
+  "year": 2012,
+  "volume": "106",
+  "issue": "2",
+  "page": "298-304",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "matuz2021": {
+  "doi": "10.1371/journal.pone.0238670",
+  "authors": [
+   "Matuz, A.",
+   "van der Linden, D.",
+   "Kisander, Z.",
+   "Hernádi, I.",
+   "Kázmér, K.",
+   "Csathó, Á."
+  ],
+  "title": "Enhanced cardiac vagal tone in mental fatigue: Analysis of heart rate variability in Time-on-Task, recovery, and reactivity",
+  "journal": "PLoS ONE",
+  "journal_full": "PLOS ONE",
+  "year": 2021,
+  "volume": "16",
+  "issue": "3",
+  "page": "e0238670",
+  "type": "journal-article",
+  "publisher": "Public Library of Science (PLoS)"
+ },
+ "white2023": {
+  "doi": "10.3390/s23136077",
+  "authors": [
+   "White, J.",
+   "Power, S.D."
+  ],
+  "title": "k-Fold Cross-Validation Can Significantly Over-Estimate True Classification Accuracy in Common EEG-Based Passive BCI Experimental Designs: An Empirical Investigation",
+  "journal": "Sensors",
+  "journal_full": "Sensors",
+  "year": 2023,
+  "volume": "23",
+  "issue": "13",
+  "page": "6077",
+  "type": "journal-article",
+  "publisher": "MDPI AG"
+ },
+ "christensen2012": {
+  "doi": "10.1016/j.neuroimage.2011.07.091",
+  "authors": [
+   "Christensen, J.C.",
+   "Estepp, J.R.",
+   "Wilson, G.F.",
+   "Russell, C.A."
+  ],
+  "title": "The effects of day-to-day variability of physiological data on operator functional state classification",
+  "journal": "NeuroImage",
+  "journal_full": "NeuroImage",
+  "year": 2012,
+  "volume": "59",
+  "issue": "1",
+  "page": "57-63",
+  "type": "journal-article",
+  "publisher": "Elsevier BV"
+ },
+ "brouwer2015": {
+  "doi": "10.3389/fnins.2015.00136",
+  "authors": [
+   "Brouwer, A.M.",
+   "Zander, T.O.",
+   "van Erp, J.B.F.",
+   "Korteling, J.E.",
+   "Bronkhorst, A.W."
+  ],
+  "title": "Using neurophysiological signals that reflect cognitive or affective state: six recommendations to avoid common pitfalls",
+  "journal": "Front. Neurosci.",
+  "journal_full": "Frontiers in Neuroscience",
+  "year": 2015,
+  "volume": "9",
+  "issue": "",
+  "page": "136",
+  "type": "journal-article",
+  "publisher": "Frontiers Media SA"
+ }
+}

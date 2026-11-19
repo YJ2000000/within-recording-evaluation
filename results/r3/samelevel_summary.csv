@@ -1,0 +1,25 @@
+dataset,group,distance,auc,ci,n
+MultiPhysio-HRC day 2,cardiac,adjacent,0.5566847400850362,"[0.534, 0.579]",42
+MultiPhysio-HRC day 2,cardiac,two or more apart,0.6117581546292349,"[0.581, 0.645]",42
+MultiPhysio-HRC day 2,eda,adjacent,0.7517230211762549,"[0.719, 0.783]",42
+MultiPhysio-HRC day 2,eda,two or more apart,0.8289113285786416,"[0.794, 0.862]",42
+MultiPhysio-HRC day 2,resp,adjacent,0.5450212204124202,"[0.525, 0.566]",42
+MultiPhysio-HRC day 2,resp,two or more apart,0.5699198844515023,"[0.537, 0.605]",42
+WESAD_CHEST,cardiac,about 40 min apart,0.6120862995921393,"[0.518, 0.705]",15
+WESAD_CHEST,eda,about 40 min apart,0.918729965792338,"[0.825, 0.995]",15
+WESAD_CHEST,temp,about 40 min apart,0.979175338189386,"[0.96, 0.996]",15
+WESAD_WRIST,cardiac,about 40 min apart,0.571159487243891,"[0.449, 0.676]",10
+WESAD_WRIST,eda,about 40 min apart,0.9161333799801453,"[0.85, 0.971]",15
+WESAD_WRIST,temp,about 40 min apart,0.9229586039446459,"[0.818, 0.989]",15
+ds007554,cardiac,repetition 1 apart,0.6381765116807853,"[0.597, 0.683]",27
+ds007554,cardiac,repetition 2 apart,0.6998070962568004,"[0.644, 0.756]",26
+MultiPhysio-HRC day 2,cardiac,all pairs,0.5877765354516524,"[0.562, 0.614]",42
+MultiPhysio-HRC day 2,eda,all pairs,0.7950347117986004,"[0.764, 0.824]",42
+MultiPhysio-HRC day 2,resp,all pairs,0.5591709702936674,"[0.535, 0.586]",42
+WESAD_CHEST,cardiac,all pairs,0.6120862995921393,"[0.507, 0.703]",15
+WESAD_CHEST,eda,all pairs,0.918729965792338,"[0.835, 0.995]",15
+WESAD_CHEST,temp,all pairs,0.979175338189386,"[0.96, 0.995]",15
+WESAD_WRIST,cardiac,all pairs,0.571159487243891,"[0.45, 0.669]",10
+WESAD_WRIST,eda,all pairs,0.9161333799801453,"[0.843, 0.974]",15
+WESAD_WRIST,temp,all pairs,0.9229586039446459,"[0.817, 0.99]",15
+ds007554,cardiac,all pairs,0.6593336417580284,"[0.619, 0.704]",27

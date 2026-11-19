@@ -1,0 +1,20 @@
+dataset,quantity,estimate,lo,hi,n,share_negative,note
+COGBCI,difficulty effect on HR (bpm),2.0841905437007813,1.1436195860874576,3.0247615013141047,29,,
+UNIVERSE,difficulty effect on HR (bpm),-0.2069689446987894,-1.69480282711173,1.280864937714151,24,,
+UNIVERSE,within-session drift of task blocks (bpm/h),-2.7266878034364477,-5.214860555666586,-1.4457942019410566,46,0.8043478260869565,"median, IQR across sessions"
+UNIVERSE,within-session drift of task blocks (deg C/h),-0.7984728733019175,-1.2708828434761432,-0.13710114681665236,46,0.8478260869565217,"median, IQR across sessions"
+UNIVERSE,within-session drift of task blocks (uS/h),0.033262637073296256,-0.06714985935426505,0.23804375228693456,46,0.391304347826087,"median, IQR across sessions"
+COGBCI,rest windows per person-session (median),7.0,,,87,,
+COGBCI,"resting HR SD (bpm, median over person-sessions)",2.5372977621628534,1.6044747715962406,3.713653194154685,87,,
+UNIVERSE,rest windows per person-session (median),58.0,,,46,,
+UNIVERSE,"resting HR SD (bpm, median over person-sessions)",2.7570924007572355,2.196664868560324,3.348750502617256,46,,
+MPHRC,rest windows per person-session (median),10.0,,,93,,
+MPHRC,"resting HR SD (bpm, median over person-sessions)",3.14309444265648,2.0252916871231967,3.9308351067593517,93,,
+MAUS_ECG,rest windows per person-session (median),28.0,,,21,,
+MAUS_ECG,"resting HR SD (bpm, median over person-sessions)",2.626635569389365,2.1828388686008497,3.4152602250226693,21,,
+WESAD_CHEST,rest windows per person-session (median),116.0,,,15,,
+WESAD_CHEST,"resting HR SD (bpm, median over person-sessions)",3.1982905644787056,2.9589518218156687,4.471737327664635,15,,
+SENSECOBOT_LAB,rest windows per person-session (median),12.0,,,20,,
+SENSECOBOT_LAB,"resting HR SD (bpm, median over person-sessions)",1.9640945602351008,1.6342296340198728,2.6441940947502034,20,,
+COGWEAR_E4,rest windows per person-session (median),16.0,,,35,,
+COGWEAR_E4,"resting HR SD (bpm, median over person-sessions)",2.005972226802719,1.3995088625082444,3.292290687929694,35,,

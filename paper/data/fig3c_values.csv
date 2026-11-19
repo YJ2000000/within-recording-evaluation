@@ -1,0 +1,8 @@
+row,auc,lo,hi
+"MAUS · finger EDA (two 0-, 2- or 3-back blocks)",0.8186742424242425,0.747,0.887
+MAUS · wrist PPG cardiac,0.6499242424242424,0.589,0.708
+MAUS · torso ECG cardiac,0.6253030303030301,0.557,0.692
+"ds007554 · chest ECG, adjacent repetitions",0.610456135708661,0.565,0.657
+"ds007554 · chest ECG, adjacent repetitions, 1-min gap",0.5794351615462727,0.512,0.642
+"ds007554 · chest ECG, repetitions two apart",0.6773241909605546,0.617,0.738
+"ds007554 · chest ECG, repetitions two apart, 1-min gap",0.6166996336996337,0.526,0.699

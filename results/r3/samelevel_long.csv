@@ -1,0 +1,2536 @@
+dataset,pid,group,distance,auc
+ds007554,sub-001,cardiac,repetition 1 apart,0.47337278106508873
+ds007554,sub-001,cardiac,repetition 2 apart,0.680473372781065
+ds007554,sub-001,cardiac,repetition 1 apart,0.6863905325443787
+ds007554,sub-001,cardiac,repetition 1 apart,1.0
+ds007554,sub-001,cardiac,repetition 1 apart,0.6272189349112426
+ds007554,sub-001,cardiac,repetition 2 apart,0.9526627218934911
+ds007554,sub-001,cardiac,repetition 1 apart,0.9763313609467454
+ds007554,sub-001,cardiac,repetition 1 apart,0.6923076923076923
+ds007554,sub-001,cardiac,repetition 2 apart,0.2485207100591716
+ds007554,sub-001,cardiac,repetition 1 apart,0.4497041420118343
+ds007554,sub-001,cardiac,repetition 1 apart,1.0
+ds007554,sub-001,cardiac,repetition 2 apart,0.9585798816568047
+ds007554,sub-001,cardiac,repetition 1 apart,0.8461538461538461
+ds007554,sub-001,cardiac,repetition 1 apart,1.0
+ds007554,sub-001,cardiac,repetition 2 apart,0.9822485207100592
+ds007554,sub-001,cardiac,repetition 1 apart,0.6213017751479291
+ds007554,sub-001,cardiac,repetition 1 apart,0.5798816568047337
+ds007554,sub-001,cardiac,repetition 2 apart,0.6863905325443787
+ds007554,sub-001,cardiac,repetition 1 apart,0.4674556213017751
+ds007554,sub-002,cardiac,repetition 1 apart,0.49112426035502954
+ds007554,sub-002,cardiac,repetition 2 apart,0.668639053254438
+ds007554,sub-002,cardiac,repetition 1 apart,0.5502958579881656
+ds007554,sub-002,cardiac,repetition 1 apart,0.863905325443787
+ds007554,sub-002,cardiac,repetition 2 apart,0.2899408284023669
+ds007554,sub-002,cardiac,repetition 1 apart,0.6893491124260355
+ds007554,sub-002,cardiac,repetition 1 apart,0.02958579881656803
+ds007554,sub-002,cardiac,repetition 2 apart,0.6213017751479291
+ds007554,sub-002,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-002,cardiac,repetition 1 apart,0.7869822485207101
+ds007554,sub-002,cardiac,repetition 2 apart,0.8402366863905326
+ds007554,sub-002,cardiac,repetition 1 apart,0.6331360946745562
+ds007554,sub-002,cardiac,repetition 1 apart,0.9171597633136095
+ds007554,sub-002,cardiac,repetition 2 apart,0.9704142011834319
+ds007554,sub-002,cardiac,repetition 1 apart,0.6568047337278108
+ds007554,sub-002,cardiac,repetition 1 apart,0.46153846153846145
+ds007554,sub-002,cardiac,repetition 2 apart,0.40828402366863903
+ds007554,sub-002,cardiac,repetition 1 apart,0.6153846153846154
+ds007554,sub-002,cardiac,repetition 1 apart,0.7988165680473372
+ds007554,sub-003,cardiac,repetition 1 apart,0.5621301775147929
+ds007554,sub-003,cardiac,repetition 2 apart,0.3609467455621302
+ds007554,sub-003,cardiac,repetition 1 apart,0.6686390532544378
+ds007554,sub-003,cardiac,repetition 1 apart,0.8402366863905326
+ds007554,sub-003,cardiac,repetition 2 apart,0.7988165680473372
+ds007554,sub-003,cardiac,repetition 1 apart,0.44378698224852065
+ds007554,sub-003,cardiac,repetition 1 apart,1.0
+ds007554,sub-003,cardiac,repetition 2 apart,0.9408284023668639
+ds007554,sub-003,cardiac,repetition 1 apart,0.7869822485207101
+ds007554,sub-003,cardiac,repetition 1 apart,1.0
+ds007554,sub-003,cardiac,repetition 2 apart,0.8757396449704142
+ds007554,sub-003,cardiac,repetition 1 apart,0.863905325443787
+ds007554,sub-003,cardiac,repetition 1 apart,0.05917159763313608
+ds007554,sub-003,cardiac,repetition 1 apart,0.46745562130177515
+ds007554,sub-003,cardiac,repetition 1 apart,1.0
+ds007554,sub-003,cardiac,repetition 2 apart,1.0
+ds007554,sub-003,cardiac,repetition 1 apart,1.0
+ds007554,sub-004,cardiac,repetition 1 apart,0.3550295857988166
+ds007554,sub-004,cardiac,repetition 2 apart,0.8520710059171598
+ds007554,sub-004,cardiac,repetition 1 apart,0.680473372781065
+ds007554,sub-004,cardiac,repetition 1 apart,0.4437869822485207
+ds007554,sub-004,cardiac,repetition 2 apart,0.5562130177514792
+ds007554,sub-004,cardiac,repetition 1 apart,0.3668639053254438
+ds007554,sub-004,cardiac,repetition 1 apart,0.3668639053254437
+ds007554,sub-004,cardiac,repetition 2 apart,1.0
+ds007554,sub-004,cardiac,repetition 1 apart,1.0
+ds007554,sub-004,cardiac,repetition 1 apart,0.9585798816568047
+ds007554,sub-004,cardiac,repetition 2 apart,0.5739644970414202
+ds007554,sub-004,cardiac,repetition 1 apart,0.47928994082840237
+ds007554,sub-004,cardiac,repetition 1 apart,0.7218934911242604
+ds007554,sub-004,cardiac,repetition 2 apart,0.40236686390532544
+ds007554,sub-004,cardiac,repetition 1 apart,0.3668639053254438
+ds007554,sub-004,cardiac,repetition 1 apart,0.514792899408284
+ds007554,sub-004,cardiac,repetition 1 apart,0.09467455621301776
+ds007554,sub-005,cardiac,repetition 1 apart,0.5325443786982249
+ds007554,sub-005,cardiac,repetition 2 apart,0.20118343195266272
+ds007554,sub-005,cardiac,repetition 1 apart,0.8816568047337278
+ds007554,sub-005,cardiac,repetition 1 apart,0.40236686390532544
+ds007554,sub-005,cardiac,repetition 2 apart,0.6804733727810651
+ds007554,sub-005,cardiac,repetition 1 apart,0.8165680473372781
+ds007554,sub-005,cardiac,repetition 1 apart,0.8284023668639053
+ds007554,sub-005,cardiac,repetition 1 apart,0.1242603550295858
+ds007554,sub-005,cardiac,repetition 2 apart,0.3905325443786982
+ds007554,sub-005,cardiac,repetition 1 apart,0.5384615384615384
+ds007554,sub-005,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-005,cardiac,repetition 2 apart,0.3550295857988166
+ds007554,sub-005,cardiac,repetition 1 apart,0.1834319526627219
+ds007554,sub-005,cardiac,repetition 1 apart,0.39053254437869817
+ds007554,sub-005,cardiac,repetition 2 apart,0.23668639053254437
+ds007554,sub-005,cardiac,repetition 1 apart,0.46153846153846156
+ds007554,sub-005,cardiac,repetition 1 apart,0.863905325443787
+ds007554,sub-006,cardiac,repetition 1 apart,0.7988165680473372
+ds007554,sub-006,cardiac,repetition 1 apart,1.0
+ds007554,sub-006,cardiac,repetition 2 apart,1.0
+ds007554,sub-006,cardiac,repetition 1 apart,0.3727810650887574
+ds007554,sub-006,cardiac,repetition 1 apart,0.9526627218934911
+ds007554,sub-006,cardiac,repetition 2 apart,0.9763313609467457
+ds007554,sub-006,cardiac,repetition 1 apart,0.34911242603550297
+ds007554,sub-007,cardiac,repetition 1 apart,0.3727810650887574
+ds007554,sub-007,cardiac,repetition 1 apart,0.7810650887573964
+ds007554,sub-007,cardiac,repetition 2 apart,0.7337278106508877
+ds007554,sub-007,cardiac,repetition 1 apart,0.5207100591715976
+ds007554,sub-007,cardiac,repetition 1 apart,0.023668639053254434
+ds007554,sub-007,cardiac,repetition 2 apart,0.3313609467455621
+ds007554,sub-007,cardiac,repetition 1 apart,0.6627218934911243
+ds007554,sub-007,cardiac,repetition 1 apart,0.31360946745562135
+ds007554,sub-007,cardiac,repetition 2 apart,0.4556213017751479
+ds007554,sub-007,cardiac,repetition 1 apart,0.6390532544378699
+ds007554,sub-007,cardiac,repetition 1 apart,0.9822485207100591
+ds007554,sub-007,cardiac,repetition 2 apart,1.0
+ds007554,sub-007,cardiac,repetition 1 apart,0.49112426035502954
+ds007554,sub-007,cardiac,repetition 1 apart,0.3668639053254438
+ds007554,sub-007,cardiac,repetition 1 apart,1.0
+ds007554,sub-009,cardiac,repetition 1 apart,0.727810650887574
+ds007554,sub-009,cardiac,repetition 2 apart,0.3136094674556213
+ds007554,sub-009,cardiac,repetition 1 apart,0.3727810650887574
+ds007554,sub-009,cardiac,repetition 1 apart,0.9053254437869823
+ds007554,sub-009,cardiac,repetition 2 apart,0.8757396449704142
+ds007554,sub-009,cardiac,repetition 1 apart,0.514792899408284
+ds007554,sub-009,cardiac,repetition 1 apart,0.3609467455621302
+ds007554,sub-009,cardiac,repetition 2 apart,0.4615384615384616
+ds007554,sub-009,cardiac,repetition 1 apart,0.3727810650887574
+ds007554,sub-009,cardiac,repetition 1 apart,0.9763313609467457
+ds007554,sub-009,cardiac,repetition 2 apart,1.0
+ds007554,sub-009,cardiac,repetition 1 apart,0.5562130177514792
+ds007554,sub-009,cardiac,repetition 1 apart,0.9585798816568047
+ds007554,sub-009,cardiac,repetition 2 apart,0.8816568047337279
+ds007554,sub-009,cardiac,repetition 1 apart,0.1952662721893491
+ds007554,sub-009,cardiac,repetition 1 apart,0.7337278106508875
+ds007554,sub-009,cardiac,repetition 2 apart,0.20118343195266272
+ds007554,sub-009,cardiac,repetition 1 apart,0.6331360946745562
+ds007554,sub-009,cardiac,repetition 1 apart,0.7810650887573964
+ds007554,sub-009,cardiac,repetition 2 apart,0.9408284023668638
+ds007554,sub-009,cardiac,repetition 1 apart,0.4733727810650888
+ds007554,sub-010,cardiac,repetition 1 apart,0.3905325443786982
+ds007554,sub-010,cardiac,repetition 2 apart,0.7218934911242605
+ds007554,sub-010,cardiac,repetition 1 apart,0.47337278106508873
+ds007554,sub-010,cardiac,repetition 1 apart,0.49112426035502954
+ds007554,sub-010,cardiac,repetition 2 apart,0.7041420118343196
+ds007554,sub-010,cardiac,repetition 1 apart,0.6804733727810651
+ds007554,sub-010,cardiac,repetition 1 apart,0.16568047337278105
+ds007554,sub-010,cardiac,repetition 2 apart,0.3136094674556213
+ds007554,sub-010,cardiac,repetition 1 apart,0.4437869822485207
+ds007554,sub-010,cardiac,repetition 1 apart,0.5798816568047338
+ds007554,sub-010,cardiac,repetition 2 apart,1.0
+ds007554,sub-010,cardiac,repetition 1 apart,1.0
+ds007554,sub-010,cardiac,repetition 1 apart,0.5680473372781065
+ds007554,sub-010,cardiac,repetition 2 apart,0.7988165680473372
+ds007554,sub-010,cardiac,repetition 1 apart,0.7159763313609468
+ds007554,sub-010,cardiac,repetition 1 apart,0.46745562130177515
+ds007554,sub-010,cardiac,repetition 2 apart,0.6153846153846154
+ds007554,sub-010,cardiac,repetition 1 apart,0.3668639053254438
+ds007554,sub-010,cardiac,repetition 1 apart,0.1834319526627219
+ds007554,sub-011,cardiac,repetition 1 apart,0.3668639053254438
+ds007554,sub-011,cardiac,repetition 2 apart,0.7751479289940828
+ds007554,sub-011,cardiac,repetition 1 apart,0.5976331360946745
+ds007554,sub-011,cardiac,repetition 1 apart,0.21893491124260356
+ds007554,sub-011,cardiac,repetition 2 apart,0.011834319526627212
+ds007554,sub-011,cardiac,repetition 1 apart,0.6153846153846154
+ds007554,sub-011,cardiac,repetition 1 apart,0.38461538461538464
+ds007554,sub-011,cardiac,repetition 2 apart,0.2603550295857988
+ds007554,sub-011,cardiac,repetition 1 apart,0.46153846153846156
+ds007554,sub-011,cardiac,repetition 1 apart,0.3668639053254438
+ds007554,sub-011,cardiac,repetition 2 apart,0.7337278106508875
+ds007554,sub-011,cardiac,repetition 1 apart,0.24852071005917156
+ds007554,sub-011,cardiac,repetition 1 apart,0.17159763313609466
+ds007554,sub-011,cardiac,repetition 2 apart,0.2603550295857988
+ds007554,sub-011,cardiac,repetition 1 apart,0.7810650887573964
+ds007554,sub-011,cardiac,repetition 1 apart,0.272189349112426
+ds007554,sub-011,cardiac,repetition 2 apart,0.9822485207100591
+ds007554,sub-011,cardiac,repetition 1 apart,0.9408284023668639
+ds007554,sub-011,cardiac,repetition 1 apart,0.5325443786982248
+ds007554,sub-011,cardiac,repetition 2 apart,0.7159763313609467
+ds007554,sub-011,cardiac,repetition 1 apart,0.6272189349112427
+ds007554,sub-012,cardiac,repetition 1 apart,0.5088757396449703
+ds007554,sub-012,cardiac,repetition 2 apart,0.5857988165680473
+ds007554,sub-012,cardiac,repetition 1 apart,0.5502958579881656
+ds007554,sub-012,cardiac,repetition 1 apart,1.0
+ds007554,sub-012,cardiac,repetition 2 apart,0.9467455621301776
+ds007554,sub-012,cardiac,repetition 1 apart,0.6568047337278108
+ds007554,sub-013,cardiac,repetition 1 apart,0.8698224852071006
+ds007554,sub-013,cardiac,repetition 1 apart,0.7692307692307692
+ds007554,sub-013,cardiac,repetition 2 apart,0.2781065088757396
+ds007554,sub-013,cardiac,repetition 1 apart,0.08875739644970415
+ds007554,sub-013,cardiac,repetition 1 apart,0.3313609467455621
+ds007554,sub-013,cardiac,repetition 2 apart,0.6035502958579881
+ds007554,sub-013,cardiac,repetition 1 apart,0.4970414201183432
+ds007554,sub-014,cardiac,repetition 1 apart,0.9615384615384616
+ds007554,sub-014,cardiac,repetition 1 apart,1.0
+ds007554,sub-014,cardiac,repetition 1 apart,0.6923076923076923
+ds007554,sub-015,cardiac,repetition 1 apart,0.5029585798816568
+ds007554,sub-015,cardiac,repetition 1 apart,0.7218934911242604
+ds007554,sub-015,cardiac,repetition 2 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,1.0
+ds007554,sub-015,cardiac,repetition 2 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,0.7810650887573964
+ds007554,sub-015,cardiac,repetition 1 apart,0.757396449704142
+ds007554,sub-015,cardiac,repetition 2 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,0.9940828402366865
+ds007554,sub-015,cardiac,repetition 2 apart,1.0
+ds007554,sub-015,cardiac,repetition 1 apart,1.0
+ds007554,sub-016,cardiac,repetition 1 apart,0.8165680473372781
+ds007554,sub-016,cardiac,repetition 2 apart,1.0
+ds007554,sub-016,cardiac,repetition 1 apart,1.0
+ds007554,sub-016,cardiac,repetition 1 apart,0.39053254437869817
+ds007554,sub-016,cardiac,repetition 2 apart,0.9467455621301775
+ds007554,sub-016,cardiac,repetition 1 apart,0.8224852071005917
+ds007554,sub-016,cardiac,repetition 1 apart,1.0
+ds007554,sub-016,cardiac,repetition 2 apart,0.7455621301775148
+ds007554,sub-016,cardiac,repetition 1 apart,0.8698224852071006
+ds007554,sub-016,cardiac,repetition 1 apart,0.893491124260355
+ds007554,sub-016,cardiac,repetition 2 apart,0.9408284023668639
+ds007554,sub-016,cardiac,repetition 1 apart,0.8875739644970413
+ds007554,sub-016,cardiac,repetition 1 apart,0.9940828402366865
+ds007554,sub-016,cardiac,repetition 2 apart,0.9644970414201184
+ds007554,sub-016,cardiac,repetition 1 apart,0.378698224852071
+ds007554,sub-016,cardiac,repetition 1 apart,0.8579881656804733
+ds007554,sub-016,cardiac,repetition 2 apart,0.7100591715976332
+ds007554,sub-016,cardiac,repetition 1 apart,0.8224852071005917
+ds007554,sub-016,cardiac,repetition 1 apart,0.9940828402366865
+ds007554,sub-017,cardiac,repetition 1 apart,0.650887573964497
+ds007554,sub-017,cardiac,repetition 2 apart,0.7278106508875739
+ds007554,sub-017,cardiac,repetition 1 apart,0.40828402366863903
+ds007554,sub-017,cardiac,repetition 1 apart,1.0
+ds007554,sub-017,cardiac,repetition 2 apart,0.9822485207100591
+ds007554,sub-017,cardiac,repetition 1 apart,0.08284023668639051
+ds007554,sub-017,cardiac,repetition 1 apart,0.5266272189349113
+ds007554,sub-017,cardiac,repetition 2 apart,0.8520710059171598
+ds007554,sub-017,cardiac,repetition 1 apart,0.6982248520710059
+ds007554,sub-017,cardiac,repetition 1 apart,0.8106508875739645
+ds007554,sub-017,cardiac,repetition 1 apart,1.0
+ds007554,sub-017,cardiac,repetition 1 apart,0.17751479289940827
+ds007554,sub-017,cardiac,repetition 2 apart,0.5917159763313609
+ds007554,sub-017,cardiac,repetition 1 apart,0.23076923076923075
+ds007554,sub-018,cardiac,repetition 1 apart,0.7928994082840237
+ds007554,sub-018,cardiac,repetition 1 apart,0.5384615384615385
+ds007554,sub-018,cardiac,repetition 2 apart,0.8816568047337278
+ds007554,sub-018,cardiac,repetition 1 apart,0.7633136094674557
+ds007554,sub-018,cardiac,repetition 1 apart,0.7455621301775148
+ds007554,sub-018,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-018,cardiac,repetition 1 apart,0.834319526627219
+ds007554,sub-018,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-018,cardiac,repetition 2 apart,0.5029585798816568
+ds007554,sub-018,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-019,cardiac,repetition 1 apart,0.5680473372781065
+ds007554,sub-019,cardiac,repetition 2 apart,0.7810650887573964
+ds007554,sub-019,cardiac,repetition 1 apart,0.42011834319526625
+ds007554,sub-019,cardiac,repetition 1 apart,0.05325443786982245
+ds007554,sub-019,cardiac,repetition 2 apart,0.9526627218934911
+ds007554,sub-019,cardiac,repetition 1 apart,1.0
+ds007554,sub-019,cardiac,repetition 1 apart,0.7396449704142012
+ds007554,sub-019,cardiac,repetition 1 apart,0.08284023668639051
+ds007554,sub-019,cardiac,repetition 2 apart,0.7928994082840237
+ds007554,sub-019,cardiac,repetition 1 apart,0.5680473372781065
+ds007554,sub-019,cardiac,repetition 1 apart,0.6982248520710058
+ds007554,sub-019,cardiac,repetition 1 apart,0.378698224852071
+ds007554,sub-019,cardiac,repetition 2 apart,0.17159763313609463
+ds007554,sub-019,cardiac,repetition 1 apart,0.9053254437869822
+ds007554,sub-019,cardiac,repetition 1 apart,0.07100591715976327
+ds007554,sub-019,cardiac,repetition 2 apart,0.7988165680473374
+ds007554,sub-019,cardiac,repetition 1 apart,0.3550295857988166
+ds007554,sub-020,cardiac,repetition 1 apart,0.8816568047337278
+ds007554,sub-020,cardiac,repetition 1 apart,0.5266272189349113
+ds007554,sub-020,cardiac,repetition 2 apart,0.7810650887573964
+ds007554,sub-020,cardiac,repetition 1 apart,0.7810650887573964
+ds007554,sub-020,cardiac,repetition 1 apart,0.2899408284023669
+ds007554,sub-020,cardiac,repetition 2 apart,0.5325443786982249
+ds007554,sub-020,cardiac,repetition 1 apart,0.7751479289940828
+ds007554,sub-020,cardiac,repetition 1 apart,0.7455621301775148
+ds007554,sub-020,cardiac,repetition 2 apart,0.2958579881656805
+ds007554,sub-020,cardiac,repetition 1 apart,0.26627218934911245
+ds007554,sub-020,cardiac,repetition 1 apart,0.378698224852071
+ds007554,sub-020,cardiac,repetition 1 apart,0.6863905325443787
+ds007554,sub-022,cardiac,repetition 1 apart,0.5384615384615384
+ds007554,sub-022,cardiac,repetition 2 apart,0.5384615384615384
+ds007554,sub-024,cardiac,repetition 1 apart,0.4437869822485207
+ds007554,sub-024,cardiac,repetition 2 apart,0.8875739644970415
+ds007554,sub-024,cardiac,repetition 1 apart,0.30177514792899407
+ds007554,sub-024,cardiac,repetition 1 apart,0.6923076923076923
+ds007554,sub-024,cardiac,repetition 2 apart,0.6213017751479291
+ds007554,sub-024,cardiac,repetition 1 apart,0.5976331360946745
+ds007554,sub-024,cardiac,repetition 1 apart,0.9585798816568047
+ds007554,sub-024,cardiac,repetition 2 apart,0.9053254437869823
+ds007554,sub-024,cardiac,repetition 1 apart,0.834319526627219
+ds007554,sub-024,cardiac,repetition 1 apart,0.11834319526627218
+ds007554,sub-024,cardiac,repetition 2 apart,0.06508875739644969
+ds007554,sub-024,cardiac,repetition 1 apart,0.6568047337278107
+ds007554,sub-024,cardiac,repetition 1 apart,0.8224852071005917
+ds007554,sub-024,cardiac,repetition 2 apart,0.863905325443787
+ds007554,sub-024,cardiac,repetition 1 apart,0.6035502958579881
+ds007554,sub-024,cardiac,repetition 1 apart,0.5088757396449703
+ds007554,sub-024,cardiac,repetition 2 apart,0.8698224852071007
+ds007554,sub-024,cardiac,repetition 1 apart,0.8402366863905325
+ds007554,sub-025,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-025,cardiac,repetition 2 apart,0.8579881656804733
+ds007554,sub-025,cardiac,repetition 1 apart,0.5384615384615384
+ds007554,sub-025,cardiac,repetition 1 apart,0.9230769230769231
+ds007554,sub-025,cardiac,repetition 2 apart,0.9940828402366864
+ds007554,sub-025,cardiac,repetition 1 apart,0.757396449704142
+ds007554,sub-025,cardiac,repetition 1 apart,0.7337278106508875
+ds007554,sub-025,cardiac,repetition 2 apart,0.6745562130177514
+ds007554,sub-025,cardiac,repetition 1 apart,0.8639053254437871
+ds007554,sub-025,cardiac,repetition 1 apart,0.4852071005917159
+ds007554,sub-025,cardiac,repetition 2 apart,0.43195266272189353
+ds007554,sub-025,cardiac,repetition 1 apart,0.8165680473372781
+ds007554,sub-025,cardiac,repetition 1 apart,0.8165680473372781
+ds007554,sub-025,cardiac,repetition 2 apart,0.485207100591716
+ds007554,sub-025,cardiac,repetition 1 apart,0.2248520710059172
+ds007554,sub-025,cardiac,repetition 1 apart,0.8875739644970414
+ds007554,sub-025,cardiac,repetition 2 apart,0.9763313609467456
+ds007554,sub-025,cardiac,repetition 1 apart,0.6035502958579881
+ds007554,sub-025,cardiac,repetition 1 apart,0.9526627218934911
+ds007554,sub-025,cardiac,repetition 2 apart,0.514792899408284
+ds007554,sub-025,cardiac,repetition 1 apart,0.9644970414201184
+ds007554,sub-026,cardiac,repetition 1 apart,0.3905325443786982
+ds007554,sub-026,cardiac,repetition 2 apart,0.7159763313609467
+ds007554,sub-026,cardiac,repetition 1 apart,0.6153846153846154
+ds007554,sub-026,cardiac,repetition 1 apart,0.455621301775148
+ds007554,sub-026,cardiac,repetition 2 apart,0.9644970414201184
+ds007554,sub-026,cardiac,repetition 1 apart,1.0
+ds007554,sub-026,cardiac,repetition 1 apart,0.8106508875739645
+ds007554,sub-026,cardiac,repetition 2 apart,0.4260355029585799
+ds007554,sub-026,cardiac,repetition 1 apart,0.6923076923076923
+ds007554,sub-026,cardiac,repetition 1 apart,0.5798816568047337
+ds007554,sub-026,cardiac,repetition 2 apart,0.7514792899408284
+ds007554,sub-026,cardiac,repetition 1 apart,0.5798816568047337
+ds007554,sub-026,cardiac,repetition 1 apart,0.8224852071005917
+ds007554,sub-026,cardiac,repetition 2 apart,0.8047337278106509
+ds007554,sub-026,cardiac,repetition 1 apart,1.0
+ds007554,sub-026,cardiac,repetition 1 apart,0.1893491124260355
+ds007554,sub-026,cardiac,repetition 2 apart,0.8994082840236687
+ds007554,sub-026,cardiac,repetition 1 apart,0.6331360946745562
+ds007554,sub-026,cardiac,repetition 1 apart,1.0
+ds007554,sub-027,cardiac,repetition 1 apart,0.7366863905325444
+ds007554,sub-027,cardiac,repetition 2 apart,0.8609467455621302
+ds007554,sub-027,cardiac,repetition 1 apart,0.742603550295858
+ds007554,sub-027,cardiac,repetition 1 apart,0.9881656804733727
+ds007554,sub-027,cardiac,repetition 2 apart,1.0
+ds007554,sub-027,cardiac,repetition 1 apart,0.20118343195266272
+ds007554,sub-027,cardiac,repetition 1 apart,0.9763313609467454
+ds007554,sub-027,cardiac,repetition 2 apart,0.9940828402366865
+ds007554,sub-027,cardiac,repetition 1 apart,0.7869822485207101
+ds007554,sub-027,cardiac,repetition 1 apart,0.9171597633136095
+ds007554,sub-027,cardiac,repetition 2 apart,0.5207100591715976
+ds007554,sub-027,cardiac,repetition 1 apart,0.6331360946745562
+ds007554,sub-027,cardiac,repetition 1 apart,1.0
+ds007554,sub-027,cardiac,repetition 2 apart,1.0
+ds007554,sub-027,cardiac,repetition 1 apart,0.8047337278106509
+ds007554,sub-027,cardiac,repetition 1 apart,0.5502958579881657
+ds007554,sub-027,cardiac,repetition 2 apart,1.0
+ds007554,sub-027,cardiac,repetition 1 apart,0.9881656804733727
+ds007554,sub-028,cardiac,repetition 1 apart,1.0
+ds007554,sub-028,cardiac,repetition 2 apart,0.8816568047337279
+ds007554,sub-028,cardiac,repetition 1 apart,0.5976331360946746
+ds007554,sub-028,cardiac,repetition 1 apart,0.4437869822485207
+ds007554,sub-028,cardiac,repetition 2 apart,0.9763313609467456
+ds007554,sub-028,cardiac,repetition 1 apart,0.9467455621301775
+ds007554,sub-028,cardiac,repetition 1 apart,0.6686390532544378
+ds007554,sub-028,cardiac,repetition 2 apart,0.7869822485207101
+ds007554,sub-028,cardiac,repetition 1 apart,0.9349112426035504
+ds007554,sub-028,cardiac,repetition 1 apart,0.9467455621301775
+ds007554,sub-028,cardiac,repetition 2 apart,0.7810650887573964
+ds007554,sub-028,cardiac,repetition 1 apart,0.6627218934911242
+ds007554,sub-028,cardiac,repetition 1 apart,0.1242603550295858
+ds007554,sub-028,cardiac,repetition 2 apart,0.3195266272189349
+ds007554,sub-028,cardiac,repetition 1 apart,0.3846153846153846
+ds007554,sub-028,cardiac,repetition 1 apart,0.0
+ds007554,sub-028,cardiac,repetition 1 apart,0.4792899408284023
+ds007554,sub-028,cardiac,repetition 2 apart,0.8165680473372782
+ds007554,sub-028,cardiac,repetition 1 apart,0.8816568047337279
+ds007554,sub-029,cardiac,repetition 1 apart,0.7810650887573964
+ds007554,sub-029,cardiac,repetition 2 apart,0.9526627218934911
+ds007554,sub-029,cardiac,repetition 1 apart,0.6863905325443787
+ds007554,sub-029,cardiac,repetition 1 apart,1.0
+ds007554,sub-029,cardiac,repetition 2 apart,0.5680473372781065
+ds007554,sub-029,cardiac,repetition 1 apart,0.2603550295857988
+ds007554,sub-029,cardiac,repetition 1 apart,0.48520710059171596
+ds007554,sub-029,cardiac,repetition 2 apart,0.8106508875739645
+ds007554,sub-029,cardiac,repetition 1 apart,0.6390532544378699
+ds007554,sub-029,cardiac,repetition 1 apart,0.6863905325443787
+ds007554,sub-029,cardiac,repetition 2 apart,0.9349112426035504
+ds007554,sub-029,cardiac,repetition 1 apart,0.7751479289940829
+ds007554,sub-029,cardiac,repetition 1 apart,0.23076923076923078
+ds007554,sub-029,cardiac,repetition 2 apart,0.08284023668639054
+ds007554,sub-029,cardiac,repetition 1 apart,0.4674556213017752
+ds007554,sub-029,cardiac,repetition 1 apart,0.9763313609467454
+ds007554,sub-029,cardiac,repetition 2 apart,0.2603550295857988
+ds007554,sub-029,cardiac,repetition 1 apart,0.4023668639053255
+ds007554,sub-030,cardiac,repetition 1 apart,0.5147928994082841
+ds007554,sub-030,cardiac,repetition 2 apart,0.7751479289940828
+ds007554,sub-030,cardiac,repetition 1 apart,0.591715976331361
+ds007554,sub-030,cardiac,repetition 1 apart,0.6390532544378698
+ds007554,sub-030,cardiac,repetition 2 apart,0.5029585798816568
+ds007554,sub-030,cardiac,repetition 1 apart,0.3372781065088758
+ds007554,sub-030,cardiac,repetition 1 apart,0.6923076923076923
+ds007554,sub-030,cardiac,repetition 2 apart,0.514792899408284
+ds007554,sub-030,cardiac,repetition 1 apart,0.5798816568047338
+ds007554,sub-030,cardiac,repetition 1 apart,0.47928994082840237
+ds007554,sub-030,cardiac,repetition 2 apart,0.7633136094674556
+ds007554,sub-030,cardiac,repetition 1 apart,0.8757396449704142
+ds007554,sub-030,cardiac,repetition 1 apart,0.6449704142011834
+ds007554,sub-030,cardiac,repetition 2 apart,0.7159763313609467
+ds007554,sub-030,cardiac,repetition 1 apart,0.4674556213017752
+ds007554,sub-030,cardiac,repetition 1 apart,0.40236686390532544
+ds007554,sub-030,cardiac,repetition 2 apart,0.8106508875739644
+ds007554,sub-030,cardiac,repetition 1 apart,0.3372781065088758
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.7121034077555818
+MultiPhysio-HRC day 2,10000,eda,adjacent,1.0
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.5405405405405406
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.5783783783783784
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.44999999999999996
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.4228934817170111
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.6454689984101749
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.13513513513513511
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.8416988416988418
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.6152173913043478
+MultiPhysio-HRC day 2,10000,eda,adjacent,0.9608695652173913
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.55
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.659846547314578
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.5677749360613811
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.6987577639751553
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.9192546583850932
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.3911764705882353
+MultiPhysio-HRC day 2,10000,eda,adjacent,1.0
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.5970588235294118
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.2357142857142857
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.8892857142857143
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.7142857142857142
+MultiPhysio-HRC day 2,10000,eda,adjacent,0.8235294117647058
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.9201680672268907
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.5558035714285714
+MultiPhysio-HRC day 2,10000,eda,adjacent,0.8253348214285714
+MultiPhysio-HRC day 2,10000,resp,adjacent,1.0
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.7633928571428571
+MultiPhysio-HRC day 2,10000,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.43124999999999997
+MultiPhysio-HRC day 2,10000,eda,two or more apart,0.75625
+MultiPhysio-HRC day 2,10000,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.675
+MultiPhysio-HRC day 2,10000,eda,two or more apart,0.7333333333333333
+MultiPhysio-HRC day 2,10000,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.625
+MultiPhysio-HRC day 2,10000,eda,adjacent,0.8375850340136055
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.7049319727891156
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.5628571428571428
+MultiPhysio-HRC day 2,10000,eda,two or more apart,0.42642857142857143
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.8342857142857143
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.5928571428571429
+MultiPhysio-HRC day 2,10000,eda,two or more apart,0.7357142857142857
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.5357142857142857
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.47047619047619055
+MultiPhysio-HRC day 2,10000,eda,adjacent,0.12380952380952381
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.4342857142857143
+MultiPhysio-HRC day 2,10000,cardiac,two or more apart,0.8507936507936509
+MultiPhysio-HRC day 2,10000,eda,two or more apart,0.7333333333333333
+MultiPhysio-HRC day 2,10000,resp,two or more apart,0.7206349206349206
+MultiPhysio-HRC day 2,10000,cardiac,adjacent,0.6
+MultiPhysio-HRC day 2,10000,eda,adjacent,0.7333333333333333
+MultiPhysio-HRC day 2,10000,resp,adjacent,0.768
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.9419642857142857
+MultiPhysio-HRC day 2,10001,eda,adjacent,1.0
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.8828125
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.8634868421052632
+MultiPhysio-HRC day 2,10001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.9292763157894737
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.8768382352941176
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.9705882352941176
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.7205882352941178
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.7544642857142857
+MultiPhysio-HRC day 2,10001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.6741071428571428
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.44548872180451127
+MultiPhysio-HRC day 2,10001,eda,adjacent,1.0
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.575187969924812
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.42016806722689076
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.9558823529411765
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.6638655462184874
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.20578231292517007
+MultiPhysio-HRC day 2,10001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.7091836734693877
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.7461300309597523
+MultiPhysio-HRC day 2,10001,eda,adjacent,0.5263157894736843
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.6625386996904025
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.8020050125313283
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.9523809523809523
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.7218045112781954
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.3753501400560224
+MultiPhysio-HRC day 2,10001,eda,adjacent,0.3165266106442577
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.49299719887955185
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.4078341013824885
+MultiPhysio-HRC day 2,10001,eda,adjacent,0.2592165898617512
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.7269585253456221
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.30107526881720426
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.11917562724014338
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.71415770609319
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.09062980030721968
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.07834101382488481
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.6697388632872503
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.30014025245441794
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.814866760168303
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.694249649368864
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.3819444444444444
+MultiPhysio-HRC day 2,10001,eda,adjacent,0.5138888888888888
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.5962301587301587
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.3418367346938775
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.45068027210884354
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.5901360544217686
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.4192546583850932
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.7096273291925466
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.6381987577639752
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.4735449735449736
+MultiPhysio-HRC day 2,10001,eda,adjacent,0.49867724867724866
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.5753968253968254
+MultiPhysio-HRC day 2,10001,cardiac,two or more apart,0.43478260869565216
+MultiPhysio-HRC day 2,10001,eda,two or more apart,0.4335748792270531
+MultiPhysio-HRC day 2,10001,resp,two or more apart,0.5797101449275363
+MultiPhysio-HRC day 2,10001,cardiac,adjacent,0.46790890269151136
+MultiPhysio-HRC day 2,10001,eda,adjacent,0.505175983436853
+MultiPhysio-HRC day 2,10001,resp,adjacent,0.6128364389233955
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.6846153846153846
+MultiPhysio-HRC day 2,1001,eda,adjacent,0.9
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.5564102564102564
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.9142011834319527
+MultiPhysio-HRC day 2,1001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.5650887573964498
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.9871794871794872
+MultiPhysio-HRC day 2,1001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.7628205128205128
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.9895104895104896
+MultiPhysio-HRC day 2,1001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.8216783216783217
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.5435897435897435
+MultiPhysio-HRC day 2,1001,eda,adjacent,0.9333333333333333
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.3076923076923077
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.8944444444444445
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.9333333333333333
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.7833333333333333
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.9393939393939394
+MultiPhysio-HRC day 2,1001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.7818181818181819
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.34615384615384615
+MultiPhysio-HRC day 2,1001,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.47435897435897434
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.46853146853146854
+MultiPhysio-HRC day 2,1001,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.6013986013986015
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.7196969696969697
+MultiPhysio-HRC day 2,1001,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.7045454545454546
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.7214285714285713
+MultiPhysio-HRC day 2,1001,eda,adjacent,0.6928571428571428
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.08928571428571429
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.59
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.6033333333333334
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.58
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.74
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.56
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.6799999999999999
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.7846153846153846
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.6230769230769231
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.7807692307692308
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.5523809523809524
+MultiPhysio-HRC day 2,1001,eda,adjacent,0.6190476190476191
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.8809523809523809
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.7095238095238094
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.680952380952381
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.9285714285714286
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.6593406593406593
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.5879120879120878
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.9230769230769231
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.5911111111111111
+MultiPhysio-HRC day 2,1001,eda,adjacent,0.5
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.2222222222222222
+MultiPhysio-HRC day 2,1001,cardiac,two or more apart,0.5333333333333333
+MultiPhysio-HRC day 2,1001,eda,two or more apart,0.5
+MultiPhysio-HRC day 2,1001,resp,two or more apart,0.717948717948718
+MultiPhysio-HRC day 2,1001,cardiac,adjacent,0.9435897435897437
+MultiPhysio-HRC day 2,1001,eda,adjacent,0.5
+MultiPhysio-HRC day 2,1001,resp,adjacent,0.4512820512820513
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.6174089068825911
+MultiPhysio-HRC day 2,1005,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.44534412955465585
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.4923076923076923
+MultiPhysio-HRC day 2,1005,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.32564102564102565
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.5295857988165681
+MultiPhysio-HRC day 2,1005,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.5591715976331361
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.3380177514792899
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.9955621301775148
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.4644970414201183
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.6491228070175439
+MultiPhysio-HRC day 2,1005,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.8280701754385966
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.805668016194332
+MultiPhysio-HRC day 2,1005,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.4696356275303644
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.6012145748987854
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.9509109311740891
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.7388663967611335
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.6256410256410256
+MultiPhysio-HRC day 2,1005,eda,adjacent,0.9282051282051282
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.9076923076923078
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.7794871794871795
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.7858974358974358
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.4262820512820512
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.9238165680473372
+MultiPhysio-HRC day 2,1005,eda,adjacent,0.8143491124260355
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.6531065088757396
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.4051383399209486
+MultiPhysio-HRC day 2,1005,eda,adjacent,0.8280632411067194
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.5158102766798419
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.8195652173913044
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.7217391304347827
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.8760869565217391
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.3623188405797102
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.6708074534161491
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.13664596273291926
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.5351170568561873
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.6354515050167224
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.35785953177257523
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.7295454545454545
+MultiPhysio-HRC day 2,1005,eda,adjacent,0.9090909090909091
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.9045454545454545
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.4913419913419913
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.8593073593073592
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.9264069264069263
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.6538461538461539
+MultiPhysio-HRC day 2,1005,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.8811188811188811
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.34047619047619043
+MultiPhysio-HRC day 2,1005,eda,adjacent,0.4
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.41666666666666663
+MultiPhysio-HRC day 2,1005,cardiac,two or more apart,0.8423076923076923
+MultiPhysio-HRC day 2,1005,eda,two or more apart,0.6807692307692308
+MultiPhysio-HRC day 2,1005,resp,two or more apart,0.55
+MultiPhysio-HRC day 2,1005,cardiac,adjacent,0.4945054945054945
+MultiPhysio-HRC day 2,1005,eda,adjacent,0.706959706959707
+MultiPhysio-HRC day 2,1005,resp,adjacent,0.6227106227106227
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.5180952380952382
+MultiPhysio-HRC day 2,1007,eda,adjacent,0.9676190476190476
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.48190476190476184
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.4305882352941177
+MultiPhysio-HRC day 2,1007,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.6823529411764707
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.4568421052631579
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.9789473684210526
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.40421052631578946
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.38352941176470584
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.9929411764705882
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.4823529411764706
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.43137254901960786
+MultiPhysio-HRC day 2,1007,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.7198879551820728
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.5538847117794486
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.9523809523809523
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.4661654135338346
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.35294117647058826
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.9635854341736694
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.546218487394958
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.6037151702786377
+MultiPhysio-HRC day 2,1007,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.6346749226006192
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.45674740484429066
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.889273356401384
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.5017301038062283
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.56656346749226
+MultiPhysio-HRC day 2,1007,eda,adjacent,0.9226006191950464
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.5789473684210527
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.5964325529542921
+MultiPhysio-HRC day 2,1007,eda,adjacent,0.5908584169453734
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.48606465997770343
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.5484330484330484
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.7834757834757834
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.4358974358974359
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.6997300944669366
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.8475033738191633
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.3427800269905533
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.7820512820512819
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.9215686274509804
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.3559577677224736
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.4710144927536233
+MultiPhysio-HRC day 2,1007,eda,adjacent,0.6642512077294686
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.4009661835748792
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.805491990846682
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.6155606407322655
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.6704805491990847
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.782608695652174
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.7800511508951407
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.36828644501278773
+MultiPhysio-HRC day 2,1007,cardiac,adjacent,0.7456140350877193
+MultiPhysio-HRC day 2,1007,eda,adjacent,0.9269005847953217
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.6900584795321638
+MultiPhysio-HRC day 2,1007,cardiac,two or more apart,0.8333333333333334
+MultiPhysio-HRC day 2,1007,eda,two or more apart,0.911764705882353
+MultiPhysio-HRC day 2,1007,resp,two or more apart,0.3464052287581699
+MultiPhysio-HRC day 2,1007,eda,adjacent,0.4922600619195046
+MultiPhysio-HRC day 2,1007,resp,adjacent,0.4643962848297214
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.3875598086124402
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.8624401913875599
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.5251196172248804
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.21745152354570638
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.4404432132963989
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.20221606648199444
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.2223684210526316
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.5276315789473685
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.20657894736842106
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.1842105263157895
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.9166666666666667
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.24561403508771928
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.23444976076555019
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.7942583732057416
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.7440191387559809
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.4
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.7522727272727272
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.7363636363636363
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.2601010101010101
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.5732323232323233
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.702020202020202
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.3605263157894737
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.5578947368421052
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.39999999999999997
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.3450292397660819
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.97953216374269
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.6111111111111112
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.3722222222222222
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.9916666666666667
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.44999999999999996
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.294973544973545
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.9894179894179894
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.75
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.8174603174603174
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.9007936507936507
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.45105820105820105
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.21565934065934067
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.9148351648351648
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.6030219780219781
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.3891625615763547
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.9766009852216748
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.4039408866995074
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.6467764060356652
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.7352537722908093
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.724965706447188
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.7991452991452992
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.39458689458689455
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.19230769230769235
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.5657726692209452
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.0574712643678161
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.6628352490421456
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.4757834757834758
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.7186609686609687
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.5263532763532764
+MultiPhysio-HRC day 2,1008,cardiac,two or more apart,0.6538952745849298
+MultiPhysio-HRC day 2,1008,eda,two or more apart,0.4195402298850574
+MultiPhysio-HRC day 2,1008,resp,two or more apart,0.23180076628352492
+MultiPhysio-HRC day 2,1008,cardiac,adjacent,0.5251989389920424
+MultiPhysio-HRC day 2,1008,eda,adjacent,0.22148541114058357
+MultiPhysio-HRC day 2,1008,resp,adjacent,0.48673740053050396
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.6530172413793103
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.9234913793103448
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.4385775862068965
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.46625000000000005
+MultiPhysio-HRC day 2,1030,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.7825
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.625
+MultiPhysio-HRC day 2,1030,eda,two or more apart,0.9791666666666666
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.7754629629629629
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.8049999999999999
+MultiPhysio-HRC day 2,1030,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.16874999999999998
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.4124137931034483
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.9903448275862069
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.623448275862069
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.41507024265644954
+MultiPhysio-HRC day 2,1030,eda,two or more apart,0.9808429118773946
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.6807151979565772
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.5365517241379311
+MultiPhysio-HRC day 2,1030,eda,two or more apart,0.9958620689655172
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.32
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.47407407407407404
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.5214814814814814
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.5837037037037037
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.5968
+MultiPhysio-HRC day 2,1030,eda,two or more apart,0.808
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.5488
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.514074074074074
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.7407407407407408
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.5540740740740742
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.6919499105545617
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.9409660107334525
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.6461538461538462
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.6070991432068543
+MultiPhysio-HRC day 2,1030,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.7600979192166463
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.7760551248923343
+MultiPhysio-HRC day 2,1030,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.8346253229974161
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.3834008097165992
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.8089068825910931
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.608502024291498
+MultiPhysio-HRC day 2,1030,cardiac,two or more apart,0.566951566951567
+MultiPhysio-HRC day 2,1030,eda,two or more apart,0.7749287749287748
+MultiPhysio-HRC day 2,1030,resp,two or more apart,0.5259259259259259
+MultiPhysio-HRC day 2,1030,cardiac,adjacent,0.3996101364522417
+MultiPhysio-HRC day 2,1030,eda,adjacent,0.3362573099415205
+MultiPhysio-HRC day 2,1030,resp,adjacent,0.6569200779727095
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.5555555555555556
+MultiPhysio-HRC day 2,1031,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.6069958847736625
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.37860082304526754
+MultiPhysio-HRC day 2,1031,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.5637860082304528
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.544973544973545
+MultiPhysio-HRC day 2,1031,eda,two or more apart,0.9788359788359788
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.4835978835978836
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.8031189083820662
+MultiPhysio-HRC day 2,1031,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.645224171539961
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.521604938271605
+MultiPhysio-HRC day 2,1031,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.4814814814814815
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.7825396825396824
+MultiPhysio-HRC day 2,1031,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.3571428571428571
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.9181286549707603
+MultiPhysio-HRC day 2,1031,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.3508771929824561
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.29999999999999993
+MultiPhysio-HRC day 2,1031,eda,adjacent,0.7174603174603175
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.6460317460317461
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.45906432748538006
+MultiPhysio-HRC day 2,1031,eda,two or more apart,0.9883040935672514
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.6578947368421053
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.6736842105263159
+MultiPhysio-HRC day 2,1031,eda,adjacent,0.30977443609022554
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.5398496240601505
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.5973292244478685
+MultiPhysio-HRC day 2,1031,eda,adjacent,0.4617360041088855
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.3846944016435542
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.7575757575757576
+MultiPhysio-HRC day 2,1031,eda,two or more apart,0.55
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.3833333333333333
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.590017825311943
+MultiPhysio-HRC day 2,1031,eda,two or more apart,0.8253119429590018
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.29946524064171126
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.7169491525423729
+MultiPhysio-HRC day 2,1031,eda,adjacent,0.40508474576271186
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.4186440677966101
+MultiPhysio-HRC day 2,1031,cardiac,two or more apart,0.5553339980059822
+MultiPhysio-HRC day 2,1031,eda,two or more apart,0.8983050847457628
+MultiPhysio-HRC day 2,1031,resp,two or more apart,0.5264207377866401
+MultiPhysio-HRC day 2,1031,cardiac,adjacent,0.5558823529411765
+MultiPhysio-HRC day 2,1031,eda,adjacent,0.8794117647058823
+MultiPhysio-HRC day 2,1031,resp,adjacent,0.6823529411764706
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.2105263157894737
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.9493177387914231
+MultiPhysio-HRC day 2,1032,resp,adjacent,0.8732943469785575
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.2768031189083821
+MultiPhysio-HRC day 2,1032,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.212962962962963
+MultiPhysio-HRC day 2,1032,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.8240740740740742
+MultiPhysio-HRC day 2,1032,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.7202216066481995
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.9778393351800554
+MultiPhysio-HRC day 2,1032,resp,adjacent,1.0
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.5736842105263158
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.9947368421052633
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.5361842105263157
+MultiPhysio-HRC day 2,1032,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.45526315789473687
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.9289473684210526
+MultiPhysio-HRC day 2,1032,resp,adjacent,1.0
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.3355263157894737
+MultiPhysio-HRC day 2,1032,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.478125
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.9874999999999999
+MultiPhysio-HRC day 2,1032,resp,adjacent,0.36562500000000003
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.5146428571428572
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.17964285714285713
+MultiPhysio-HRC day 2,1032,resp,adjacent,0.5532142857142858
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.38346774193548383
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.34798387096774197
+MultiPhysio-HRC day 2,1032,resp,two or more apart,0.4334677419354838
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.46971153846153846
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.4427884615384615
+MultiPhysio-HRC day 2,1032,resp,two or more apart,0.525
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.5177083333333333
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.7776041666666667
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.407373271889401
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.7023041474654378
+MultiPhysio-HRC day 2,1032,resp,adjacent,0.44608294930875575
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.5
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.7494505494505495
+MultiPhysio-HRC day 2,1032,resp,two or more apart,0.6945054945054946
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.4476190476190476
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.9154761904761904
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.44168734491315137
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.4466501240694789
+MultiPhysio-HRC day 2,1032,resp,adjacent,0.5173697270471465
+MultiPhysio-HRC day 2,1032,cardiac,two or more apart,0.5
+MultiPhysio-HRC day 2,1032,eda,two or more apart,0.5940860215053764
+MultiPhysio-HRC day 2,1032,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1032,cardiac,adjacent,0.4983974358974359
+MultiPhysio-HRC day 2,1032,eda,adjacent,0.5865384615384616
+MultiPhysio-HRC day 2,1032,resp,adjacent,0.9615384615384616
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.5222222222222221
+MultiPhysio-HRC day 2,1034,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.45555555555555555
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.2694444444444445
+MultiPhysio-HRC day 2,1034,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.40555555555555556
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.7250000000000001
+MultiPhysio-HRC day 2,1034,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.65
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.7727272727272727
+MultiPhysio-HRC day 2,1034,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.5590909090909091
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.19444444444444448
+MultiPhysio-HRC day 2,1034,eda,adjacent,0.9907407407407407
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.24382716049382716
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.4666666666666667
+MultiPhysio-HRC day 2,1034,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.5555555555555556
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.19191919191919193
+MultiPhysio-HRC day 2,1034,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.5353535353535354
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.5583333333333333
+MultiPhysio-HRC day 2,1034,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.2638888888888889
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.4797979797979798
+MultiPhysio-HRC day 2,1034,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.2828282828282828
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.7545454545454545
+MultiPhysio-HRC day 2,1034,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.4636363636363636
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.6961740435108776
+MultiPhysio-HRC day 2,1034,eda,adjacent,0.3983495873968492
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.4351087771942986
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.678494623655914
+MultiPhysio-HRC day 2,1034,eda,two or more apart,0.4946236559139785
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.5365591397849463
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.7946236559139785
+MultiPhysio-HRC day 2,1034,eda,two or more apart,0.6827956989247312
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.46344086021505376
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.8209677419354839
+MultiPhysio-HRC day 2,1034,eda,two or more apart,0.753225806451613
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.5112903225806452
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.6023255813953489
+MultiPhysio-HRC day 2,1034,eda,adjacent,0.5906976744186048
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.6124031007751938
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.5201550387596899
+MultiPhysio-HRC day 2,1034,eda,two or more apart,0.9085271317829458
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.5372093023255814
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.4883720930232558
+MultiPhysio-HRC day 2,1034,eda,two or more apart,0.28255813953488373
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.4162790697674419
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.41555555555555557
+MultiPhysio-HRC day 2,1034,eda,adjacent,0.7233333333333334
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.6455555555555555
+MultiPhysio-HRC day 2,1034,cardiac,two or more apart,0.25333333333333335
+MultiPhysio-HRC day 2,1034,eda,two or more apart,0.42333333333333334
+MultiPhysio-HRC day 2,1034,resp,two or more apart,0.6416666666666666
+MultiPhysio-HRC day 2,1034,cardiac,adjacent,0.49
+MultiPhysio-HRC day 2,1034,eda,adjacent,0.43333333333333335
+MultiPhysio-HRC day 2,1034,resp,adjacent,0.5316666666666667
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.8814285714285715
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.5214285714285714
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.6571428571428571
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.6583333333333334
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.7487684729064039
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.38029556650246304
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.9155844155844156
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.4701298701298701
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.8333333333333333
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.49375
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.9982758620689655
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.7913793103448276
+MultiPhysio-HRC day 2,1035,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.6954545454545455
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.9956896551724138
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.7772988505747127
+MultiPhysio-HRC day 2,1035,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.7121212121212122
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.7225705329153604
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.6818181818181819
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.7824639289678135
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.4267480577136515
+MultiPhysio-HRC day 2,1035,cardiac,two or more apart,0.9038461538461539
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.6734397677793904
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.5152394775036284
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.847877358490566
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.4492924528301887
+MultiPhysio-HRC day 2,1035,cardiac,two or more apart,0.375
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.7114779874213837
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.41509433962264153
+MultiPhysio-HRC day 2,1035,cardiac,adjacent,0.746606334841629
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.5475113122171946
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.5735294117647058
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.5487132352941176
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.5266544117647058
+MultiPhysio-HRC day 2,1035,cardiac,two or more apart,0.37254901960784315
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.34191176470588236
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.4607843137254902
+MultiPhysio-HRC day 2,1035,cardiac,adjacent,0.6586538461538461
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.16826923076923078
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.6237980769230769
+MultiPhysio-HRC day 2,1035,cardiac,two or more apart,0.6650641025641026
+MultiPhysio-HRC day 2,1035,eda,two or more apart,0.6362179487179488
+MultiPhysio-HRC day 2,1035,resp,two or more apart,0.6314102564102564
+MultiPhysio-HRC day 2,1035,cardiac,adjacent,0.5442708333333333
+MultiPhysio-HRC day 2,1035,eda,adjacent,0.3138020833333333
+MultiPhysio-HRC day 2,1035,resp,adjacent,0.40624999999999994
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.8373015873015873
+MultiPhysio-HRC day 2,1036,eda,adjacent,0.9841269841269842
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.373015873015873
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.8796296296296297
+MultiPhysio-HRC day 2,1036,eda,two or more apart,0.9814814814814815
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.5972222222222222
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.9393939393939394
+MultiPhysio-HRC day 2,1036,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.7626262626262627
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.49537037037037035
+MultiPhysio-HRC day 2,1036,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.32870370370370366
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.9226190476190476
+MultiPhysio-HRC day 2,1036,eda,adjacent,0.6309523809523809
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.5238095238095238
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.9740259740259741
+MultiPhysio-HRC day 2,1036,eda,two or more apart,0.8896103896103895
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.8051948051948051
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.6547619047619048
+MultiPhysio-HRC day 2,1036,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.39285714285714285
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.15909090909090912
+MultiPhysio-HRC day 2,1036,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.8636363636363636
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.2847222222222222
+MultiPhysio-HRC day 2,1036,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.5069444444444444
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.5681818181818181
+MultiPhysio-HRC day 2,1036,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.9090909090909091
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.6375786163522013
+MultiPhysio-HRC day 2,1036,eda,adjacent,0.7044025157232705
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.24764150943396226
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.45106132075471694
+MultiPhysio-HRC day 2,1036,eda,two or more apart,0.8295990566037736
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.42688679245283023
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.290632240979808
+MultiPhysio-HRC day 2,1036,eda,two or more apart,0.6391923204237007
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.5134061569016881
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.057291666666666685
+MultiPhysio-HRC day 2,1036,eda,adjacent,0.6236979166666666
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.31901041666666663
+MultiPhysio-HRC day 2,1036,cardiac,two or more apart,0.1030701754385965
+MultiPhysio-HRC day 2,1036,eda,two or more apart,0.1388888888888889
+MultiPhysio-HRC day 2,1036,resp,two or more apart,0.2390350877192982
+MultiPhysio-HRC day 2,1036,cardiac,adjacent,0.3733552631578947
+MultiPhysio-HRC day 2,1036,eda,adjacent,0.8766447368421052
+MultiPhysio-HRC day 2,1036,resp,adjacent,0.3815789473684211
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.7836363636363637
+MultiPhysio-HRC day 2,1037,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.5945454545454545
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.8659999999999999
+MultiPhysio-HRC day 2,1037,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.6619999999999999
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.20222222222222225
+MultiPhysio-HRC day 2,1037,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.5555555555555556
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.8818181818181817
+MultiPhysio-HRC day 2,1037,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.5381818181818181
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.6045454545454545
+MultiPhysio-HRC day 2,1037,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.3931818181818182
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.39141414141414144
+MultiPhysio-HRC day 2,1037,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.5833333333333333
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.5578512396694215
+MultiPhysio-HRC day 2,1037,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.4752066115702479
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.4861111111111111
+MultiPhysio-HRC day 2,1037,eda,adjacent,0.925
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.35833333333333334
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.2409090909090909
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.9181818181818182
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.3090909090909091
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.8030303030303031
+MultiPhysio-HRC day 2,1037,eda,adjacent,0.4797979797979798
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.4974747474747475
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.5261904761904762
+MultiPhysio-HRC day 2,1037,eda,adjacent,0.8488095238095238
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.2654761904761905
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.527891156462585
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.9891156462585033
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.5034013605442177
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.3682539682539683
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.9174603174603174
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.4063492063492064
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.43265306122448977
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.5795918367346938
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.4520408163265306
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.4543650793650793
+MultiPhysio-HRC day 2,1037,eda,adjacent,0.6150793650793651
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.5198412698412698
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.5810185185185186
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.7175925925925927
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.41666666666666663
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.40773809523809523
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.19494047619047616
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.7425595238095238
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.5026455026455027
+MultiPhysio-HRC day 2,1037,eda,adjacent,0.828042328042328
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.6455026455026456
+MultiPhysio-HRC day 2,1037,cardiac,two or more apart,0.4268707482993197
+MultiPhysio-HRC day 2,1037,eda,two or more apart,0.9897959183673469
+MultiPhysio-HRC day 2,1037,resp,two or more apart,0.5017006802721089
+MultiPhysio-HRC day 2,1037,cardiac,adjacent,0.5833333333333333
+MultiPhysio-HRC day 2,1037,eda,adjacent,0.29563492063492064
+MultiPhysio-HRC day 2,1037,resp,adjacent,0.42658730158730157
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.4814814814814815
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.8969404186795491
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.4251207729468599
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.4537037037037037
+MultiPhysio-HRC day 2,1038,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.44074074074074077
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.3192239858906526
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.8553791887125219
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.6578483245149912
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.45410628019323673
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.8357487922705313
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.6247987117552335
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.682608695652174
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.9891304347826086
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.46521739130434786
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.660455486542443
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.4989648033126294
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.3561076604554865
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.5935727788279772
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.4839319470699433
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.6389413988657845
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.5476190476190476
+MultiPhysio-HRC day 2,1038,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.5380952380952381
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.44782608695652176
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.9978260869565216
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.5173913043478261
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.46376811594202905
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.5445134575569357
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.4782608695652174
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.3947368421052632
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.9251361161524502
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.8126134301270418
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.43162901307966706
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.8091557669441142
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.8674197384066586
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.8379310344827586
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.9855172413793103
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.9517241379310346
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.6241379310344828
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.9958620689655173
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.7710344827586206
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.3466424682395644
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.8593466424682396
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.6805807622504536
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.6536842105263159
+MultiPhysio-HRC day 2,1038,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.6978947368421053
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.828421052631579
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.9978947368421053
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.6631578947368421
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.5406896551724139
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.8358620689655173
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.7586206896551725
+MultiPhysio-HRC day 2,1038,cardiac,two or more apart,0.8786206896551725
+MultiPhysio-HRC day 2,1038,eda,two or more apart,0.8413793103448276
+MultiPhysio-HRC day 2,1038,resp,two or more apart,0.7903448275862068
+MultiPhysio-HRC day 2,1038,cardiac,adjacent,0.6032
+MultiPhysio-HRC day 2,1038,eda,adjacent,0.6416
+MultiPhysio-HRC day 2,1038,resp,adjacent,0.7616
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.6965811965811965
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.297008547008547
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.297008547008547
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.8461538461538461
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.5271493212669683
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.5520361990950226
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.9717948717948718
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.4333333333333333
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.34615384615384615
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.8431952662721894
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.47633136094674555
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.3905325443786982
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.7843137254901961
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.8496732026143792
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.4771241830065359
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.6888888888888889
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.8333333333333334
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.4666666666666667
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.2991452991452991
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.2136752136752137
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.5085470085470085
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.39999999999999997
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.6627450980392157
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.4862745098039216
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.3212669683257918
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.6289592760180995
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.5113122171945701
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.32820512820512826
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.4461538461538461
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.4769230769230769
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.6098901098901099
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.4633699633699634
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.6721611721611721
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.27350427350427353
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.9572649572649573
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.5961538461538461
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.37637362637362637
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.9175824175824174
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.49175824175824173
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.32932692307692313
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.6430288461538461
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.8809523809523809
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.9761904761904762
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.6494708994708995
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.7814625850340136
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.9370748299319728
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.6768707482993197
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.6421130952380953
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.6354166666666666
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.48363095238095244
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.7003968253968254
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.5297619047619048
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.5376984126984126
+MultiPhysio-HRC day 2,1039,cardiac,two or more apart,0.29861111111111116
+MultiPhysio-HRC day 2,1039,eda,two or more apart,0.3871527777777778
+MultiPhysio-HRC day 2,1039,resp,two or more apart,0.703125
+MultiPhysio-HRC day 2,1039,cardiac,adjacent,0.4508928571428572
+MultiPhysio-HRC day 2,1039,eda,adjacent,0.6060267857142857
+MultiPhysio-HRC day 2,1039,resp,adjacent,0.6183035714285714
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.8110119047619048
+MultiPhysio-HRC day 2,1041,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1041,resp,adjacent,1.0
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.7203947368421052
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.8916666666666666
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.9543269230769231
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.862155388471178
+MultiPhysio-HRC day 2,1041,eda,adjacent,0.949874686716792
+MultiPhysio-HRC day 2,1041,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.965079365079365
+MultiPhysio-HRC day 2,1041,eda,two or more apart,0.9174603174603175
+MultiPhysio-HRC day 2,1041,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.8864468864468864
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.6105263157894737
+MultiPhysio-HRC day 2,1041,eda,adjacent,0.9929824561403509
+MultiPhysio-HRC day 2,1041,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.9271255060728745
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.8769230769230769
+MultiPhysio-HRC day 2,1041,eda,adjacent,0.8512820512820513
+MultiPhysio-HRC day 2,1041,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.5312124849939975
+MultiPhysio-HRC day 2,1041,eda,adjacent,0.6812725090036014
+MultiPhysio-HRC day 2,1041,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.3323615160349854
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.5008503401360545
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.7586367880485528
+MultiPhysio-HRC day 2,1041,eda,adjacent,0.6405228758169934
+MultiPhysio-HRC day 2,1041,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1041,cardiac,two or more apart,0.48937908496732024
+MultiPhysio-HRC day 2,1041,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1041,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1041,cardiac,adjacent,0.6825396825396826
+MultiPhysio-HRC day 2,1041,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1041,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.6126984126984126
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.8238095238095238
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.41111111111111115
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.7841269841269841
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.34285714285714286
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.3650793650793651
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.8673469387755102
+MultiPhysio-HRC day 2,1042,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.30612244897959184
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.8571428571428571
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.38095238095238093
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.580952380952381
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.6377777777777778
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.9955555555555555
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.4866666666666667
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.4880952380952381
+MultiPhysio-HRC day 2,1042,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.5095238095238095
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.7244444444444444
+MultiPhysio-HRC day 2,1042,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.5888888888888889
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.7666666666666666
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.4714285714285714
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.5714285714285714
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.6577777777777778
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.37777777777777777
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.5777777777777778
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.5571428571428572
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.5
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.4904761904761905
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.5901960784313726
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.6254901960784314
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.6215686274509804
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.7796296296296297
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.8481481481481481
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.5925925925925926
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.6577777777777778
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.7511111111111111
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.8444444444444446
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.6454545454545455
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.8136363636363637
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.5787878787878789
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.33333333333333337
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.6078431372549019
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.8398692810457516
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.39607843137254906
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.3686274509803922
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.5607843137254902
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.6737967914438503
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.16844919786096257
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.660427807486631
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.6555555555555556
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.7074074074074075
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.874074074074074
+MultiPhysio-HRC day 2,1042,cardiac,two or more apart,0.8005050505050505
+MultiPhysio-HRC day 2,1042,eda,two or more apart,0.7297979797979799
+MultiPhysio-HRC day 2,1042,resp,two or more apart,0.7196969696969697
+MultiPhysio-HRC day 2,1042,cardiac,adjacent,0.5090909090909091
+MultiPhysio-HRC day 2,1042,eda,adjacent,0.6878787878787879
+MultiPhysio-HRC day 2,1042,resp,adjacent,0.2303030303030303
+MultiPhysio-HRC day 2,1043,eda,adjacent,0.47
+MultiPhysio-HRC day 2,1043,resp,adjacent,0.476
+MultiPhysio-HRC day 2,1043,cardiac,two or more apart,1.0
+MultiPhysio-HRC day 2,1043,eda,two or more apart,0.288
+MultiPhysio-HRC day 2,1043,resp,two or more apart,0.5493333333333333
+MultiPhysio-HRC day 2,1043,cardiac,two or more apart,0.21428571428571427
+MultiPhysio-HRC day 2,1043,eda,two or more apart,0.005714285714285711
+MultiPhysio-HRC day 2,1043,resp,two or more apart,0.4685714285714286
+MultiPhysio-HRC day 2,1043,cardiac,adjacent,1.0
+MultiPhysio-HRC day 2,1043,eda,adjacent,0.6933333333333334
+MultiPhysio-HRC day 2,1043,resp,adjacent,0.8766666666666667
+MultiPhysio-HRC day 2,1043,cardiac,two or more apart,0.21428571428571427
+MultiPhysio-HRC day 2,1043,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1043,resp,two or more apart,0.6928571428571428
+MultiPhysio-HRC day 2,1043,cardiac,adjacent,0.7761904761904762
+MultiPhysio-HRC day 2,1043,eda,adjacent,0.9857142857142858
+MultiPhysio-HRC day 2,1043,resp,adjacent,0.7904761904761904
+MultiPhysio-HRC day 2,1043,cardiac,adjacent,0.3359288097886541
+MultiPhysio-HRC day 2,1043,eda,adjacent,0.5483870967741935
+MultiPhysio-HRC day 2,1043,resp,adjacent,0.5728587319243604
+MultiPhysio-HRC day 2,1043,cardiac,two or more apart,0.33004926108374383
+MultiPhysio-HRC day 2,1043,eda,two or more apart,0.638752052545156
+MultiPhysio-HRC day 2,1043,resp,two or more apart,0.6995073891625616
+MultiPhysio-HRC day 2,1043,cardiac,two or more apart,0.47368421052631576
+MultiPhysio-HRC day 2,1043,eda,two or more apart,0.8656987295825772
+MultiPhysio-HRC day 2,1043,resp,two or more apart,0.7368421052631579
+MultiPhysio-HRC day 2,1043,cardiac,adjacent,0.7081413210445469
+MultiPhysio-HRC day 2,1043,eda,adjacent,0.7665130568356374
+MultiPhysio-HRC day 2,1043,resp,adjacent,0.35944700460829493
+MultiPhysio-HRC day 2,1043,cardiac,two or more apart,0.6485568760611206
+MultiPhysio-HRC day 2,1043,eda,two or more apart,0.8573853989813243
+MultiPhysio-HRC day 2,1043,resp,two or more apart,0.40916808149405776
+MultiPhysio-HRC day 2,1043,cardiac,adjacent,0.45363408521303256
+MultiPhysio-HRC day 2,1043,eda,adjacent,0.6390977443609023
+MultiPhysio-HRC day 2,1043,resp,adjacent,0.5989974937343359
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.711111111111111
+MultiPhysio-HRC day 2,1044,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.6888888888888889
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.5777777777777777
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.8
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.5777777777777778
+MultiPhysio-HRC day 2,1044,eda,two or more apart,0.9777777777777777
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.17777777777777778
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.28
+MultiPhysio-HRC day 2,1044,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.88
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.36
+MultiPhysio-HRC day 2,1044,eda,two or more apart,0.92
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.2
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.44
+MultiPhysio-HRC day 2,1044,eda,adjacent,0.32
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.6
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.2857142857142857
+MultiPhysio-HRC day 2,1044,eda,adjacent,0.7366071428571429
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.40625
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.6197916666666666
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.78125
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.8625
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.5458333333333334
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.48660714285714285
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.5357142857142857
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.22619047619047616
+MultiPhysio-HRC day 2,1044,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.39285714285714285
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.9714285714285714
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.4
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.6581632653061226
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.22448979591836737
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.9055555555555557
+MultiPhysio-HRC day 2,1044,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.8166666666666667
+MultiPhysio-HRC day 2,1044,cardiac,two or more apart,0.5833333333333334
+MultiPhysio-HRC day 2,1044,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1044,resp,two or more apart,0.4821428571428571
+MultiPhysio-HRC day 2,1044,cardiac,adjacent,0.13333333333333333
+MultiPhysio-HRC day 2,1044,eda,adjacent,0.9238095238095239
+MultiPhysio-HRC day 2,1044,resp,adjacent,0.3904761904761905
+MultiPhysio-HRC day 2,1045,cardiac,adjacent,0.344017094017094
+MultiPhysio-HRC day 2,1045,eda,adjacent,0.46794871794871795
+MultiPhysio-HRC day 2,1045,resp,adjacent,0.8504273504273505
+MultiPhysio-HRC day 2,1045,cardiac,two or more apart,0.6153846153846154
+MultiPhysio-HRC day 2,1045,eda,two or more apart,0.8438914027149322
+MultiPhysio-HRC day 2,1045,resp,two or more apart,0.20361990950226244
+MultiPhysio-HRC day 2,1045,cardiac,two or more apart,0.6072874493927125
+MultiPhysio-HRC day 2,1045,eda,two or more apart,0.9433198380566802
+MultiPhysio-HRC day 2,1045,resp,two or more apart,0.7834008097165992
+MultiPhysio-HRC day 2,1045,cardiac,adjacent,0.6895424836601306
+MultiPhysio-HRC day 2,1045,eda,adjacent,0.9509803921568627
+MultiPhysio-HRC day 2,1045,resp,adjacent,0.42810457516339867
+MultiPhysio-HRC day 2,1045,cardiac,two or more apart,0.435672514619883
+MultiPhysio-HRC day 2,1045,eda,two or more apart,0.912280701754386
+MultiPhysio-HRC day 2,1045,resp,two or more apart,0.6929824561403508
+MultiPhysio-HRC day 2,1045,cardiac,adjacent,0.39318885448916413
+MultiPhysio-HRC day 2,1045,eda,adjacent,0.9690402476780186
+MultiPhysio-HRC day 2,1045,resp,adjacent,0.3281733746130031
+MultiPhysio-HRC day 2,1045,cardiac,adjacent,0.600378787878788
+MultiPhysio-HRC day 2,1045,eda,adjacent,0.7357954545454546
+MultiPhysio-HRC day 2,1045,resp,adjacent,0.634469696969697
+MultiPhysio-HRC day 2,1045,cardiac,two or more apart,0.8787878787878788
+MultiPhysio-HRC day 2,1045,eda,two or more apart,0.922077922077922
+MultiPhysio-HRC day 2,1045,resp,two or more apart,0.48484848484848486
+MultiPhysio-HRC day 2,1045,cardiac,two or more apart,0.8251748251748251
+MultiPhysio-HRC day 2,1045,eda,two or more apart,0.9184149184149184
+MultiPhysio-HRC day 2,1045,resp,two or more apart,0.493006993006993
+MultiPhysio-HRC day 2,1045,cardiac,adjacent,0.6071428571428571
+MultiPhysio-HRC day 2,1045,eda,adjacent,0.5993303571428571
+MultiPhysio-HRC day 2,1045,resp,adjacent,0.5424107142857143
+MultiPhysio-HRC day 2,1045,cardiac,two or more apart,0.6610576923076923
+MultiPhysio-HRC day 2,1045,eda,two or more apart,0.7800480769230769
+MultiPhysio-HRC day 2,1045,resp,two or more apart,0.513221153846154
+MultiPhysio-HRC day 2,1045,cardiac,adjacent,0.2032967032967033
+MultiPhysio-HRC day 2,1045,eda,adjacent,0.5837912087912088
+MultiPhysio-HRC day 2,1045,resp,adjacent,0.4423076923076923
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.864516129032258
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.2693548387096774
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.40161290322580645
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.9168081494057725
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.5280135823429541
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.6146010186757215
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.9556451612903225
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.782258064516129
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.4838709677419355
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.9147465437788018
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.7880184331797235
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.6175115207373272
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.7473684210526317
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.8578947368421053
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.44473684210526315
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.975
+MultiPhysio-HRC day 2,1050,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.3968750000000001
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.7857142857142858
+MultiPhysio-HRC day 2,1050,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.6499999999999999
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.7105263157894737
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.4276315789473684
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.5723684210526316
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.6090225563909775
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.9398496240601504
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.6766917293233082
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.42410714285714285
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.5892857142857143
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.6294642857142857
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.7449494949494949
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.8472222222222221
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.5732323232323232
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.8187830687830688
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.9444444444444444
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.4880952380952381
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.9181286549707602
+MultiPhysio-HRC day 2,1050,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.7558479532163742
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.9753086419753085
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.9891975308641975
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.7438271604938271
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.35497835497835495
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.5757575757575757
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.7727272727272727
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.18181818181818182
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.9162679425837321
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.7607655502392344
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.8131313131313131
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.6843434343434344
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.8459595959595959
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.4711779448621554
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.7944862155388471
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.8020050125313283
+MultiPhysio-HRC day 2,1050,cardiac,two or more apart,0.8412698412698413
+MultiPhysio-HRC day 2,1050,eda,two or more apart,0.6507936507936508
+MultiPhysio-HRC day 2,1050,resp,two or more apart,0.7301587301587302
+MultiPhysio-HRC day 2,1050,cardiac,adjacent,0.8362573099415205
+MultiPhysio-HRC day 2,1050,eda,adjacent,0.5906432748538012
+MultiPhysio-HRC day 2,1050,resp,adjacent,0.2543859649122807
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.9264069264069263
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.7373737373737373
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.5064935064935064
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.8612440191387558
+MultiPhysio-HRC day 2,1051,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.3923444976076555
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.9915824915824916
+MultiPhysio-HRC day 2,1051,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.5269360269360269
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.9358288770053476
+MultiPhysio-HRC day 2,1051,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.4777183600713012
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.68671679197995
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.9849624060150376
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.6716791979949874
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.8915343915343915
+MultiPhysio-HRC day 2,1051,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.41269841269841273
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.8431372549019608
+MultiPhysio-HRC day 2,1051,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.48179271708683474
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.6374269005847953
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.9678362573099415
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.5380116959064327
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.8173374613003096
+MultiPhysio-HRC day 2,1051,eda,two or more apart,0.34365325077399383
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.5758513931888545
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.6993464052287581
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.9934640522875817
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.4542483660130719
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.3516483516483517
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.8404928404928406
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.4805194805194805
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.14049586776859505
+MultiPhysio-HRC day 2,1051,eda,two or more apart,0.9923258559622196
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.667060212514758
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.7162337662337662
+MultiPhysio-HRC day 2,1051,eda,two or more apart,0.9402597402597402
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.6077922077922078
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.8707201889020071
+MultiPhysio-HRC day 2,1051,eda,two or more apart,0.9332939787485242
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.6174734356552538
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.7377622377622377
+MultiPhysio-HRC day 2,1051,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.6130536130536131
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.6846153846153846
+MultiPhysio-HRC day 2,1051,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.5884615384615385
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.8053613053613053
+MultiPhysio-HRC day 2,1051,eda,two or more apart,0.9592074592074591
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.6794871794871795
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.36590909090909085
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.17045454545454547
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.5068181818181818
+MultiPhysio-HRC day 2,1051,cardiac,two or more apart,0.6053719008264463
+MultiPhysio-HRC day 2,1051,eda,two or more apart,0.4607438016528925
+MultiPhysio-HRC day 2,1051,resp,two or more apart,0.24173553719008267
+MultiPhysio-HRC day 2,1051,cardiac,adjacent,0.475
+MultiPhysio-HRC day 2,1051,eda,adjacent,0.39999999999999997
+MultiPhysio-HRC day 2,1051,resp,adjacent,0.3
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.6909090909090909
+MultiPhysio-HRC day 2,1052,eda,adjacent,0.42424242424242425
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.7030303030303031
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.8666666666666667
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.1
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.49333333333333335
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.9757575757575758
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.1333333333333333
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.5333333333333333
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,1.0
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.10833333333333331
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.5416666666666667
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.8727272727272727
+MultiPhysio-HRC day 2,1052,eda,adjacent,0.9818181818181817
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.6909090909090908
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.15702479338842973
+MultiPhysio-HRC day 2,1052,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.6033057851239669
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,1.0
+MultiPhysio-HRC day 2,1052,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.9545454545454546
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.5636363636363636
+MultiPhysio-HRC day 2,1052,eda,adjacent,0.8545454545454545
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.5909090909090908
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.9249999999999999
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.9125
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.925
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.9886363636363636
+MultiPhysio-HRC day 2,1052,eda,adjacent,0.3863636363636363
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.2159090909090909
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.5805555555555555
+MultiPhysio-HRC day 2,1052,eda,adjacent,0.7
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.5527777777777778
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.8300000000000001
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.89
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.5166666666666666
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.9291666666666667
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.9
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.5291666666666667
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.6571428571428571
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.16428571428571428
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.4928571428571429
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.6111111111111112
+MultiPhysio-HRC day 2,1052,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.6296296296296297
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.675925925925926
+MultiPhysio-HRC day 2,1052,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.5972222222222222
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.5277777777777778
+MultiPhysio-HRC day 2,1052,eda,two or more apart,0.1746031746031746
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.47619047619047616
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.17777777777777776
+MultiPhysio-HRC day 2,1052,eda,adjacent,0.3
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.5444444444444445
+MultiPhysio-HRC day 2,1052,cardiac,two or more apart,0.8571428571428572
+MultiPhysio-HRC day 2,1052,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1052,resp,two or more apart,0.6047619047619048
+MultiPhysio-HRC day 2,1052,cardiac,adjacent,0.24404761904761907
+MultiPhysio-HRC day 2,1052,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1052,resp,adjacent,0.5357142857142858
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.5833333333333334
+MultiPhysio-HRC day 2,1053,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.5738636363636364
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.705050505050505
+MultiPhysio-HRC day 2,1053,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.7777777777777778
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.7996632996632996
+MultiPhysio-HRC day 2,1053,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.4764309764309765
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.9681020733652312
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.963317384370016
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.6921850079744817
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.3458333333333333
+MultiPhysio-HRC day 2,1053,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.37916666666666665
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.47916666666666663
+MultiPhysio-HRC day 2,1053,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.4618055555555556
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.9868421052631579
+MultiPhysio-HRC day 2,1053,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.3618421052631579
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.44074074074074077
+MultiPhysio-HRC day 2,1053,eda,adjacent,0.8740740740740741
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.6814814814814815
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.9333333333333333
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.9333333333333333
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.5929824561403509
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.9035087719298246
+MultiPhysio-HRC day 2,1053,eda,adjacent,0.7339181286549707
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.672514619883041
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.7235872235872236
+MultiPhysio-HRC day 2,1053,eda,adjacent,0.7972972972972974
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.8697788697788698
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.8607068607068606
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.6742896742896742
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.5072765072765072
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.8551351351351352
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.7459459459459459
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.8183783783783783
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.8198198198198198
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.918918918918919
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.7267267267267267
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.7400932400932401
+MultiPhysio-HRC day 2,1053,eda,adjacent,0.6783216783216783
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.8123543123543123
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.6727272727272727
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.5290909090909091
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.6036363636363636
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.7171717171717171
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.41414141414141414
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.6902356902356902
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.6071794871794872
+MultiPhysio-HRC day 2,1053,eda,adjacent,0.2923076923076923
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.6328205128205129
+MultiPhysio-HRC day 2,1053,cardiac,two or more apart,0.7416904083570751
+MultiPhysio-HRC day 2,1053,eda,two or more apart,0.6676163342830008
+MultiPhysio-HRC day 2,1053,resp,two or more apart,0.409306742640076
+MultiPhysio-HRC day 2,1053,cardiac,adjacent,0.72
+MultiPhysio-HRC day 2,1053,eda,adjacent,0.7792592592592592
+MultiPhysio-HRC day 2,1053,resp,adjacent,0.6177777777777778
+MultiPhysio-HRC day 2,1054,cardiac,adjacent,0.7651515151515151
+MultiPhysio-HRC day 2,1054,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1054,resp,adjacent,0.7146464646464646
+MultiPhysio-HRC day 2,1054,cardiac,two or more apart,0.7527777777777777
+MultiPhysio-HRC day 2,1054,eda,two or more apart,0.8736111111111111
+MultiPhysio-HRC day 2,1054,resp,two or more apart,0.3944444444444445
+MultiPhysio-HRC day 2,1054,cardiac,two or more apart,0.5570987654320988
+MultiPhysio-HRC day 2,1054,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1054,resp,two or more apart,0.35956790123456794
+MultiPhysio-HRC day 2,1054,cardiac,two or more apart,0.4
+MultiPhysio-HRC day 2,1054,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1054,resp,two or more apart,0.8444444444444444
+MultiPhysio-HRC day 2,1054,cardiac,adjacent,0.38636363636363635
+MultiPhysio-HRC day 2,1054,eda,adjacent,0.4727272727272727
+MultiPhysio-HRC day 2,1054,resp,adjacent,0.36818181818181817
+MultiPhysio-HRC day 2,1054,cardiac,two or more apart,0.6540404040404041
+MultiPhysio-HRC day 2,1054,eda,two or more apart,0.8661616161616162
+MultiPhysio-HRC day 2,1054,resp,two or more apart,0.25
+MultiPhysio-HRC day 2,1054,cardiac,two or more apart,0.7393939393939394
+MultiPhysio-HRC day 2,1054,eda,two or more apart,0.5757575757575757
+MultiPhysio-HRC day 2,1054,resp,two or more apart,0.6787878787878787
+MultiPhysio-HRC day 2,1054,cardiac,adjacent,0.525
+MultiPhysio-HRC day 2,1054,eda,adjacent,0.26666666666666666
+MultiPhysio-HRC day 2,1054,resp,adjacent,0.3055555555555556
+MultiPhysio-HRC day 2,1054,cardiac,two or more apart,0.77
+MultiPhysio-HRC day 2,1054,eda,two or more apart,0.25333333333333335
+MultiPhysio-HRC day 2,1054,resp,two or more apart,0.21666666666666665
+MultiPhysio-HRC day 2,1054,cardiac,adjacent,0.8703703703703703
+MultiPhysio-HRC day 2,1054,eda,adjacent,0.5851851851851853
+MultiPhysio-HRC day 2,1054,resp,adjacent,0.4185185185185185
+MultiPhysio-HRC day 2,1055,cardiac,adjacent,0.38333333333333336
+MultiPhysio-HRC day 2,1055,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1055,resp,adjacent,0.3242424242424242
+MultiPhysio-HRC day 2,1055,cardiac,two or more apart,0.7878787878787878
+MultiPhysio-HRC day 2,1055,eda,two or more apart,0.9632034632034632
+MultiPhysio-HRC day 2,1055,resp,two or more apart,0.3181818181818182
+MultiPhysio-HRC day 2,1055,cardiac,two or more apart,0.8617424242424242
+MultiPhysio-HRC day 2,1055,eda,two or more apart,0.9810606060606061
+MultiPhysio-HRC day 2,1055,resp,two or more apart,0.41666666666666663
+MultiPhysio-HRC day 2,1055,cardiac,adjacent,0.4
+MultiPhysio-HRC day 2,1055,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1055,resp,adjacent,0.5428571428571429
+MultiPhysio-HRC day 2,1055,cardiac,two or more apart,0.434375
+MultiPhysio-HRC day 2,1055,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1055,resp,two or more apart,0.478125
+MultiPhysio-HRC day 2,1055,cardiac,adjacent,0.7098214285714286
+MultiPhysio-HRC day 2,1055,eda,adjacent,0.8660714285714286
+MultiPhysio-HRC day 2,1055,resp,adjacent,0.46875
+MultiPhysio-HRC day 2,1055,cardiac,adjacent,0.6384872080088988
+MultiPhysio-HRC day 2,1055,eda,adjacent,0.9577308120133482
+MultiPhysio-HRC day 2,1055,resp,adjacent,0.6418242491657398
+MultiPhysio-HRC day 2,1055,cardiac,two or more apart,0.4516129032258065
+MultiPhysio-HRC day 2,1055,eda,two or more apart,0.7873900293255133
+MultiPhysio-HRC day 2,1055,resp,two or more apart,0.5850439882697948
+MultiPhysio-HRC day 2,1055,cardiac,two or more apart,0.5524193548387097
+MultiPhysio-HRC day 2,1055,eda,two or more apart,0.939516129032258
+MultiPhysio-HRC day 2,1055,resp,two or more apart,0.4939516129032258
+MultiPhysio-HRC day 2,1055,cardiac,adjacent,0.5062695924764891
+MultiPhysio-HRC day 2,1055,eda,adjacent,0.8840125391849529
+MultiPhysio-HRC day 2,1055,resp,adjacent,0.5971786833855799
+MultiPhysio-HRC day 2,1055,cardiac,two or more apart,0.4482758620689655
+MultiPhysio-HRC day 2,1055,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1055,resp,two or more apart,0.6831896551724138
+MultiPhysio-HRC day 2,1055,cardiac,adjacent,0.5085227272727273
+MultiPhysio-HRC day 2,1055,eda,adjacent,0.3920454545454546
+MultiPhysio-HRC day 2,1055,resp,adjacent,0.5625
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.7246376811594203
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.9038208168642952
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.33596837944664026
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.7727272727272727
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.9924242424242424
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.45606060606060606
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.8851674641148325
+MultiPhysio-HRC day 2,1056,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.5183413078149921
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.9932659932659933
+MultiPhysio-HRC day 2,1056,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.5538720538720538
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.6152173913043478
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.7326086956521739
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.28913043478260864
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.46681922196796344
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.897025171624714
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.3501144164759725
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.8695652173913043
+MultiPhysio-HRC day 2,1056,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.48792270531400966
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.3526315789473684
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.7447368421052631
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.6368421052631579
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.8388888888888889
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.7361111111111112
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.40555555555555556
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.7807017543859649
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.543859649122807
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.41520467836257313
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.43643643643643637
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.8078078078078078
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.3093093093093093
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.6195426195426196
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.554054054054054
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.41164241164241167
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.493993993993994
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.9039039039039038
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.23123123123123118
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.5521235521235521
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.8120978120978121
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.45045045045045046
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.4686609686609687
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.7663817663817664
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.37037037037037035
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.5288065843621399
+MultiPhysio-HRC day 2,1056,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.522633744855967
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.562610229276896
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.24338624338624343
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.6402116402116401
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.5341880341880342
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.3653846153846154
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.35683760683760685
+MultiPhysio-HRC day 2,1056,cardiac,two or more apart,0.5604395604395604
+MultiPhysio-HRC day 2,1056,eda,two or more apart,0.3498168498168498
+MultiPhysio-HRC day 2,1056,resp,two or more apart,0.45054945054945056
+MultiPhysio-HRC day 2,1056,cardiac,adjacent,0.5185185185185185
+MultiPhysio-HRC day 2,1056,eda,adjacent,0.9656084656084657
+MultiPhysio-HRC day 2,1056,resp,adjacent,0.6587301587301588
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.8187134502923977
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.4327485380116959
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.6101364522417154
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.8758169934640523
+MultiPhysio-HRC day 2,1057,eda,two or more apart,0.8932461873638344
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.5228758169934641
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.9777777777777779
+MultiPhysio-HRC day 2,1057,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.5432098765432098
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.6851851851851852
+MultiPhysio-HRC day 2,1057,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.6087962962962963
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.37770897832817335
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.826625386996904
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.32817337461300317
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.624561403508772
+MultiPhysio-HRC day 2,1057,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.2912280701754386
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.6973684210526316
+MultiPhysio-HRC day 2,1057,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.48684210526315796
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.44313725490196076
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.17254901960784316
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.5176470588235293
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.4448529411764706
+MultiPhysio-HRC day 2,1057,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.6397058823529412
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.6208333333333333
+MultiPhysio-HRC day 2,1057,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.5916666666666667
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.5668859649122807
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.9660087719298245
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.5460526315789472
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.553125
+MultiPhysio-HRC day 2,1057,eda,two or more apart,0.7416666666666667
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.38645833333333335
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.9565217391304347
+MultiPhysio-HRC day 2,1057,eda,two or more apart,0.9972826086956521
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.5081521739130435
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.7423245614035088
+MultiPhysio-HRC day 2,1057,eda,two or more apart,0.9956140350877193
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.5603070175438596
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.35263157894736846
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.7078947368421051
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.5657894736842105
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.4919908466819222
+MultiPhysio-HRC day 2,1057,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.39588100686498856
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.3656509695290859
+MultiPhysio-HRC day 2,1057,eda,two or more apart,0.9750692520775622
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.5429362880886426
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.5956521739130435
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.14565217391304347
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.4369565217391304
+MultiPhysio-HRC day 2,1057,cardiac,two or more apart,0.4447368421052632
+MultiPhysio-HRC day 2,1057,eda,two or more apart,0.8763157894736842
+MultiPhysio-HRC day 2,1057,resp,two or more apart,0.55
+MultiPhysio-HRC day 2,1057,cardiac,adjacent,0.39130434782608703
+MultiPhysio-HRC day 2,1057,eda,adjacent,0.9954233409610984
+MultiPhysio-HRC day 2,1057,resp,adjacent,0.6430205949656751
+MultiPhysio-HRC day 2,1058,cardiac,adjacent,0.44572158365261816
+MultiPhysio-HRC day 2,1058,eda,adjacent,0.9885057471264369
+MultiPhysio-HRC day 2,1058,resp,adjacent,0.48914431673052367
+MultiPhysio-HRC day 2,1058,cardiac,two or more apart,0.4488888888888889
+MultiPhysio-HRC day 2,1058,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1058,resp,two or more apart,0.717037037037037
+MultiPhysio-HRC day 2,1058,cardiac,two or more apart,0.6518518518518519
+MultiPhysio-HRC day 2,1058,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1058,resp,two or more apart,0.722962962962963
+MultiPhysio-HRC day 2,1058,cardiac,two or more apart,0.458994708994709
+MultiPhysio-HRC day 2,1058,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1058,resp,two or more apart,0.9907407407407407
+MultiPhysio-HRC day 2,1058,cardiac,adjacent,0.4620689655172414
+MultiPhysio-HRC day 2,1058,eda,adjacent,0.9379310344827586
+MultiPhysio-HRC day 2,1058,resp,adjacent,0.7034482758620689
+MultiPhysio-HRC day 2,1058,cardiac,two or more apart,0.52
+MultiPhysio-HRC day 2,1058,eda,two or more apart,0.5544827586206897
+MultiPhysio-HRC day 2,1058,resp,two or more apart,0.7282758620689656
+MultiPhysio-HRC day 2,1058,cardiac,two or more apart,0.4889162561576355
+MultiPhysio-HRC day 2,1058,eda,two or more apart,0.9963054187192117
+MultiPhysio-HRC day 2,1058,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1058,cardiac,adjacent,0.632
+MultiPhysio-HRC day 2,1058,eda,adjacent,0.9743999999999999
+MultiPhysio-HRC day 2,1058,resp,adjacent,0.5392
+MultiPhysio-HRC day 2,1058,cardiac,two or more apart,0.53
+MultiPhysio-HRC day 2,1058,eda,two or more apart,0.6285714285714286
+MultiPhysio-HRC day 2,1058,resp,two or more apart,0.9785714285714285
+MultiPhysio-HRC day 2,1058,cardiac,adjacent,0.7242857142857143
+MultiPhysio-HRC day 2,1058,eda,adjacent,0.9657142857142857
+MultiPhysio-HRC day 2,1058,resp,adjacent,0.9985714285714286
+MultiPhysio-HRC day 2,1058,cardiac,adjacent,0.6611721611721612
+MultiPhysio-HRC day 2,1058,eda,adjacent,0.702963702963703
+MultiPhysio-HRC day 2,1058,resp,adjacent,0.3498168498168498
+MultiPhysio-HRC day 2,1059,cardiac,adjacent,0.5037037037037037
+MultiPhysio-HRC day 2,1059,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1059,resp,adjacent,0.4666666666666667
+MultiPhysio-HRC day 2,1059,cardiac,two or more apart,0.7478632478632479
+MultiPhysio-HRC day 2,1059,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1059,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1059,cardiac,two or more apart,0.841880341880342
+MultiPhysio-HRC day 2,1059,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1059,resp,two or more apart,0.5341880341880343
+MultiPhysio-HRC day 2,1059,cardiac,two or more apart,0.8174603174603174
+MultiPhysio-HRC day 2,1059,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1059,resp,two or more apart,0.5396825396825397
+MultiPhysio-HRC day 2,1059,cardiac,adjacent,0.5948717948717949
+MultiPhysio-HRC day 2,1059,eda,adjacent,0.7025641025641025
+MultiPhysio-HRC day 2,1059,resp,adjacent,0.37435897435897436
+MultiPhysio-HRC day 2,1059,cardiac,two or more apart,0.5230769230769231
+MultiPhysio-HRC day 2,1059,eda,two or more apart,0.9897435897435898
+MultiPhysio-HRC day 2,1059,resp,two or more apart,0.7025641025641025
+MultiPhysio-HRC day 2,1059,cardiac,two or more apart,0.638095238095238
+MultiPhysio-HRC day 2,1059,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1059,resp,two or more apart,0.4714285714285714
+MultiPhysio-HRC day 2,1059,cardiac,adjacent,0.621301775147929
+MultiPhysio-HRC day 2,1059,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1059,resp,adjacent,0.5029585798816567
+MultiPhysio-HRC day 2,1059,cardiac,two or more apart,0.6813186813186812
+MultiPhysio-HRC day 2,1059,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1059,resp,two or more apart,0.42857142857142855
+MultiPhysio-HRC day 2,1059,cardiac,adjacent,0.3901098901098901
+MultiPhysio-HRC day 2,1059,eda,adjacent,0.978021978021978
+MultiPhysio-HRC day 2,1059,resp,adjacent,0.5439560439560439
+MultiPhysio-HRC day 2,1061,cardiac,adjacent,0.5714285714285714
+MultiPhysio-HRC day 2,1061,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1061,resp,adjacent,0.44571428571428573
+MultiPhysio-HRC day 2,1061,cardiac,two or more apart,0.8707482993197279
+MultiPhysio-HRC day 2,1061,eda,two or more apart,0.9880952380952381
+MultiPhysio-HRC day 2,1061,resp,two or more apart,0.5255102040816326
+MultiPhysio-HRC day 2,1061,cardiac,two or more apart,0.7414965986394558
+MultiPhysio-HRC day 2,1061,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1061,resp,two or more apart,0.4217687074829932
+MultiPhysio-HRC day 2,1061,cardiac,adjacent,0.7847619047619048
+MultiPhysio-HRC day 2,1061,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1061,resp,adjacent,0.39428571428571424
+MultiPhysio-HRC day 2,1061,cardiac,two or more apart,0.7352380952380952
+MultiPhysio-HRC day 2,1061,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1061,resp,two or more apart,0.3904761904761905
+MultiPhysio-HRC day 2,1061,cardiac,adjacent,0.6394557823129251
+MultiPhysio-HRC day 2,1061,eda,adjacent,0.8480725623582767
+MultiPhysio-HRC day 2,1061,resp,adjacent,0.6303854875283448
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.9888888888888888
+MultiPhysio-HRC day 2,1062,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.7888888888888889
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.48611111111111116
+MultiPhysio-HRC day 2,1062,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.8020833333333333
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.5490196078431372
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.7875816993464053
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.8333333333333333
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.4826388888888889
+MultiPhysio-HRC day 2,1062,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.8923611111111112
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.9062500000000001
+MultiPhysio-HRC day 2,1062,eda,adjacent,0.91875
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.56875
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.5647058823529412
+MultiPhysio-HRC day 2,1062,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.4235294117647058
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.79375
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.9437499999999999
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.39375000000000004
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.6286764705882353
+MultiPhysio-HRC day 2,1062,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.5073529411764706
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.609375
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.921875
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.46875
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.6286764705882353
+MultiPhysio-HRC day 2,1062,eda,adjacent,0.963235294117647
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.6838235294117647
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.22619047619047616
+MultiPhysio-HRC day 2,1062,eda,adjacent,0.6595238095238095
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.3
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.32839506172839505
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.691358024691358
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.3419753086419753
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.3314814814814815
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.7388888888888889
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.3333333333333333
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.3813333333333333
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.10800000000000001
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.49333333333333335
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.42328042328042326
+MultiPhysio-HRC day 2,1062,eda,adjacent,0.8187830687830688
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.4193121693121693
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.7658730158730159
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.9920634920634921
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.5476190476190476
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.9328571428571428
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.8214285714285714
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.3828571428571429
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.6954732510288066
+MultiPhysio-HRC day 2,1062,eda,adjacent,0.9465020576131689
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.5411522633744856
+MultiPhysio-HRC day 2,1062,cardiac,two or more apart,0.76
+MultiPhysio-HRC day 2,1062,eda,two or more apart,0.6637037037037038
+MultiPhysio-HRC day 2,1062,resp,two or more apart,0.5244444444444445
+MultiPhysio-HRC day 2,1062,cardiac,adjacent,0.76
+MultiPhysio-HRC day 2,1062,eda,adjacent,0.4777777777777778
+MultiPhysio-HRC day 2,1062,resp,adjacent,0.3111111111111111
+MultiPhysio-HRC day 2,1063,cardiac,adjacent,0.2857142857142857
+MultiPhysio-HRC day 2,1063,eda,adjacent,0.7597402597402597
+MultiPhysio-HRC day 2,1063,resp,adjacent,0.8051948051948052
+MultiPhysio-HRC day 2,1063,cardiac,two or more apart,0.32727272727272727
+MultiPhysio-HRC day 2,1063,eda,two or more apart,0.9878787878787878
+MultiPhysio-HRC day 2,1063,resp,two or more apart,0.6121212121212122
+MultiPhysio-HRC day 2,1063,cardiac,two or more apart,0.23140495867768596
+MultiPhysio-HRC day 2,1063,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1063,resp,two or more apart,0.5619834710743802
+MultiPhysio-HRC day 2,1063,cardiac,adjacent,0.6047619047619048
+MultiPhysio-HRC day 2,1063,eda,adjacent,0.8809523809523809
+MultiPhysio-HRC day 2,1063,resp,adjacent,0.6380952380952382
+MultiPhysio-HRC day 2,1063,cardiac,two or more apart,0.40259740259740256
+MultiPhysio-HRC day 2,1063,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1063,resp,two or more apart,0.909090909090909
+MultiPhysio-HRC day 2,1063,cardiac,adjacent,0.5212121212121212
+MultiPhysio-HRC day 2,1063,eda,adjacent,0.40606060606060607
+MultiPhysio-HRC day 2,1063,resp,adjacent,0.6303030303030304
+MultiPhysio-HRC day 2,1063,cardiac,adjacent,0.7099715099715099
+MultiPhysio-HRC day 2,1063,eda,adjacent,0.9886039886039886
+MultiPhysio-HRC day 2,1063,resp,adjacent,0.4039886039886039
+MultiPhysio-HRC day 2,1063,cardiac,two or more apart,0.3935340022296544
+MultiPhysio-HRC day 2,1063,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1063,resp,two or more apart,0.6042363433667781
+MultiPhysio-HRC day 2,1063,cardiac,two or more apart,0.5347985347985348
+MultiPhysio-HRC day 2,1063,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1063,resp,two or more apart,0.5293040293040293
+MultiPhysio-HRC day 2,1063,cardiac,adjacent,0.4241545893719807
+MultiPhysio-HRC day 2,1063,eda,adjacent,0.3536231884057971
+MultiPhysio-HRC day 2,1063,resp,adjacent,0.7140096618357488
+MultiPhysio-HRC day 2,1063,cardiac,two or more apart,0.8523809523809525
+MultiPhysio-HRC day 2,1063,eda,two or more apart,0.7365079365079366
+MultiPhysio-HRC day 2,1063,resp,two or more apart,0.3285714285714286
+MultiPhysio-HRC day 2,1063,cardiac,adjacent,0.437888198757764
+MultiPhysio-HRC day 2,1063,eda,adjacent,0.9782608695652173
+MultiPhysio-HRC day 2,1063,resp,adjacent,0.5248447204968943
+MultiPhysio-HRC day 2,1065,cardiac,adjacent,0.20105820105820105
+MultiPhysio-HRC day 2,1065,eda,adjacent,0.8747795414462082
+MultiPhysio-HRC day 2,1065,resp,adjacent,0.564373897707231
+MultiPhysio-HRC day 2,1065,cardiac,two or more apart,0.9270833333333334
+MultiPhysio-HRC day 2,1065,eda,two or more apart,0.8379629629629629
+MultiPhysio-HRC day 2,1065,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1065,cardiac,two or more apart,0.7444444444444445
+MultiPhysio-HRC day 2,1065,eda,two or more apart,0.85
+MultiPhysio-HRC day 2,1065,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1065,cardiac,adjacent,0.24404761904761907
+MultiPhysio-HRC day 2,1065,eda,adjacent,0.944940476190476
+MultiPhysio-HRC day 2,1065,resp,adjacent,1.0
+MultiPhysio-HRC day 2,1065,cardiac,two or more apart,0.5000000000000001
+MultiPhysio-HRC day 2,1065,eda,two or more apart,0.85
+MultiPhysio-HRC day 2,1065,resp,two or more apart,1.0
+MultiPhysio-HRC day 2,1065,cardiac,adjacent,0.21250000000000002
+MultiPhysio-HRC day 2,1065,eda,adjacent,0.5765625
+MultiPhysio-HRC day 2,1065,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1065,cardiac,adjacent,0.5496411483253588
+MultiPhysio-HRC day 2,1065,eda,adjacent,0.7918660287081339
+MultiPhysio-HRC day 2,1065,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1065,cardiac,two or more apart,0.3759469696969697
+MultiPhysio-HRC day 2,1065,eda,two or more apart,0.915719696969697
+MultiPhysio-HRC day 2,1065,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1065,cardiac,two or more apart,0.4577414772727273
+MultiPhysio-HRC day 2,1065,eda,two or more apart,0.8391335227272728
+MultiPhysio-HRC day 2,1065,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1065,cardiac,adjacent,0.47478070175438597
+MultiPhysio-HRC day 2,1065,eda,adjacent,0.5120614035087719
+MultiPhysio-HRC day 2,1065,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1065,cardiac,two or more apart,0.530016447368421
+MultiPhysio-HRC day 2,1065,eda,two or more apart,0.7306743421052632
+MultiPhysio-HRC day 2,1065,resp,two or more apart,0.5
+MultiPhysio-HRC day 2,1065,cardiac,adjacent,0.5390625
+MultiPhysio-HRC day 2,1065,eda,adjacent,0.810546875
+MultiPhysio-HRC day 2,1065,resp,adjacent,0.5
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.7037037037037037
+MultiPhysio-HRC day 2,1066,eda,adjacent,0.9696969696969697
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.3383838383838384
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.9382716049382716
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.49559082892416223
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.3544973544973545
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.8497942386831275
+MultiPhysio-HRC day 2,1066,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.8189300411522634
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.9803921568627451
+MultiPhysio-HRC day 2,1066,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.4793028322440087
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.7727272727272727
+MultiPhysio-HRC day 2,1066,eda,adjacent,0.49350649350649345
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.4653679653679654
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.7348484848484849
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.9318181818181819
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.5631313131313131
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.9491978609625668
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.9973262032085561
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.6016042780748664
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.6878306878306878
+MultiPhysio-HRC day 2,1066,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.5846560846560847
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.37254901960784315
+MultiPhysio-HRC day 2,1066,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.39495798319327735
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.28758169934640526
+MultiPhysio-HRC day 2,1066,eda,adjacent,0.8333333333333334
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.5326797385620915
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.7067307692307693
+MultiPhysio-HRC day 2,1066,eda,adjacent,0.7756410256410257
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.328525641025641
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.6720647773279352
+MultiPhysio-HRC day 2,1066,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.43724696356275305
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.9095022624434389
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.9434389140271493
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.4253393665158371
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.8931623931623931
+MultiPhysio-HRC day 2,1066,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.5726495726495726
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.5767543859649122
+MultiPhysio-HRC day 2,1066,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.49780701754385964
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.40931372549019607
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.4534313725490196
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.5735294117647058
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.5231481481481481
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.9907407407407407
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.7175925925925926
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.3157894736842105
+MultiPhysio-HRC day 2,1066,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.4736842105263158
+MultiPhysio-HRC day 2,1066,cardiac,two or more apart,0.5526315789473685
+MultiPhysio-HRC day 2,1066,eda,two or more apart,0.8362573099415205
+MultiPhysio-HRC day 2,1066,resp,two or more apart,0.5847953216374269
+MultiPhysio-HRC day 2,1066,cardiac,adjacent,0.48039215686274517
+MultiPhysio-HRC day 2,1066,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1066,resp,adjacent,0.7712418300653594
+MultiPhysio-HRC day 2,1067,cardiac,adjacent,0.2727272727272727
+MultiPhysio-HRC day 2,1067,eda,adjacent,0.7560606060606061
+MultiPhysio-HRC day 2,1067,resp,adjacent,0.603030303030303
+MultiPhysio-HRC day 2,1067,cardiac,two or more apart,0.329004329004329
+MultiPhysio-HRC day 2,1067,eda,two or more apart,0.7601731601731602
+MultiPhysio-HRC day 2,1067,resp,two or more apart,0.5238095238095238
+MultiPhysio-HRC day 2,1067,cardiac,two or more apart,0.7575757575757576
+MultiPhysio-HRC day 2,1067,eda,two or more apart,0.8838383838383839
+MultiPhysio-HRC day 2,1067,resp,two or more apart,0.4444444444444444
+MultiPhysio-HRC day 2,1067,cardiac,adjacent,0.3771428571428571
+MultiPhysio-HRC day 2,1067,eda,adjacent,0.8457142857142858
+MultiPhysio-HRC day 2,1067,resp,adjacent,0.5657142857142857
+MultiPhysio-HRC day 2,1067,cardiac,two or more apart,0.8722222222222222
+MultiPhysio-HRC day 2,1067,eda,two or more apart,0.7916666666666666
+MultiPhysio-HRC day 2,1067,resp,two or more apart,0.5888888888888889
+MultiPhysio-HRC day 2,1067,cardiac,adjacent,0.473015873015873
+MultiPhysio-HRC day 2,1067,eda,adjacent,0.9365079365079365
+MultiPhysio-HRC day 2,1067,resp,adjacent,0.45396825396825397
+MultiPhysio-HRC day 2,1067,cardiac,adjacent,0.39140271493212675
+MultiPhysio-HRC day 2,1067,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1067,resp,adjacent,0.6085972850678733
+MultiPhysio-HRC day 2,1067,cardiac,two or more apart,0.7448717948717949
+MultiPhysio-HRC day 2,1067,eda,two or more apart,0.9948717948717949
+MultiPhysio-HRC day 2,1067,resp,two or more apart,0.523076923076923
+MultiPhysio-HRC day 2,1067,cardiac,two or more apart,0.9157509157509156
+MultiPhysio-HRC day 2,1067,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1067,resp,two or more apart,0.3333333333333333
+MultiPhysio-HRC day 2,1067,cardiac,adjacent,0.9735294117647059
+MultiPhysio-HRC day 2,1067,eda,adjacent,0.4691176470588235
+MultiPhysio-HRC day 2,1067,resp,adjacent,0.40147058823529413
+MultiPhysio-HRC day 2,1067,cardiac,two or more apart,0.92296918767507
+MultiPhysio-HRC day 2,1067,eda,two or more apart,0.5980392156862745
+MultiPhysio-HRC day 2,1067,resp,two or more apart,0.3599439775910364
+MultiPhysio-HRC day 2,1067,cardiac,adjacent,0.9142857142857143
+MultiPhysio-HRC day 2,1067,eda,adjacent,0.9595238095238094
+MultiPhysio-HRC day 2,1067,resp,adjacent,0.46904761904761905
+MultiPhysio-HRC day 2,1070,cardiac,adjacent,0.4444444444444444
+MultiPhysio-HRC day 2,1070,eda,adjacent,0.9351851851851852
+MultiPhysio-HRC day 2,1070,resp,adjacent,0.5925925925925926
+MultiPhysio-HRC day 2,1070,cardiac,two or more apart,0.6666666666666666
+MultiPhysio-HRC day 2,1070,eda,two or more apart,0.5104166666666667
+MultiPhysio-HRC day 2,1070,resp,two or more apart,0.21875
+MultiPhysio-HRC day 2,1070,cardiac,adjacent,0.6805555555555556
+MultiPhysio-HRC day 2,1070,eda,adjacent,0.3888888888888889
+MultiPhysio-HRC day 2,1070,resp,adjacent,0.4305555555555556
+MultiPhysio-HRC day 2,1070,cardiac,adjacent,0.49333333333333335
+MultiPhysio-HRC day 2,1070,eda,adjacent,0.575
+MultiPhysio-HRC day 2,1070,resp,adjacent,0.5975
+MultiPhysio-HRC day 2,1070,cardiac,two or more apart,0.5653846153846154
+MultiPhysio-HRC day 2,1070,eda,two or more apart,0.6923076923076923
+MultiPhysio-HRC day 2,1070,resp,two or more apart,0.5836538461538462
+MultiPhysio-HRC day 2,1070,cardiac,two or more apart,0.7739130434782608
+MultiPhysio-HRC day 2,1070,eda,two or more apart,0.6630434782608696
+MultiPhysio-HRC day 2,1070,resp,two or more apart,0.5380434782608696
+MultiPhysio-HRC day 2,1070,cardiac,adjacent,0.37948717948717947
+MultiPhysio-HRC day 2,1070,eda,adjacent,0.5423076923076924
+MultiPhysio-HRC day 2,1070,resp,adjacent,0.3923076923076923
+MultiPhysio-HRC day 2,1070,cardiac,two or more apart,0.20144927536231885
+MultiPhysio-HRC day 2,1070,eda,two or more apart,0.7797101449275362
+MultiPhysio-HRC day 2,1070,resp,two or more apart,0.4434782608695652
+MultiPhysio-HRC day 2,1070,cardiac,adjacent,0.4565217391304347
+MultiPhysio-HRC day 2,1070,eda,adjacent,0.6036789297658863
+MultiPhysio-HRC day 2,1070,resp,adjacent,0.5250836120401338
+MultiPhysio-HRC day 2,1075,cardiac,adjacent,0.6333333333333333
+MultiPhysio-HRC day 2,1075,eda,adjacent,0.9280701754385965
+MultiPhysio-HRC day 2,1075,resp,adjacent,0.41403508771929826
+MultiPhysio-HRC day 2,1075,cardiac,two or more apart,0.6822222222222223
+MultiPhysio-HRC day 2,1075,eda,two or more apart,0.7611111111111111
+MultiPhysio-HRC day 2,1075,resp,two or more apart,0.6722222222222223
+MultiPhysio-HRC day 2,1075,cardiac,two or more apart,0.3666666666666667
+MultiPhysio-HRC day 2,1075,eda,two or more apart,0.9644444444444444
+MultiPhysio-HRC day 2,1075,resp,two or more apart,0.5355555555555556
+MultiPhysio-HRC day 2,1075,cardiac,adjacent,0.49473684210526314
+MultiPhysio-HRC day 2,1075,eda,adjacent,0.6350877192982457
+MultiPhysio-HRC day 2,1075,resp,adjacent,0.6263157894736842
+MultiPhysio-HRC day 2,1075,cardiac,two or more apart,0.6842105263157895
+MultiPhysio-HRC day 2,1075,eda,two or more apart,0.9333333333333333
+MultiPhysio-HRC day 2,1075,resp,two or more apart,0.5017543859649123
+MultiPhysio-HRC day 2,1075,cardiac,adjacent,0.6288888888888888
+MultiPhysio-HRC day 2,1075,eda,adjacent,0.9022222222222223
+MultiPhysio-HRC day 2,1075,resp,adjacent,0.4488888888888889
+MultiPhysio-HRC day 2,1075,cardiac,adjacent,0.47259136212624586
+MultiPhysio-HRC day 2,1075,eda,adjacent,0.7832225913621264
+MultiPhysio-HRC day 2,1075,resp,adjacent,0.31727574750830567
+MultiPhysio-HRC day 2,1075,cardiac,two or more apart,0.3867355727820845
+MultiPhysio-HRC day 2,1075,eda,two or more apart,0.9991386735572781
+MultiPhysio-HRC day 2,1075,resp,two or more apart,0.6683893195521102
+MultiPhysio-HRC day 2,1075,cardiac,two or more apart,0.5918604651162791
+MultiPhysio-HRC day 2,1075,eda,two or more apart,0.9895348837209302
+MultiPhysio-HRC day 2,1075,resp,two or more apart,0.5651162790697675
+MultiPhysio-HRC day 2,1075,cardiac,adjacent,0.45502645502645506
+MultiPhysio-HRC day 2,1075,eda,adjacent,0.9404761904761905
+MultiPhysio-HRC day 2,1075,resp,adjacent,0.43915343915343913
+MultiPhysio-HRC day 2,1075,cardiac,two or more apart,0.6035714285714286
+MultiPhysio-HRC day 2,1075,eda,two or more apart,0.842857142857143
+MultiPhysio-HRC day 2,1075,resp,two or more apart,0.33392857142857146
+MultiPhysio-HRC day 2,1075,cardiac,adjacent,0.5259259259259259
+MultiPhysio-HRC day 2,1075,eda,adjacent,0.9407407407407408
+MultiPhysio-HRC day 2,1075,resp,adjacent,0.48703703703703705
+MultiPhysio-HRC day 2,10869,cardiac,adjacent,0.3521739130434782
+MultiPhysio-HRC day 2,10869,eda,adjacent,0.8586956521739131
+MultiPhysio-HRC day 2,10869,resp,adjacent,0.5413043478260869
+MultiPhysio-HRC day 2,10869,cardiac,two or more apart,0.3529411764705882
+MultiPhysio-HRC day 2,10869,eda,two or more apart,0.7621483375959078
+MultiPhysio-HRC day 2,10869,resp,two or more apart,0.4015345268542199
+MultiPhysio-HRC day 2,10869,cardiac,two or more apart,0.25815217391304346
+MultiPhysio-HRC day 2,10869,eda,two or more apart,0.22010869565217395
+MultiPhysio-HRC day 2,10869,resp,two or more apart,0.5625
+MultiPhysio-HRC day 2,10869,cardiac,adjacent,0.4676470588235294
+MultiPhysio-HRC day 2,10869,eda,adjacent,0.861764705882353
+MultiPhysio-HRC day 2,10869,resp,adjacent,0.27352941176470585
+MultiPhysio-HRC day 2,10869,cardiac,two or more apart,0.596875
+MultiPhysio-HRC day 2,10869,eda,two or more apart,0.9218750000000001
+MultiPhysio-HRC day 2,10869,resp,two or more apart,0.515625
+MultiPhysio-HRC day 2,10869,cardiac,adjacent,0.375
+MultiPhysio-HRC day 2,10869,eda,adjacent,0.761029411764706
+MultiPhysio-HRC day 2,10869,resp,adjacent,0.31985294117647056
+MultiPhysio-HRC day 2,10869,cardiac,adjacent,0.4319526627218935
+MultiPhysio-HRC day 2,10869,eda,adjacent,0.1464497041420118
+MultiPhysio-HRC day 2,10869,resp,adjacent,0.4896449704142012
+MultiPhysio-HRC day 2,10869,cardiac,two or more apart,0.405982905982906
+MultiPhysio-HRC day 2,10869,eda,two or more apart,0.7059829059829059
+MultiPhysio-HRC day 2,10869,resp,two or more apart,0.39145299145299145
+MultiPhysio-HRC day 2,10869,cardiac,two or more apart,0.5701357466063348
+MultiPhysio-HRC day 2,10869,eda,two or more apart,0.9298642533936651
+MultiPhysio-HRC day 2,10869,resp,two or more apart,0.4479638009049773
+MultiPhysio-HRC day 2,10869,cardiac,adjacent,0.488034188034188
+MultiPhysio-HRC day 2,10869,eda,adjacent,0.15726495726495726
+MultiPhysio-HRC day 2,10869,resp,adjacent,0.6051282051282052
+MultiPhysio-HRC day 2,10869,cardiac,two or more apart,0.4638009049773756
+MultiPhysio-HRC day 2,10869,eda,two or more apart,0.020361990950226245
+MultiPhysio-HRC day 2,10869,resp,two or more apart,0.8099547511312217
+MultiPhysio-HRC day 2,10869,cardiac,adjacent,0.19215686274509805
+MultiPhysio-HRC day 2,10869,eda,adjacent,0.6143790849673203
+MultiPhysio-HRC day 2,10869,resp,adjacent,0.5006535947712418
+MultiPhysio-HRC day 2,1090,cardiac,adjacent,0.6043771043771043
+MultiPhysio-HRC day 2,1090,eda,adjacent,0.9747474747474747
+MultiPhysio-HRC day 2,1090,resp,adjacent,0.39562289562289565
+MultiPhysio-HRC day 2,1090,cardiac,two or more apart,0.5222816399286987
+MultiPhysio-HRC day 2,1090,eda,two or more apart,0.9625668449197862
+MultiPhysio-HRC day 2,1090,resp,two or more apart,0.4973262032085562
+MultiPhysio-HRC day 2,1090,cardiac,two or more apart,0.45265151515151514
+MultiPhysio-HRC day 2,1090,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1090,resp,two or more apart,0.7973484848484849
+MultiPhysio-HRC day 2,1090,cardiac,adjacent,0.5130718954248366
+MultiPhysio-HRC day 2,1090,eda,adjacent,0.9771241830065359
+MultiPhysio-HRC day 2,1090,resp,adjacent,0.46405228758169936
+MultiPhysio-HRC day 2,1090,cardiac,two or more apart,0.5347222222222222
+MultiPhysio-HRC day 2,1090,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1090,resp,two or more apart,0.7743055555555556
+MultiPhysio-HRC day 2,1090,cardiac,adjacent,0.7463235294117647
+MultiPhysio-HRC day 2,1090,eda,adjacent,0.8308823529411764
+MultiPhysio-HRC day 2,1090,resp,adjacent,0.7352941176470589
+MultiPhysio-HRC day 2,1090,cardiac,adjacent,0.42122448979591837
+MultiPhysio-HRC day 2,1090,eda,adjacent,0.47469387755102044
+MultiPhysio-HRC day 2,1090,resp,adjacent,0.5371428571428571
+MultiPhysio-HRC day 2,1090,cardiac,two or more apart,0.7363636363636363
+MultiPhysio-HRC day 2,1090,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,1090,resp,two or more apart,0.7081818181818181
+MultiPhysio-HRC day 2,1090,cardiac,two or more apart,0.6505882352941177
+MultiPhysio-HRC day 2,1090,eda,two or more apart,0.5588235294117647
+MultiPhysio-HRC day 2,1090,resp,two or more apart,0.68
+MultiPhysio-HRC day 2,1090,cardiac,adjacent,0.26716141001855287
+MultiPhysio-HRC day 2,1090,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1090,resp,adjacent,0.5185528756957328
+MultiPhysio-HRC day 2,1090,cardiac,two or more apart,0.5042016806722689
+MultiPhysio-HRC day 2,1090,eda,two or more apart,0.7226890756302521
+MultiPhysio-HRC day 2,1090,resp,two or more apart,0.6410564225690276
+MultiPhysio-HRC day 2,1090,cardiac,adjacent,0.8475935828877005
+MultiPhysio-HRC day 2,1090,eda,adjacent,1.0
+MultiPhysio-HRC day 2,1090,resp,adjacent,0.8074866310160427
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.7741935483870968
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.917741935483871
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.5854838709677419
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.789247311827957
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.7870967741935485
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.556989247311828
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.8387096774193549
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.5246179966044143
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.6621392190152801
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.5616698292220114
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.7324478178368121
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.4629981024667932
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.56
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.7366666666666667
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.43999999999999995
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.6526315789473683
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.9552631578947368
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.5605263157894737
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.5147058823529411
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.9970588235294118
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.4205882352941176
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.37543859649122807
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.9473684210526316
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.6105263157894737
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.3254901960784314
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.9764705882352942
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.41960784313725485
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.3715170278637771
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.49535603715170273
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.6191950464396285
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.6232558139534884
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.09418604651162793
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.5209302325581395
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.748062015503876
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.49095607235142125
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.4160206718346253
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.6246992782678428
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.314354450681636
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.41940657578187657
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.48615725359911405
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.7397563676633444
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.46733111849390924
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.5222222222222223
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.8833333333333333
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.5388888888888889
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.6224137931034484
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.6931034482758621
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.6327586206896552
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.43809523809523804
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.9976190476190476
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.5071428571428571
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.7222222222222223
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.6992337164750957
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.3237547892720306
+MultiPhysio-HRC day 2,1095,cardiac,two or more apart,0.6534391534391535
+MultiPhysio-HRC day 2,1095,eda,two or more apart,0.42328042328042326
+MultiPhysio-HRC day 2,1095,resp,two or more apart,0.373015873015873
+MultiPhysio-HRC day 2,1095,cardiac,adjacent,0.6059113300492611
+MultiPhysio-HRC day 2,1095,eda,adjacent,0.2019704433497537
+MultiPhysio-HRC day 2,1095,resp,adjacent,0.38752052545155996
+MultiPhysio-HRC day 2,10978,cardiac,adjacent,0.29721362229102166
+MultiPhysio-HRC day 2,10978,eda,adjacent,0.8421052631578948
+MultiPhysio-HRC day 2,10978,resp,adjacent,0.4705882352941177
+MultiPhysio-HRC day 2,10978,cardiac,two or more apart,0.45614035087719296
+MultiPhysio-HRC day 2,10978,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10978,resp,two or more apart,0.6561403508771929
+MultiPhysio-HRC day 2,10978,cardiac,two or more apart,0.4500907441016334
+MultiPhysio-HRC day 2,10978,eda,two or more apart,0.9473684210526316
+MultiPhysio-HRC day 2,10978,resp,two or more apart,0.5117967332123412
+MultiPhysio-HRC day 2,10978,cardiac,adjacent,0.5529411764705883
+MultiPhysio-HRC day 2,10978,eda,adjacent,1.0
+MultiPhysio-HRC day 2,10978,resp,adjacent,0.3411764705882353
+MultiPhysio-HRC day 2,10978,cardiac,two or more apart,0.4766734279918864
+MultiPhysio-HRC day 2,10978,eda,two or more apart,0.9837728194726165
+MultiPhysio-HRC day 2,10978,resp,two or more apart,0.486815415821501
+MultiPhysio-HRC day 2,10978,cardiac,adjacent,0.5931034482758621
+MultiPhysio-HRC day 2,10978,eda,adjacent,0.5356321839080459
+MultiPhysio-HRC day 2,10978,resp,adjacent,0.4275862068965517
+MultiPhysio-HRC day 2,10978,cardiac,adjacent,0.7695924764890282
+MultiPhysio-HRC day 2,10978,eda,adjacent,0.34796238244514105
+MultiPhysio-HRC day 2,10978,resp,adjacent,0.33699059561128525
+MultiPhysio-HRC day 2,10978,cardiac,two or more apart,0.7604355716878404
+MultiPhysio-HRC day 2,10978,eda,two or more apart,0.8620689655172413
+MultiPhysio-HRC day 2,10978,resp,two or more apart,0.42286751361161523
+MultiPhysio-HRC day 2,10978,cardiac,two or more apart,0.20833333333333331
+MultiPhysio-HRC day 2,10978,eda,two or more apart,0.8548850574712644
+MultiPhysio-HRC day 2,10978,resp,two or more apart,0.4655172413793104
+MultiPhysio-HRC day 2,10978,cardiac,adjacent,0.7464114832535885
+MultiPhysio-HRC day 2,10978,eda,adjacent,1.0
+MultiPhysio-HRC day 2,10978,resp,adjacent,0.4066985645933014
+MultiPhysio-HRC day 2,10978,cardiac,two or more apart,0.41098484848484845
+MultiPhysio-HRC day 2,10978,eda,two or more apart,1.0
+MultiPhysio-HRC day 2,10978,resp,two or more apart,0.543560606060606
+MultiPhysio-HRC day 2,10978,cardiac,adjacent,0.4298245614035088
+MultiPhysio-HRC day 2,10978,eda,adjacent,0.07236842105263158
+MultiPhysio-HRC day 2,10978,resp,adjacent,0.5197368421052632
+WESAD_CHEST,S11,cardiac,about 40 min apart,0.4833506763787721
+WESAD_CHEST,S11,eda,about 40 min apart,1.0
+WESAD_CHEST,S11,temp,about 40 min apart,1.0
+WESAD_CHEST,S10,cardiac,about 40 min apart,0.882414151925078
+WESAD_CHEST,S10,eda,about 40 min apart,1.0
+WESAD_CHEST,S10,temp,about 40 min apart,1.0
+WESAD_CHEST,S13,cardiac,about 40 min apart,0.7377731529656608
+WESAD_CHEST,S13,eda,about 40 min apart,1.0
+WESAD_CHEST,S13,temp,about 40 min apart,1.0
+WESAD_CHEST,S14,cardiac,about 40 min apart,0.5712799167533819
+WESAD_CHEST,S14,eda,about 40 min apart,1.0
+WESAD_CHEST,S14,temp,about 40 min apart,1.0
+WESAD_CHEST,S15,cardiac,about 40 min apart,0.8355879292403746
+WESAD_CHEST,S15,eda,about 40 min apart,1.0
+WESAD_CHEST,S15,temp,about 40 min apart,0.914672216441207
+WESAD_CHEST,S16,cardiac,about 40 min apart,0.7918834547346515
+WESAD_CHEST,S16,eda,about 40 min apart,0.5078043704474505
+WESAD_CHEST,S16,temp,about 40 min apart,1.0
+WESAD_CHEST,S17,cardiac,about 40 min apart,0.45677419354838705
+WESAD_CHEST,S17,eda,about 40 min apart,1.0
+WESAD_CHEST,S17,temp,about 40 min apart,1.0
+WESAD_CHEST,S2,cardiac,about 40 min apart,0.20244716351501668
+WESAD_CHEST,S2,eda,about 40 min apart,0.9933259176863182
+WESAD_CHEST,S2,temp,about 40 min apart,1.0
+WESAD_CHEST,S3,cardiac,about 40 min apart,0.42025862068965514
+WESAD_CHEST,S3,eda,about 40 min apart,1.0
+WESAD_CHEST,S3,temp,about 40 min apart,1.0
+WESAD_CHEST,S4,cardiac,about 40 min apart,0.7399193548387097
+WESAD_CHEST,S4,eda,about 40 min apart,0.9707661290322581
+WESAD_CHEST,S4,temp,about 40 min apart,0.941532258064516
+WESAD_CHEST,S5,cardiac,about 40 min apart,0.7096774193548386
+WESAD_CHEST,S5,eda,about 40 min apart,0.5234131113423517
+WESAD_CHEST,S5,temp,about 40 min apart,1.0
+WESAD_CHEST,S6,cardiac,about 40 min apart,0.4953173777315296
+WESAD_CHEST,S6,eda,about 40 min apart,0.7950052029136316
+WESAD_CHEST,S6,temp,about 40 min apart,0.9032258064516129
+WESAD_CHEST,S7,cardiac,about 40 min apart,0.6305931321540063
+WESAD_CHEST,S7,eda,about 40 min apart,0.9916753381893861
+WESAD_CHEST,S7,temp,about 40 min apart,0.9281997918834548
+WESAD_CHEST,S8,cardiac,about 40 min apart,0.7973790322580645
+WESAD_CHEST,S8,eda,about 40 min apart,1.0
+WESAD_CHEST,S8,temp,about 40 min apart,1.0
+WESAD_CHEST,S9,cardiac,about 40 min apart,0.4266389177939647
+WESAD_CHEST,S9,eda,about 40 min apart,0.9989594172736733
+WESAD_CHEST,S9,temp,about 40 min apart,1.0
+WESAD_WRIST,S11,eda,about 40 min apart,0.9802289281997919
+WESAD_WRIST,S11,temp,about 40 min apart,0.8158168574401664
+WESAD_WRIST,S10,cardiac,about 40 min apart,0.5483870967741935
+WESAD_WRIST,S10,eda,about 40 min apart,1.0
+WESAD_WRIST,S10,temp,about 40 min apart,0.26534859521331944
+WESAD_WRIST,S13,cardiac,about 40 min apart,0.7086368366285121
+WESAD_WRIST,S13,eda,about 40 min apart,0.9479708636836628
+WESAD_WRIST,S13,temp,about 40 min apart,0.959417273673257
+WESAD_WRIST,S14,cardiac,about 40 min apart,0.7533818938605619
+WESAD_WRIST,S14,eda,about 40 min apart,0.7481789802289281
+WESAD_WRIST,S14,temp,about 40 min apart,1.0
+WESAD_WRIST,S15,eda,about 40 min apart,0.9011446409989594
+WESAD_WRIST,S15,temp,about 40 min apart,0.8792924037460979
+WESAD_WRIST,S16,cardiac,about 40 min apart,0.6852237252861603
+WESAD_WRIST,S16,eda,about 40 min apart,1.0
+WESAD_WRIST,S16,temp,about 40 min apart,1.0
+WESAD_WRIST,S17,eda,about 40 min apart,0.9716129032258064
+WESAD_WRIST,S17,temp,about 40 min apart,1.0
+WESAD_WRIST,S2,eda,about 40 min apart,0.575083426028921
+WESAD_WRIST,S2,temp,about 40 min apart,0.9265850945494994
+WESAD_WRIST,S3,cardiac,about 40 min apart,0.11691810344827586
+WESAD_WRIST,S3,eda,about 40 min apart,1.0
+WESAD_WRIST,S3,temp,about 40 min apart,1.0
+WESAD_WRIST,S4,cardiac,about 40 min apart,0.7132056451612904
+WESAD_WRIST,S4,eda,about 40 min apart,1.0
+WESAD_WRIST,S4,temp,about 40 min apart,1.0
+WESAD_WRIST,S5,eda,about 40 min apart,0.9979188345473465
+WESAD_WRIST,S5,temp,about 40 min apart,0.9979188345473465
+WESAD_WRIST,S6,cardiac,about 40 min apart,0.578563995837669
+WESAD_WRIST,S6,eda,about 40 min apart,0.9979188345473465
+WESAD_WRIST,S6,temp,about 40 min apart,1.0
+WESAD_WRIST,S7,cardiac,about 40 min apart,0.6555671175858481
+WESAD_WRIST,S7,eda,about 40 min apart,0.9979188345473465
+WESAD_WRIST,S7,temp,about 40 min apart,1.0
+WESAD_WRIST,S8,cardiac,about 40 min apart,0.626008064516129
+WESAD_WRIST,S8,eda,about 40 min apart,0.8810483870967742
+WESAD_WRIST,S8,temp,about 40 min apart,1.0
+WESAD_WRIST,S9,cardiac,about 40 min apart,0.32570239334027057
+WESAD_WRIST,S9,eda,about 40 min apart,0.7429760665972945
+WESAD_WRIST,S9,temp,about 40 min apart,1.0

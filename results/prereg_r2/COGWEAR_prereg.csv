@@ -1,0 +1,7 @@
+pred,device,features,estimate,ci,n,prediction,verdict,p,note
+P4a,E4,"hr_mean,hr_std,rmssd,sdnn,pnn50,scl_mean,scl_slope,phasic_std,scr_rate,temp_mean,temp_slope",0.22232876430019805,"[0.074, 0.378]",10,same-session personal > cross-session personal,confirmed,0.01171875,same 0.988; cross 0.766
+P4b,E4,,-0.02741698496693702,"[-0.247, 0.167]",10,"report (personal - population, cross-session)",report only,,pop 0.793
+explor.,E4,usable cardiac windows by condition,,"{'rest': 0.898, 'stroop': 0.71}",24,,exploratory,,
+P4a,SAMSUNG,,,"(nan, nan)",0,same-session personal > cross-session personal,not confirmed,,same nan; cross nan
+P4b,SAMSUNG,,,"(nan, nan)",0,"report (personal - population, cross-session)",report only,,pop nan
+explor.,SAMSUNG,usable cardiac windows by condition,,"{'rest': 0.164, 'stroop': 0.141}",20,,exploratory,,

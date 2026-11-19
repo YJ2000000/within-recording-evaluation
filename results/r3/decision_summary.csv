@@ -1,0 +1,12 @@
+dataset,policy,part,metric,mean,ci,n
+COG-BCI,"load, fixed rest baseline",first half,false_trigger,0.4675465876725059,"[0.356, 0.585]",28
+COG-BCI,"load, fixed rest baseline",first half,missed_trigger,0.4370141087831375,"[0.331, 0.554]",29
+COG-BCI,"load, fixed rest baseline",second half,false_trigger,0.2791216945707212,"[0.167, 0.41]",27
+COG-BCI,"load, fixed rest baseline",second half,missed_trigger,0.4692981256026573,"[0.349, 0.603]",27
+COG-BCI,"load, rolling 10-min baseline",first half,false_trigger,0.6931566923930024,"[0.623, 0.762]",28
+COG-BCI,"load, rolling 10-min baseline",first half,missed_trigger,0.2774329082857461,"[0.212, 0.35]",29
+COG-BCI,"load, rolling 10-min baseline",second half,false_trigger,0.6923948929662463,"[0.587, 0.783]",27
+COG-BCI,"load, rolling 10-min baseline",second half,missed_trigger,0.2083685293940486,"[0.137, 0.297]",27
+MultiPhysio-HRC day 2,engagement detector,end rest,false_trigger,0.3240613553113553,"[0.235, 0.412]",42
+MultiPhysio-HRC day 2,engagement detector,start rest,false_trigger,0.10681216931216928,"[0.09, 0.123]",42
+MultiPhysio-HRC day 2,engagement detector,work,missed_trigger,0.347387873637602,"[0.258, 0.435]",42

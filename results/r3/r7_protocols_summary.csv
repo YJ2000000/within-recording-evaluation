@@ -1,0 +1,43 @@
+dataset,features,protocol,k,C,mean,ci,n
+COGBCI,all features,cross-session personal,3.0,1.0,0.5742011629716848,"[0.532, 0.618]",29
+COGBCI,all features,cross-session personal,6.0,0.1,0.5939943481464474,"[0.554, 0.637]",29
+COGBCI,all features,cross-session personal,6.0,1.0,0.596308461824783,"[0.552, 0.641]",29
+COGBCI,all features,cross-session personal,6.0,10.0,0.590839829977919,"[0.55, 0.633]",29
+COGBCI,all features,cross-session personal,12.0,1.0,0.6117142739498143,"[0.572, 0.655]",29
+COGBCI,all features,cross-session personal,24.0,1.0,0.6215997751087659,"[0.578, 0.665]",29
+COGBCI,all features,population (LOSO),,1.0,0.6650269462965052,"[0.616, 0.713]",29
+COGBCI,all features,random windows,,1.0,0.8438342967264517,"[0.827, 0.859]",29
+COGBCI,all features,same-session personal (1-min gap),3.0,1.0,0.6733687440993595,"[0.636, 0.709]",29
+COGBCI,all features,same-session personal (1-min gap),6.0,0.1,0.7140879953563356,"[0.678, 0.747]",29
+COGBCI,all features,same-session personal (1-min gap),6.0,1.0,0.7262965283627275,"[0.692, 0.76]",29
+COGBCI,all features,same-session personal (1-min gap),6.0,10.0,0.7180028721207444,"[0.685, 0.752]",29
+COGBCI,all features,same-session personal (1-min gap),12.0,1.0,0.7452283437292122,"[0.705, 0.779]",29
+COGBCI,all features,same-session personal (1-min gap),24.0,1.0,0.9004336734693879,"[0.801, 1.0]",4
+UNIVERSE,all features,cross-session personal,3.0,1.0,0.4670219295249986,"[0.408, 0.53]",22
+UNIVERSE,all features,cross-session personal,6.0,0.1,0.4597564628205049,"[0.392, 0.525]",22
+UNIVERSE,all features,cross-session personal,6.0,1.0,0.451985819456252,"[0.388, 0.514]",22
+UNIVERSE,all features,cross-session personal,6.0,10.0,0.45438155088382176,"[0.388, 0.52]",22
+UNIVERSE,all features,cross-session personal,12.0,1.0,0.4653540965780685,"[0.404, 0.532]",22
+UNIVERSE,all features,cross-session personal,24.0,1.0,0.4678670135952221,"[0.392, 0.547]",22
+UNIVERSE,all features,population (LOSO),,1.0,0.5407455549161183,"[0.5, 0.582]",24
+UNIVERSE,all features,random windows,,1.0,0.9944479813493636,"[0.989, 0.998]",24
+UNIVERSE,all features,same-session personal (1-min gap),3.0,1.0,0.7954975102132483,"[0.758, 0.831]",24
+UNIVERSE,all features,same-session personal (1-min gap),6.0,0.1,0.864490153588298,"[0.829, 0.897]",24
+UNIVERSE,all features,same-session personal (1-min gap),6.0,1.0,0.8786482086591567,"[0.844, 0.91]",24
+UNIVERSE,all features,same-session personal (1-min gap),6.0,10.0,0.8842966608057975,"[0.85, 0.915]",24
+UNIVERSE,all features,same-session personal (1-min gap),12.0,1.0,0.9159397012270935,"[0.883, 0.945]",24
+UNIVERSE,all features,same-session personal (1-min gap),24.0,1.0,0.9420243921966711,"[0.915, 0.966]",24
+UNIVERSE,cardiac only,cross-session personal,3.0,1.0,0.5649467389366372,"[0.516, 0.613]",20
+UNIVERSE,cardiac only,cross-session personal,6.0,0.1,0.5518550599777857,"[0.503, 0.607]",22
+UNIVERSE,cardiac only,cross-session personal,6.0,1.0,0.5490159877466984,"[0.497, 0.606]",22
+UNIVERSE,cardiac only,cross-session personal,6.0,10.0,0.5419730065186835,"[0.498, 0.586]",22
+UNIVERSE,cardiac only,cross-session personal,12.0,1.0,0.5406832804613061,"[0.507, 0.573]",22
+UNIVERSE,cardiac only,cross-session personal,24.0,1.0,0.5513346177591457,"[0.51, 0.595]",22
+UNIVERSE,cardiac only,population (LOSO),,1.0,0.5237768860442152,"[0.493, 0.558]",24
+UNIVERSE,cardiac only,random windows,,1.0,0.7495441627060898,"[0.722, 0.776]",24
+UNIVERSE,cardiac only,same-session personal (1-min gap),3.0,1.0,0.6312726123008315,"[0.563, 0.697]",23
+UNIVERSE,cardiac only,same-session personal (1-min gap),6.0,0.1,0.6108526022315445,"[0.567, 0.659]",24
+UNIVERSE,cardiac only,same-session personal (1-min gap),6.0,1.0,0.6230618979013222,"[0.58, 0.671]",24
+UNIVERSE,cardiac only,same-session personal (1-min gap),6.0,10.0,0.6410396884058543,"[0.6, 0.683]",24
+UNIVERSE,cardiac only,same-session personal (1-min gap),12.0,1.0,0.6281194222825693,"[0.589, 0.665]",24
+UNIVERSE,cardiac only,same-session personal (1-min gap),24.0,1.0,0.6585866142835662,"[0.618, 0.698]",24

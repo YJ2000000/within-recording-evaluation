@@ -1,0 +1,13 @@
+pred,device,features,estimate,ci,n,p,prediction,verdict,note
+P1a,ECG,hr_mean,1.133571439041765,"[0.664, 1.603]",21,1.0941295122135486e-06,3-back > 0-back (one-sided),confirmed,"3.39 bpm [2.13, 4.66]"
+P1b,WRIST/ECG,"HR effect ratio (3-back - 0-back, bpm)",1.044740625315836,"[0.969, 1.163]",22,,CI lower > 0.5,device not the main limit,"ECG 3.37 bpm, wrist 3.52 bpm; r(person effects) = 0.98"
+"P1b (finger, report)",FINGER/ECG,"HR effect ratio (3-back - 0-back, bpm)",0.993563904232021,"[0.976, 1.002]",22,,CI lower > 0.5,device not the main limit,"ECG 3.37 bpm, finger 3.35 bpm; r(person effects) = 1.00"
+P1c-1,WRIST vs ECG,usable cardiac windows,-0.10930735930735928,"[-0.177, -0.05]",22,0.00021599543344101257,wrist < ECG,confirmed,"ECG 0.996, wrist 0.886"
+P1c-2,WRIST,usable windows 3-back - 0-back,-0.054383116883116873,"[-0.122, 0.005]",22,0.08616419674941117,hard < easy,not confirmed,
+P1d,ECG,cardiac,0.6253030303030301,"[0.557, 0.692]",22,,< 0.6,inconclusive,"same level, different block (0-back 1 vs 6, 2-back 2 vs 4, 3-back 3 vs 5)"
+P1d,ECG,finger GSR,0.8186742424242425,"[0.747, 0.887]",22,,> 0.6,confirmed,"same level, different block (0-back 1 vs 6, 2-back 2 vs 4, 3-back 3 vs 5)"
+P1d,WRIST,cardiac,0.6499242424242424,"[0.589, 0.708]",22,,,report only,"same level, different block (0-back 1 vs 6, 2-back 2 vs 4, 3-back 3 vs 5)"
+explor.,-,NASA-TLX 3-back - 0-back,49.95454545454545,"[41.742, 58.834]",22,,,exploratory,felt harder in 100% of people
+explor.,ECG,"LOSO 3-back vs 0-back, cardiac",0.6929933905380333,"[0.605, 0.776]",22,,,exploratory,
+explor.,FINGER,"LOSO 3-back vs 0-back, cardiac",0.6910946196660481,"[0.597, 0.779]",22,,,exploratory,
+explor.,WRIST,"LOSO 3-back vs 0-back, cardiac",0.6697370709647495,"[0.608, 0.734]",22,,,exploratory,

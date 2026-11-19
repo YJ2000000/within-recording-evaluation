@@ -1,0 +1,9 @@
+protocol,physiology,clock
+UNIVERSE · random windows,0.9953255150541288,1.0
+UNIVERSE · same-session personal (1-min gap),0.8786482086591567,1.0
+UNIVERSE · cross-session personal,0.4519858194562518,0.5037878787878788
+COG-BCI · random windows,0.8428391911046963,1.0
+COG-BCI · same-session personal (1-min gap),0.7262965283627275,1.0
+COG-BCI · cross-session personal,0.596308461824783,0.5747126436781609
+MAUS · same-session personal,0.8197619047619048,1.0
+MAUS · cross-block (same day),0.6570092322643343,0.0

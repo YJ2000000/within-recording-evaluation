@@ -1,0 +1,7 @@
+dataset,features,protocol,mean_r,ci,share_positive,p,n
+COGBCI,all features,cross-session personal,0.01619975189402188,"[-0.024, 0.057]",0.5517241379310345,0.5792817249894142,29
+COGBCI,all features,same-session personal (1-min gap),0.018467496426344973,"[-0.027, 0.062]",0.6206896551724138,0.38083895295858383,29
+UNIVERSE,all features,cross-session personal,0.017212362109972304,"[-0.028, 0.062]",0.5,0.4060330390930176,22
+UNIVERSE,all features,same-session personal (1-min gap),0.12183820075040074,"[0.078, 0.168]",0.7916666666666666,5.328655242919922e-05,24
+UNIVERSE,cardiac only,cross-session personal,-0.021206396033204355,"[-0.057, 0.015]",0.22727272727272727,0.16585874557495117,22
+UNIVERSE,cardiac only,same-session personal (1-min gap),-0.02137970388732659,"[-0.06, 0.017]",0.4166666666666667,0.5270590782165527,24

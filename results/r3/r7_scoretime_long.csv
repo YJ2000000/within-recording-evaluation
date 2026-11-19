@@ -1,0 +1,1131 @@
+dataset,features,pid,unit,family,protocol,r
+COGBCI,all features,sub-01,sub-01|ses-S1,matb,same-session personal (1-min gap),-0.26098901098901095
+COGBCI,all features,sub-01,sub-01|ses-S1,matb,cross-session personal,-0.15079365079365079
+COGBCI,all features,sub-01,sub-01|ses-S1,matb,cross-session personal,0.24236874236874234
+COGBCI,all features,sub-01,sub-01|ses-S2,matb,same-session personal (1-min gap),0.3791208791208791
+COGBCI,all features,sub-01,sub-01|ses-S2,matb,cross-session personal,-0.06898656898656899
+COGBCI,all features,sub-01,sub-01|ses-S2,matb,cross-session personal,-0.45146520146520147
+COGBCI,all features,sub-01,sub-01|ses-S3,matb,same-session personal (1-min gap),-0.5741758241758241
+COGBCI,all features,sub-01,sub-01|ses-S3,matb,cross-session personal,0.2402319902319902
+COGBCI,all features,sub-01,sub-01|ses-S3,matb,cross-session personal,-0.057692307692307626
+COGBCI,all features,sub-01,sub-01|ses-S1,nback,same-session personal (1-min gap),-0.04594861660079052
+COGBCI,all features,sub-01,sub-01|ses-S1,nback,cross-session personal,-0.004765291607396874
+COGBCI,all features,sub-01,sub-01|ses-S1,nback,cross-session personal,0.21767837279516916
+COGBCI,all features,sub-01,sub-01|ses-S2,nback,same-session personal (1-min gap),-0.3030067758328628
+COGBCI,all features,sub-01,sub-01|ses-S2,nback,cross-session personal,0.0870080606922712
+COGBCI,all features,sub-01,sub-01|ses-S2,nback,cross-session personal,0.039480375019863345
+COGBCI,all features,sub-01,sub-01|ses-S3,nback,same-session personal (1-min gap),-0.5480042016806722
+COGBCI,all features,sub-01,sub-01|ses-S3,nback,cross-session personal,0.2887624466571835
+COGBCI,all features,sub-01,sub-01|ses-S3,nback,cross-session personal,-0.3600521574205785
+COGBCI,all features,sub-02,sub-02|ses-S1,matb,same-session personal (1-min gap),-0.15659340659340656
+COGBCI,all features,sub-02,sub-02|ses-S1,matb,cross-session personal,-0.3943833943833943
+COGBCI,all features,sub-02,sub-02|ses-S1,matb,cross-session personal,-0.4078144078144078
+COGBCI,all features,sub-02,sub-02|ses-S2,matb,same-session personal (1-min gap),-0.4340659340659341
+COGBCI,all features,sub-02,sub-02|ses-S2,matb,cross-session personal,0.03907203907203906
+COGBCI,all features,sub-02,sub-02|ses-S2,matb,cross-session personal,-0.08211233211233214
+COGBCI,all features,sub-02,sub-02|ses-S3,matb,same-session personal (1-min gap),0.4697802197802198
+COGBCI,all features,sub-02,sub-02|ses-S3,matb,cross-session personal,-0.061050061050061055
+COGBCI,all features,sub-02,sub-02|ses-S3,matb,cross-session personal,-0.06868131868131867
+COGBCI,all features,sub-02,sub-02|ses-S1,nback,same-session personal (1-min gap),-0.09521739130434782
+COGBCI,all features,sub-02,sub-02|ses-S1,nback,cross-session personal,-0.25151557285873194
+COGBCI,all features,sub-02,sub-02|ses-S1,nback,cross-session personal,0.1888765294771969
+COGBCI,all features,sub-02,sub-02|ses-S2,nback,same-session personal (1-min gap),0.21225490196078434
+COGBCI,all features,sub-02,sub-02|ses-S2,nback,cross-session personal,0.03796914323230112
+COGBCI,all features,sub-02,sub-02|ses-S2,nback,cross-session personal,0.12814238042269183
+COGBCI,all features,sub-02,sub-02|ses-S3,nback,same-session personal (1-min gap),0.5352941176470588
+COGBCI,all features,sub-02,sub-02|ses-S3,nback,cross-session personal,0.037203195097931935
+COGBCI,all features,sub-02,sub-02|ses-S3,nback,cross-session personal,0.0218993325917686
+COGBCI,all features,sub-03,sub-03|ses-S1,matb,same-session personal (1-min gap),-0.3269230769230769
+COGBCI,all features,sub-03,sub-03|ses-S1,matb,cross-session personal,-0.2167277167277167
+COGBCI,all features,sub-03,sub-03|ses-S1,matb,cross-session personal,0.4337606837606838
+COGBCI,all features,sub-03,sub-03|ses-S2,matb,same-session personal (1-min gap),-0.1510989010989011
+COGBCI,all features,sub-03,sub-03|ses-S2,matb,cross-session personal,-0.16086691086691085
+COGBCI,all features,sub-03,sub-03|ses-S2,matb,cross-session personal,0.43284493284493286
+COGBCI,all features,sub-03,sub-03|ses-S3,matb,same-session personal (1-min gap),-0.5659340659340659
+COGBCI,all features,sub-03,sub-03|ses-S3,matb,cross-session personal,0.13400488400488403
+COGBCI,all features,sub-03,sub-03|ses-S3,matb,cross-session personal,-0.1568986568986569
+COGBCI,all features,sub-03,sub-03|ses-S1,nback,same-session personal (1-min gap),-0.3
+COGBCI,all features,sub-03,sub-03|ses-S1,nback,cross-session personal,-0.033799459717146034
+COGBCI,all features,sub-03,sub-03|ses-S1,nback,cross-session personal,-0.05638010487843635
+COGBCI,all features,sub-03,sub-03|ses-S2,nback,same-session personal (1-min gap),-0.032668067226890724
+COGBCI,all features,sub-03,sub-03|ses-S2,nback,cross-session personal,-0.29746963562753037
+COGBCI,all features,sub-03,sub-03|ses-S2,nback,cross-session personal,-0.23313999682186554
+COGBCI,all features,sub-03,sub-03|ses-S3,nback,same-session personal (1-min gap),0.29264705882352937
+COGBCI,all features,sub-03,sub-03|ses-S3,nback,cross-session personal,-0.29929149797570853
+COGBCI,all features,sub-03,sub-03|ses-S3,nback,cross-session personal,-0.09637692674400121
+COGBCI,all features,sub-04,sub-04|ses-S1,matb,same-session personal (1-min gap),0.24999999999999994
+COGBCI,all features,sub-04,sub-04|ses-S1,matb,cross-session personal,0.4297924297924298
+COGBCI,all features,sub-04,sub-04|ses-S1,matb,cross-session personal,-0.15811965811965814
+COGBCI,all features,sub-04,sub-04|ses-S2,matb,same-session personal (1-min gap),0.39010989010989017
+COGBCI,all features,sub-04,sub-04|ses-S2,matb,cross-session personal,0.3833943833943834
+COGBCI,all features,sub-04,sub-04|ses-S2,matb,cross-session personal,-0.3153235653235653
+COGBCI,all features,sub-04,sub-04|ses-S3,matb,same-session personal (1-min gap),0.1263736263736263
+COGBCI,all features,sub-04,sub-04|ses-S3,matb,cross-session personal,0.6175213675213675
+COGBCI,all features,sub-04,sub-04|ses-S3,matb,cross-session personal,0.45421245421245415
+COGBCI,all features,sub-04,sub-04|ses-S1,nback,same-session personal (1-min gap),-0.06488750380054725
+COGBCI,all features,sub-04,sub-04|ses-S1,nback,cross-session personal,0.5588669950738915
+COGBCI,all features,sub-04,sub-04|ses-S1,nback,cross-session personal,0.5197044334975368
+COGBCI,all features,sub-04,sub-04|ses-S2,nback,same-session personal (1-min gap),0.4714285714285713
+COGBCI,all features,sub-04,sub-04|ses-S2,nback,cross-session personal,-0.1741483386220229
+COGBCI,all features,sub-04,sub-04|ses-S2,nback,cross-session personal,0.2876847290640393
+COGBCI,all features,sub-04,sub-04|ses-S3,nback,same-session personal (1-min gap),0.4910714285714285
+COGBCI,all features,sub-04,sub-04|ses-S3,nback,cross-session personal,-0.060857314804683205
+COGBCI,all features,sub-04,sub-04|ses-S3,nback,cross-session personal,-0.17019704433497532
+COGBCI,all features,sub-05,sub-05|ses-S1,matb,same-session personal (1-min gap),-0.38186813186813184
+COGBCI,all features,sub-05,sub-05|ses-S1,matb,cross-session personal,-0.7051282051282051
+COGBCI,all features,sub-05,sub-05|ses-S1,matb,cross-session personal,0.46672771672771673
+COGBCI,all features,sub-05,sub-05|ses-S2,matb,same-session personal (1-min gap),0.3489010989010989
+COGBCI,all features,sub-05,sub-05|ses-S2,matb,cross-session personal,-0.1886446886446887
+COGBCI,all features,sub-05,sub-05|ses-S2,matb,cross-session personal,-0.22802197802197802
+COGBCI,all features,sub-05,sub-05|ses-S3,matb,same-session personal (1-min gap),-0.027472527472527486
+COGBCI,all features,sub-05,sub-05|ses-S3,matb,cross-session personal,0.2735042735042735
+COGBCI,all features,sub-05,sub-05|ses-S3,matb,cross-session personal,0.1468253968253968
+COGBCI,all features,sub-05,sub-05|ses-S1,nback,same-session personal (1-min gap),0.60406346749226
+COGBCI,all features,sub-05,sub-05|ses-S1,nback,cross-session personal,-0.14442815249266855
+COGBCI,all features,sub-05,sub-05|ses-S1,nback,cross-session personal,0.5803879310344828
+COGBCI,all features,sub-05,sub-05|ses-S2,nback,same-session personal (1-min gap),-0.017543859649122806
+COGBCI,all features,sub-05,sub-05|ses-S2,nback,cross-session personal,0.15356218733827842
+COGBCI,all features,sub-05,sub-05|ses-S2,nback,cross-session personal,0.5956201334816462
+COGBCI,all features,sub-05,sub-05|ses-S3,nback,same-session personal (1-min gap),-0.11666666666666667
+COGBCI,all features,sub-05,sub-05|ses-S3,nback,cross-session personal,-0.1704944367776436
+COGBCI,all features,sub-05,sub-05|ses-S3,nback,cross-session personal,0.2730938416422287
+COGBCI,all features,sub-06,sub-06|ses-S1,matb,same-session personal (1-min gap),-0.1675824175824176
+COGBCI,all features,sub-06,sub-06|ses-S1,matb,cross-session personal,-0.045787545787545784
+COGBCI,all features,sub-06,sub-06|ses-S1,matb,cross-session personal,-0.12301587301587301
+COGBCI,all features,sub-06,sub-06|ses-S2,matb,same-session personal (1-min gap),0.23901098901098902
+COGBCI,all features,sub-06,sub-06|ses-S2,matb,cross-session personal,0.05586080586080586
+COGBCI,all features,sub-06,sub-06|ses-S2,matb,cross-session personal,0.1401098901098901
+COGBCI,all features,sub-06,sub-06|ses-S3,matb,same-session personal (1-min gap),0.18681318681318682
+COGBCI,all features,sub-06,sub-06|ses-S3,matb,cross-session personal,0.09340659340659341
+COGBCI,all features,sub-06,sub-06|ses-S3,matb,cross-session personal,-0.04029304029304029
+COGBCI,all features,sub-06,sub-06|ses-S1,nback,same-session personal (1-min gap),0.2209752321981424
+COGBCI,all features,sub-06,sub-06|ses-S1,nback,cross-session personal,-0.03248053392658509
+COGBCI,all features,sub-06,sub-06|ses-S1,nback,cross-session personal,0.1253694581280788
+COGBCI,all features,sub-06,sub-06|ses-S2,nback,same-session personal (1-min gap),-0.18676470588235297
+COGBCI,all features,sub-06,sub-06|ses-S2,nback,cross-session personal,0.2782624633431085
+COGBCI,all features,sub-06,sub-06|ses-S2,nback,cross-session personal,0.11847290640394087
+COGBCI,all features,sub-06,sub-06|ses-S3,nback,same-session personal (1-min gap),0.11249999999999996
+COGBCI,all features,sub-06,sub-06|ses-S3,nback,cross-session personal,0.39741568914956016
+COGBCI,all features,sub-06,sub-06|ses-S3,nback,cross-session personal,-0.007341490545050053
+COGBCI,all features,sub-07,sub-07|ses-S1,matb,same-session personal (1-min gap),0.1456043956043956
+COGBCI,all features,sub-07,sub-07|ses-S1,matb,cross-session personal,0.06318681318681324
+COGBCI,all features,sub-07,sub-07|ses-S1,matb,cross-session personal,-0.49542124542124544
+COGBCI,all features,sub-07,sub-07|ses-S2,matb,same-session personal (1-min gap),0.13186813186813187
+COGBCI,all features,sub-07,sub-07|ses-S2,matb,cross-session personal,-0.07997557997557997
+COGBCI,all features,sub-07,sub-07|ses-S2,matb,cross-session personal,-0.4401709401709401
+COGBCI,all features,sub-07,sub-07|ses-S3,matb,same-session personal (1-min gap),-0.38461538461538464
+COGBCI,all features,sub-07,sub-07|ses-S3,matb,cross-session personal,-0.29792429792429787
+COGBCI,all features,sub-07,sub-07|ses-S3,matb,cross-session personal,-0.31166056166056166
+COGBCI,all features,sub-07,sub-07|ses-S1,nback,same-session personal (1-min gap),0.2315642046292201
+COGBCI,all features,sub-07,sub-07|ses-S1,nback,cross-session personal,0.1272525027808676
+COGBCI,all features,sub-07,sub-07|ses-S1,nback,cross-session personal,-0.25757091212458294
+COGBCI,all features,sub-07,sub-07|ses-S2,nback,same-session personal (1-min gap),0.17941176470588235
+COGBCI,all features,sub-07,sub-07|ses-S2,nback,cross-session personal,-0.32556279109884423
+COGBCI,all features,sub-07,sub-07|ses-S2,nback,cross-session personal,0.7047413793103449
+COGBCI,all features,sub-07,sub-07|ses-S3,nback,same-session personal (1-min gap),-0.030392156862745087
+COGBCI,all features,sub-07,sub-07|ses-S3,nback,cross-session personal,-0.22090644175558782
+COGBCI,all features,sub-07,sub-07|ses-S3,nback,cross-session personal,0.07007786429365963
+COGBCI,all features,sub-08,sub-08|ses-S1,matb,same-session personal (1-min gap),-0.0357142857142857
+COGBCI,all features,sub-08,sub-08|ses-S1,matb,cross-session personal,-0.452991452991453
+COGBCI,all features,sub-08,sub-08|ses-S1,matb,cross-session personal,-0.38278388278388276
+COGBCI,all features,sub-08,sub-08|ses-S2,matb,same-session personal (1-min gap),-0.15384615384615388
+COGBCI,all features,sub-08,sub-08|ses-S2,matb,cross-session personal,0.2368742368742369
+COGBCI,all features,sub-08,sub-08|ses-S2,matb,cross-session personal,-0.31318681318681313
+COGBCI,all features,sub-08,sub-08|ses-S3,matb,same-session personal (1-min gap),0.23901098901098897
+COGBCI,all features,sub-08,sub-08|ses-S3,matb,cross-session personal,-0.3153235653235653
+COGBCI,all features,sub-08,sub-08|ses-S3,matb,cross-session personal,0.420940170940171
+COGBCI,all features,sub-08,sub-08|ses-S1,nback,same-session personal (1-min gap),0.4567595459236326
+COGBCI,all features,sub-08,sub-08|ses-S1,nback,cross-session personal,-0.302690489432703
+COGBCI,all features,sub-08,sub-08|ses-S1,nback,cross-session personal,-0.11808701587622611
+COGBCI,all features,sub-08,sub-08|ses-S2,nback,same-session personal (1-min gap),0.021813725490196077
+COGBCI,all features,sub-08,sub-08|ses-S2,nback,cross-session personal,-0.10460988293588241
+COGBCI,all features,sub-08,sub-08|ses-S2,nback,cross-session personal,0.2977019921124482
+COGBCI,all features,sub-08,sub-08|ses-S3,nback,same-session personal (1-min gap),-0.09388544891640868
+COGBCI,all features,sub-08,sub-08|ses-S3,nback,cross-session personal,0.2042495969972578
+COGBCI,all features,sub-08,sub-08|ses-S3,nback,cross-session personal,-0.39977057842046715
+COGBCI,all features,sub-09,sub-09|ses-S1,matb,same-session personal (1-min gap),-0.3763736263736263
+COGBCI,all features,sub-09,sub-09|ses-S1,matb,cross-session personal,0.05921855921855923
+COGBCI,all features,sub-09,sub-09|ses-S1,matb,cross-session personal,0.11141636141636141
+COGBCI,all features,sub-09,sub-09|ses-S2,matb,same-session personal (1-min gap),0.48901098901098894
+COGBCI,all features,sub-09,sub-09|ses-S2,matb,cross-session personal,-0.20207570207570208
+COGBCI,all features,sub-09,sub-09|ses-S2,matb,cross-session personal,0.041208791208791215
+COGBCI,all features,sub-09,sub-09|ses-S3,matb,same-session personal (1-min gap),-0.20054945054945056
+COGBCI,all features,sub-09,sub-09|ses-S3,matb,cross-session personal,-0.12393162393162391
+COGBCI,all features,sub-09,sub-09|ses-S3,matb,cross-session personal,-0.12332112332112331
+COGBCI,all features,sub-09,sub-09|ses-S1,nback,same-session personal (1-min gap),-0.14209420610349402
+COGBCI,all features,sub-09,sub-09|ses-S1,nback,cross-session personal,-0.21420781239900472
+COGBCI,all features,sub-09,sub-09|ses-S1,nback,cross-session personal,0.06133004926108373
+COGBCI,all features,sub-09,sub-09|ses-S2,nback,same-session personal (1-min gap),-0.49796725014116316
+COGBCI,all features,sub-09,sub-09|ses-S2,nback,cross-session personal,0.016846459991621276
+COGBCI,all features,sub-09,sub-09|ses-S2,nback,cross-session personal,0.0293103448275862
+COGBCI,all features,sub-09,sub-09|ses-S3,nback,same-session personal (1-min gap),-0.049999999999999996
+COGBCI,all features,sub-09,sub-09|ses-S3,nback,cross-session personal,-0.03182703003337041
+COGBCI,all features,sub-09,sub-09|ses-S3,nback,cross-session personal,0.2491039698266485
+COGBCI,all features,sub-10,sub-10|ses-S1,matb,same-session personal (1-min gap),0.04395604395604394
+COGBCI,all features,sub-10,sub-10|ses-S1,matb,cross-session personal,0.4624542124542124
+COGBCI,all features,sub-10,sub-10|ses-S1,matb,cross-session personal,0.6413308913308913
+COGBCI,all features,sub-10,sub-10|ses-S2,matb,same-session personal (1-min gap),-0.2445054945054945
+COGBCI,all features,sub-10,sub-10|ses-S2,matb,cross-session personal,0.3391330891330891
+COGBCI,all features,sub-10,sub-10|ses-S2,matb,cross-session personal,0.5671550671550671
+COGBCI,all features,sub-10,sub-10|ses-S3,matb,same-session personal (1-min gap),0.5027472527472528
+COGBCI,all features,sub-10,sub-10|ses-S3,matb,cross-session personal,0.08699633699633696
+COGBCI,all features,sub-10,sub-10|ses-S3,matb,cross-session personal,-0.7951770451770451
+COGBCI,all features,sub-10,sub-10|ses-S1,nback,same-session personal (1-min gap),-0.041599319153498716
+COGBCI,all features,sub-10,sub-10|ses-S1,nback,cross-session personal,-0.2592042508905908
+COGBCI,all features,sub-10,sub-10|ses-S1,nback,cross-session personal,-0.4156449991324104
+COGBCI,all features,sub-10,sub-10|ses-S2,nback,same-session personal (1-min gap),0.3627365282097337
+COGBCI,all features,sub-10,sub-10|ses-S2,nback,cross-session personal,-0.13916922150237937
+COGBCI,all features,sub-10,sub-10|ses-S2,nback,cross-session personal,0.5084899372670394
+COGBCI,all features,sub-10,sub-10|ses-S3,nback,same-session personal (1-min gap),-0.08981092436974786
+COGBCI,all features,sub-10,sub-10|ses-S3,nback,cross-session personal,0.06278457052604434
+COGBCI,all features,sub-10,sub-10|ses-S3,nback,cross-session personal,-0.35290002644986807
+COGBCI,all features,sub-11,sub-11|ses-S2,matb,same-session personal (1-min gap),-0.08516483516483517
+COGBCI,all features,sub-11,sub-11|ses-S2,matb,cross-session personal,0.6830748164762227
+COGBCI,all features,sub-11,sub-11|ses-S3,matb,same-session personal (1-min gap),-0.3214285714285714
+COGBCI,all features,sub-11,sub-11|ses-S3,matb,cross-session personal,-0.4539206495016018
+COGBCI,all features,sub-11,sub-11|ses-S3,matb,cross-session personal,-0.2798104381860357
+COGBCI,all features,sub-11,sub-11|ses-S2,nback,same-session personal (1-min gap),0.0356764209837542
+COGBCI,all features,sub-11,sub-11|ses-S2,nback,cross-session personal,-0.5009328330612248
+COGBCI,all features,sub-11,sub-11|ses-S3,nback,same-session personal (1-min gap),0.6894714405081037
+COGBCI,all features,sub-11,sub-11|ses-S3,nback,cross-session personal,-0.28406863043500313
+COGBCI,all features,sub-12,sub-12|ses-S1,matb,same-session personal (1-min gap),0.532967032967033
+COGBCI,all features,sub-12,sub-12|ses-S1,matb,cross-session personal,-0.2661782661782662
+COGBCI,all features,sub-12,sub-12|ses-S1,matb,cross-session personal,-0.21062271062271065
+COGBCI,all features,sub-12,sub-12|ses-S2,matb,same-session personal (1-min gap),-0.5357142857142857
+COGBCI,all features,sub-12,sub-12|ses-S2,matb,cross-session personal,-0.22161172161172157
+COGBCI,all features,sub-12,sub-12|ses-S2,matb,cross-session personal,0.03174603174603173
+COGBCI,all features,sub-12,sub-12|ses-S3,matb,same-session personal (1-min gap),0.6868131868131868
+COGBCI,all features,sub-12,sub-12|ses-S3,matb,cross-session personal,-0.12240537240537244
+COGBCI,all features,sub-12,sub-12|ses-S3,matb,cross-session personal,0.23412698412698413
+COGBCI,all features,sub-12,sub-12|ses-S1,nback,same-session personal (1-min gap),-0.45367647058823535
+COGBCI,all features,sub-12,sub-12|ses-S1,nback,cross-session personal,-0.15441959319879234
+COGBCI,all features,sub-12,sub-12|ses-S1,nback,cross-session personal,0.4857460670586365
+COGBCI,all features,sub-12,sub-12|ses-S2,nback,same-session personal (1-min gap),-0.11915266106442571
+COGBCI,all features,sub-12,sub-12|ses-S2,nback,cross-session personal,-0.2709190767519466
+COGBCI,all features,sub-12,sub-12|ses-S2,nback,cross-session personal,-0.4939694899094231
+COGBCI,all features,sub-12,sub-12|ses-S3,nback,same-session personal (1-min gap),0.030147058823529416
+COGBCI,all features,sub-12,sub-12|ses-S3,nback,cross-session personal,0.1285456062291435
+COGBCI,all features,sub-12,sub-12|ses-S3,nback,cross-session personal,-0.18994021134593994
+COGBCI,all features,sub-13,sub-13|ses-S2,matb,same-session personal (1-min gap),-0.1565934065934066
+COGBCI,all features,sub-13,sub-13|ses-S2,matb,cross-session personal,0.4539206495016018
+COGBCI,all features,sub-13,sub-13|ses-S2,matb,cross-session personal,0.11477411477411475
+COGBCI,all features,sub-13,sub-13|ses-S3,matb,same-session personal (1-min gap),0.3763736263736263
+COGBCI,all features,sub-13,sub-13|ses-S3,matb,cross-session personal,0.2854090354090354
+COGBCI,all features,sub-13,sub-13|ses-S2,nback,same-session personal (1-min gap),-0.17941176470588235
+COGBCI,all features,sub-13,sub-13|ses-S2,nback,cross-session personal,0.43228960753537937
+COGBCI,all features,sub-13,sub-13|ses-S2,nback,cross-session personal,-0.009135150166852096
+COGBCI,all features,sub-13,sub-13|ses-S3,nback,same-session personal (1-min gap),-0.4294117647058824
+COGBCI,all features,sub-13,sub-13|ses-S3,nback,cross-session personal,0.36423109010011123
+COGBCI,all features,sub-14,sub-14|ses-S1,matb,same-session personal (1-min gap),0.2115384615384615
+COGBCI,all features,sub-14,sub-14|ses-S1,matb,cross-session personal,0.04914529914529911
+COGBCI,all features,sub-14,sub-14|ses-S1,matb,cross-session personal,0.15140415140415142
+COGBCI,all features,sub-14,sub-14|ses-S2,matb,same-session personal (1-min gap),-0.0357142857142857
+COGBCI,all features,sub-14,sub-14|ses-S2,matb,cross-session personal,0.13247863247863248
+COGBCI,all features,sub-14,sub-14|ses-S2,matb,cross-session personal,0.32234432234432236
+COGBCI,all features,sub-14,sub-14|ses-S3,matb,same-session personal (1-min gap),-0.22527472527472528
+COGBCI,all features,sub-14,sub-14|ses-S3,matb,cross-session personal,0.536019536019536
+COGBCI,all features,sub-14,sub-14|ses-S3,matb,cross-session personal,0.2936507936507936
+COGBCI,all features,sub-14,sub-14|ses-S1,nback,same-session personal (1-min gap),-0.3638511451377956
+COGBCI,all features,sub-14,sub-14|ses-S1,nback,cross-session personal,0.0016337597330367062
+COGBCI,all features,sub-14,sub-14|ses-S1,nback,cross-session personal,0.39844271412680754
+COGBCI,all features,sub-14,sub-14|ses-S2,nback,same-session personal (1-min gap),0.2455882352941176
+COGBCI,all features,sub-14,sub-14|ses-S2,nback,cross-session personal,-0.3574143431059357
+COGBCI,all features,sub-14,sub-14|ses-S2,nback,cross-session personal,0.35817575083426034
+COGBCI,all features,sub-14,sub-14|ses-S3,nback,same-session personal (1-min gap),0.15294117647058825
+COGBCI,all features,sub-14,sub-14|ses-S3,nback,cross-session personal,0.22255855677476777
+COGBCI,all features,sub-14,sub-14|ses-S3,nback,cross-session personal,-0.14256813125695217
+COGBCI,all features,sub-15,sub-15|ses-S1,matb,same-session personal (1-min gap),0.5027472527472528
+COGBCI,all features,sub-15,sub-15|ses-S1,matb,cross-session personal,-0.6584249084249083
+COGBCI,all features,sub-15,sub-15|ses-S1,matb,cross-session personal,0.2670940170940171
+COGBCI,all features,sub-15,sub-15|ses-S2,matb,same-session personal (1-min gap),0.2582417582417582
+COGBCI,all features,sub-15,sub-15|ses-S2,matb,cross-session personal,-0.1852869352869353
+COGBCI,all features,sub-15,sub-15|ses-S2,matb,cross-session personal,0.5314407814407814
+COGBCI,all features,sub-15,sub-15|ses-S3,matb,same-session personal (1-min gap),-0.23076923076923078
+COGBCI,all features,sub-15,sub-15|ses-S3,matb,cross-session personal,0.3778998778998779
+COGBCI,all features,sub-15,sub-15|ses-S3,matb,cross-session personal,-0.6984126984126984
+COGBCI,all features,sub-15,sub-15|ses-S1,nback,same-session personal (1-min gap),0.20116099071207427
+COGBCI,all features,sub-15,sub-15|ses-S1,nback,cross-session personal,0.4366200540282854
+COGBCI,all features,sub-15,sub-15|ses-S1,nback,cross-session personal,0.0296649054505006
+COGBCI,all features,sub-15,sub-15|ses-S2,nback,same-session personal (1-min gap),0.08151260504201685
+COGBCI,all features,sub-15,sub-15|ses-S2,nback,cross-session personal,-0.10885193292606761
+COGBCI,all features,sub-15,sub-15|ses-S2,nback,cross-session personal,0.06623331479421576
+COGBCI,all features,sub-15,sub-15|ses-S3,nback,same-session personal (1-min gap),0.3921568627450981
+COGBCI,all features,sub-15,sub-15|ses-S3,nback,cross-session personal,-0.2516246884535997
+COGBCI,all features,sub-15,sub-15|ses-S3,nback,cross-session personal,-0.32495630065151754
+COGBCI,all features,sub-16,sub-16|ses-S1,matb,same-session personal (1-min gap),0.10989010989010987
+COGBCI,all features,sub-16,sub-16|ses-S1,matb,cross-session personal,-0.013431013431013439
+COGBCI,all features,sub-16,sub-16|ses-S1,matb,cross-session personal,0.057692307692307696
+COGBCI,all features,sub-16,sub-16|ses-S2,matb,same-session personal (1-min gap),0.15934065934065933
+COGBCI,all features,sub-16,sub-16|ses-S2,matb,cross-session personal,0.05341880341880342
+COGBCI,all features,sub-16,sub-16|ses-S2,matb,cross-session personal,0.38614163614163616
+COGBCI,all features,sub-16,sub-16|ses-S3,matb,same-session personal (1-min gap),0.434065934065934
+COGBCI,all features,sub-16,sub-16|ses-S3,matb,cross-session personal,-0.04700854700854698
+COGBCI,all features,sub-16,sub-16|ses-S3,matb,cross-session personal,0.31196581196581197
+COGBCI,all features,sub-16,sub-16|ses-S1,nback,same-session personal (1-min gap),0.054411764705882354
+COGBCI,all features,sub-16,sub-16|ses-S1,nback,cross-session personal,0.3738916256157635
+COGBCI,all features,sub-16,sub-16|ses-S1,nback,cross-session personal,0.1133481646273637
+COGBCI,all features,sub-16,sub-16|ses-S2,nback,same-session personal (1-min gap),0.15
+COGBCI,all features,sub-16,sub-16|ses-S2,nback,cross-session personal,0.28186874304783094
+COGBCI,all features,sub-16,sub-16|ses-S2,nback,cross-session personal,0.1821229938026378
+COGBCI,all features,sub-16,sub-16|ses-S3,nback,same-session personal (1-min gap),0.12563025210084033
+COGBCI,all features,sub-16,sub-16|ses-S3,nback,cross-session personal,0.006229143492769746
+COGBCI,all features,sub-16,sub-16|ses-S3,nback,cross-session personal,0.6788177339901477
+COGBCI,all features,sub-17,sub-17|ses-S1,matb,same-session personal (1-min gap),-0.035714285714285726
+COGBCI,all features,sub-17,sub-17|ses-S1,matb,cross-session personal,0.1797924297924298
+COGBCI,all features,sub-17,sub-17|ses-S1,matb,cross-session personal,-0.34798534798534797
+COGBCI,all features,sub-17,sub-17|ses-S2,matb,same-session personal (1-min gap),-0.38461538461538464
+COGBCI,all features,sub-17,sub-17|ses-S2,matb,cross-session personal,-0.6297313797313797
+COGBCI,all features,sub-17,sub-17|ses-S2,matb,cross-session personal,0.17368742368742368
+COGBCI,all features,sub-17,sub-17|ses-S3,matb,same-session personal (1-min gap),-0.4917582417582418
+COGBCI,all features,sub-17,sub-17|ses-S3,matb,cross-session personal,0.6156898656898657
+COGBCI,all features,sub-17,sub-17|ses-S3,matb,cross-session personal,0.20665445665445664
+COGBCI,all features,sub-17,sub-17|ses-S1,nback,same-session personal (1-min gap),-0.20441176470588235
+COGBCI,all features,sub-17,sub-17|ses-S1,nback,cross-session personal,-0.45506117908787536
+COGBCI,all features,sub-17,sub-17|ses-S1,nback,cross-session personal,0.4423645320197044
+COGBCI,all features,sub-17,sub-17|ses-S2,nback,same-session personal (1-min gap),-0.02037815126050424
+COGBCI,all features,sub-17,sub-17|ses-S2,nback,cross-session personal,0.09321468298109008
+COGBCI,all features,sub-17,sub-17|ses-S2,nback,cross-session personal,0.28990147783251224
+COGBCI,all features,sub-17,sub-17|ses-S3,nback,same-session personal (1-min gap),0.12499999999999997
+COGBCI,all features,sub-17,sub-17|ses-S3,nback,cross-session personal,0.053837597330367075
+COGBCI,all features,sub-17,sub-17|ses-S3,nback,cross-session personal,-0.6199110122358176
+COGBCI,all features,sub-18,sub-18|ses-S1,matb,same-session personal (1-min gap),-0.12637362637362637
+COGBCI,all features,sub-18,sub-18|ses-S1,matb,cross-session personal,-0.536019536019536
+COGBCI,all features,sub-18,sub-18|ses-S1,matb,cross-session personal,-0.09829059829059829
+COGBCI,all features,sub-18,sub-18|ses-S2,matb,same-session personal (1-min gap),-0.25824175824175827
+COGBCI,all features,sub-18,sub-18|ses-S2,matb,cross-session personal,0.15720390720390723
+COGBCI,all features,sub-18,sub-18|ses-S2,matb,cross-session personal,-0.4157509157509158
+COGBCI,all features,sub-18,sub-18|ses-S3,matb,same-session personal (1-min gap),0.3846153846153846
+COGBCI,all features,sub-18,sub-18|ses-S3,matb,cross-session personal,0.3858363858363858
+COGBCI,all features,sub-18,sub-18|ses-S3,matb,cross-session personal,0.42155067155067155
+COGBCI,all features,sub-18,sub-18|ses-S1,nback,same-session personal (1-min gap),0.5973684210526315
+COGBCI,all features,sub-18,sub-18|ses-S1,nback,cross-session personal,0.34041295884315903
+COGBCI,all features,sub-18,sub-18|ses-S1,nback,cross-session personal,-0.1259891943429207
+COGBCI,all features,sub-18,sub-18|ses-S2,nback,same-session personal (1-min gap),-3.469446951953614e-18
+COGBCI,all features,sub-18,sub-18|ses-S2,nback,cross-session personal,-0.32286096256684493
+COGBCI,all features,sub-18,sub-18|ses-S2,nback,cross-session personal,0.15296361036071826
+COGBCI,all features,sub-18,sub-18|ses-S3,nback,same-session personal (1-min gap),0.12247899159663864
+COGBCI,all features,sub-18,sub-18|ses-S3,nback,cross-session personal,0.4557152406417113
+COGBCI,all features,sub-18,sub-18|ses-S3,nback,cross-session personal,0.3021690767519466
+COGBCI,all features,sub-19,sub-19|ses-S1,matb,same-session personal (1-min gap),0.2554945054945055
+COGBCI,all features,sub-19,sub-19|ses-S1,matb,cross-session personal,-0.21428571428571427
+COGBCI,all features,sub-19,sub-19|ses-S1,matb,cross-session personal,-0.0747863247863248
+COGBCI,all features,sub-19,sub-19|ses-S2,matb,same-session personal (1-min gap),-0.5247252747252746
+COGBCI,all features,sub-19,sub-19|ses-S2,matb,cross-session personal,0.06135531135531136
+COGBCI,all features,sub-19,sub-19|ses-S2,matb,cross-session personal,-0.192002442002442
+COGBCI,all features,sub-19,sub-19|ses-S3,matb,same-session personal (1-min gap),-0.038461538461538436
+COGBCI,all features,sub-19,sub-19|ses-S3,matb,cross-session personal,0.008547008547008517
+COGBCI,all features,sub-19,sub-19|ses-S3,matb,cross-session personal,-0.7384004884004883
+COGBCI,all features,sub-19,sub-19|ses-S1,nback,same-session personal (1-min gap),-0.055147058823529424
+COGBCI,all features,sub-19,sub-19|ses-S1,nback,cross-session personal,-0.19493520802577646
+COGBCI,all features,sub-19,sub-19|ses-S1,nback,cross-session personal,-0.03275862068965517
+COGBCI,all features,sub-19,sub-19|ses-S2,nback,same-session personal (1-min gap),-0.3499941873982795
+COGBCI,all features,sub-19,sub-19|ses-S2,nback,cross-session personal,-0.002620967741935487
+COGBCI,all features,sub-19,sub-19|ses-S2,nback,cross-session personal,-0.009113300492610804
+COGBCI,all features,sub-19,sub-19|ses-S3,nback,same-session personal (1-min gap),-0.20178571428571426
+COGBCI,all features,sub-19,sub-19|ses-S3,nback,cross-session personal,-0.06572580645161291
+COGBCI,all features,sub-19,sub-19|ses-S3,nback,cross-session personal,-0.6182492427442956
+COGBCI,all features,sub-20,sub-20|ses-S1,matb,same-session personal (1-min gap),0.04395604395604395
+COGBCI,all features,sub-20,sub-20|ses-S1,matb,cross-session personal,-0.08669108669108669
+COGBCI,all features,sub-20,sub-20|ses-S1,matb,cross-session personal,0.2731990231990232
+COGBCI,all features,sub-20,sub-20|ses-S2,matb,same-session personal (1-min gap),-0.48901098901098905
+COGBCI,all features,sub-20,sub-20|ses-S2,matb,cross-session personal,0.24175824175824173
+COGBCI,all features,sub-20,sub-20|ses-S2,matb,cross-session personal,0.015262515262515262
+COGBCI,all features,sub-20,sub-20|ses-S3,matb,same-session personal (1-min gap),0.27472527472527475
+COGBCI,all features,sub-20,sub-20|ses-S3,matb,cross-session personal,-0.08150183150183149
+COGBCI,all features,sub-20,sub-20|ses-S3,matb,cross-session personal,-0.3898046398046398
+COGBCI,all features,sub-20,sub-20|ses-S1,nback,same-session personal (1-min gap),0.06478328173374617
+COGBCI,all features,sub-20,sub-20|ses-S1,nback,cross-session personal,0.14408866995073888
+COGBCI,all features,sub-20,sub-20|ses-S1,nback,cross-session personal,-0.06010646750357543
+COGBCI,all features,sub-20,sub-20|ses-S2,nback,same-session personal (1-min gap),0.29464285714285704
+COGBCI,all features,sub-20,sub-20|ses-S2,nback,cross-session personal,0.5865655573079672
+COGBCI,all features,sub-20,sub-20|ses-S2,nback,cross-session personal,-0.44366756713808986
+COGBCI,all features,sub-20,sub-20|ses-S3,nback,same-session personal (1-min gap),-0.29075630252100837
+COGBCI,all features,sub-20,sub-20|ses-S3,nback,cross-session personal,-0.06073708075605613
+COGBCI,all features,sub-20,sub-20|ses-S3,nback,cross-session personal,-0.06527093596059112
+COGBCI,all features,sub-21,sub-21|ses-S1,matb,same-session personal (1-min gap),-0.013736263736263687
+COGBCI,all features,sub-21,sub-21|ses-S1,matb,cross-session personal,-0.06196581196581197
+COGBCI,all features,sub-21,sub-21|ses-S1,matb,cross-session personal,-0.1382783882783883
+COGBCI,all features,sub-21,sub-21|ses-S2,matb,same-session personal (1-min gap),0.021978021978021983
+COGBCI,all features,sub-21,sub-21|ses-S2,matb,cross-session personal,0.07081807081807082
+COGBCI,all features,sub-21,sub-21|ses-S2,matb,cross-session personal,-0.20115995115995117
+COGBCI,all features,sub-21,sub-21|ses-S3,matb,same-session personal (1-min gap),0.021978021978021983
+COGBCI,all features,sub-21,sub-21|ses-S3,matb,cross-session personal,0.12728937728937728
+COGBCI,all features,sub-21,sub-21|ses-S3,matb,cross-session personal,0.007631257631257632
+COGBCI,all features,sub-21,sub-21|ses-S1,nback,same-session personal (1-min gap),-0.101109391124871
+COGBCI,all features,sub-21,sub-21|ses-S1,nback,cross-session personal,0.419452169076752
+COGBCI,all features,sub-21,sub-21|ses-S1,nback,cross-session personal,0.10883785332314745
+COGBCI,all features,sub-21,sub-21|ses-S2,nback,same-session personal (1-min gap),0.3924019607843138
+COGBCI,all features,sub-21,sub-21|ses-S2,nback,cross-session personal,0.21359970674486803
+COGBCI,all features,sub-21,sub-21|ses-S2,nback,cross-session personal,-0.0001098166539342943
+COGBCI,all features,sub-21,sub-21|ses-S3,nback,same-session personal (1-min gap),-0.22330827067669173
+COGBCI,all features,sub-21,sub-21|ses-S3,nback,cross-session personal,0.28809156638689454
+COGBCI,all features,sub-21,sub-21|ses-S3,nback,cross-session personal,0.39249860956618465
+COGBCI,all features,sub-22,sub-22|ses-S1,matb,same-session personal (1-min gap),-0.4423076923076923
+COGBCI,all features,sub-22,sub-22|ses-S1,matb,cross-session personal,0.6953601953601953
+COGBCI,all features,sub-22,sub-22|ses-S1,matb,cross-session personal,0.0009157509157508847
+COGBCI,all features,sub-22,sub-22|ses-S2,matb,same-session personal (1-min gap),0.23351648351648352
+COGBCI,all features,sub-22,sub-22|ses-S2,matb,cross-session personal,-0.30952380952380953
+COGBCI,all features,sub-22,sub-22|ses-S2,matb,cross-session personal,0.049145299145299165
+COGBCI,all features,sub-22,sub-22|ses-S3,matb,same-session personal (1-min gap),0.06593406593406595
+COGBCI,all features,sub-22,sub-22|ses-S3,matb,cross-session personal,-0.25335775335775335
+COGBCI,all features,sub-22,sub-22|ses-S3,matb,cross-session personal,0.7075702075702075
+COGBCI,all features,sub-22,sub-22|ses-S1,nback,same-session personal (1-min gap),-0.010902255639097733
+COGBCI,all features,sub-22,sub-22|ses-S1,nback,cross-session personal,-0.6271551724137931
+COGBCI,all features,sub-22,sub-22|ses-S1,nback,cross-session personal,-0.18237625139043384
+COGBCI,all features,sub-22,sub-22|ses-S2,nback,same-session personal (1-min gap),-0.2960784313725491
+COGBCI,all features,sub-22,sub-22|ses-S2,nback,cross-session personal,0.18558696205755026
+COGBCI,all features,sub-22,sub-22|ses-S2,nback,cross-session personal,0.12469410456062291
+COGBCI,all features,sub-22,sub-22|ses-S3,nback,same-session personal (1-min gap),0.08455882352941177
+COGBCI,all features,sub-22,sub-22|ses-S3,nback,cross-session personal,0.40159154570919275
+COGBCI,all features,sub-22,sub-22|ses-S3,nback,cross-session personal,-0.3256048387096774
+COGBCI,all features,sub-23,sub-23|ses-S1,matb,same-session personal (1-min gap),-0.17307692307692307
+COGBCI,all features,sub-23,sub-23|ses-S1,matb,cross-session personal,0.12759462759462759
+COGBCI,all features,sub-23,sub-23|ses-S1,matb,cross-session personal,0.20940170940170935
+COGBCI,all features,sub-23,sub-23|ses-S2,matb,same-session personal (1-min gap),-0.02472527472527472
+COGBCI,all features,sub-23,sub-23|ses-S2,matb,cross-session personal,0.28205128205128205
+COGBCI,all features,sub-23,sub-23|ses-S2,matb,cross-session personal,0.23473748473748468
+COGBCI,all features,sub-23,sub-23|ses-S3,matb,same-session personal (1-min gap),-0.06868131868131869
+COGBCI,all features,sub-23,sub-23|ses-S3,matb,cross-session personal,-0.43925518925518925
+COGBCI,all features,sub-23,sub-23|ses-S3,matb,cross-session personal,-0.2677045177045177
+COGBCI,all features,sub-23,sub-23|ses-S1,nback,same-session personal (1-min gap),-0.04558823529411768
+COGBCI,all features,sub-23,sub-23|ses-S1,nback,cross-session personal,0.14778325123152702
+COGBCI,all features,sub-23,sub-23|ses-S1,nback,cross-session personal,0.3834419195931988
+COGBCI,all features,sub-23,sub-23|ses-S2,nback,same-session personal (1-min gap),0.5357142857142856
+COGBCI,all features,sub-23,sub-23|ses-S2,nback,cross-session personal,-0.02291434927697439
+COGBCI,all features,sub-23,sub-23|ses-S2,nback,cross-session personal,0.38579373907516284
+COGBCI,all features,sub-23,sub-23|ses-S3,nback,same-session personal (1-min gap),0.164390756302521
+COGBCI,all features,sub-23,sub-23|ses-S3,nback,cross-session personal,0.07719688542825362
+COGBCI,all features,sub-23,sub-23|ses-S3,nback,cross-session personal,0.010837438423645318
+COGBCI,all features,sub-24,sub-24|ses-S1,matb,same-session personal (1-min gap),0.7005494505494505
+COGBCI,all features,sub-24,sub-24|ses-S1,matb,cross-session personal,0.5445665445665446
+COGBCI,all features,sub-24,sub-24|ses-S1,matb,cross-session personal,0.17918192918192918
+COGBCI,all features,sub-24,sub-24|ses-S2,matb,same-session personal (1-min gap),-0.1401098901098901
+COGBCI,all features,sub-24,sub-24|ses-S2,matb,cross-session personal,0.04731379731379731
+COGBCI,all features,sub-24,sub-24|ses-S2,matb,cross-session personal,-0.3638583638583638
+COGBCI,all features,sub-24,sub-24|ses-S3,matb,same-session personal (1-min gap),0.17857142857142858
+COGBCI,all features,sub-24,sub-24|ses-S3,matb,cross-session personal,0.4633699633699634
+COGBCI,all features,sub-24,sub-24|ses-S3,matb,cross-session personal,-0.4685592185592185
+COGBCI,all features,sub-24,sub-24|ses-S1,nback,same-session personal (1-min gap),-0.253992703800888
+COGBCI,all features,sub-24,sub-24|ses-S1,nback,cross-session personal,0.24271412680756393
+COGBCI,all features,sub-24,sub-24|ses-S1,nback,cross-session personal,-0.04627363737486095
+COGBCI,all features,sub-24,sub-24|ses-S2,nback,same-session personal (1-min gap),0.11470588235294124
+COGBCI,all features,sub-24,sub-24|ses-S2,nback,cross-session personal,-0.1227544941254619
+COGBCI,all features,sub-24,sub-24|ses-S2,nback,cross-session personal,-0.059176863181312565
+COGBCI,all features,sub-24,sub-24|ses-S3,nback,same-session personal (1-min gap),0.13529411764705881
+COGBCI,all features,sub-24,sub-24|ses-S3,nback,cross-session personal,-0.19431929048864535
+COGBCI,all features,sub-24,sub-24|ses-S3,nback,cross-session personal,0.3813125695216908
+COGBCI,all features,sub-25,sub-25|ses-S1,matb,same-session personal (1-min gap),0.3379120879120879
+COGBCI,all features,sub-25,sub-25|ses-S1,matb,cross-session personal,-0.4603174603174603
+COGBCI,all features,sub-25,sub-25|ses-S1,matb,cross-session personal,0.5027472527472527
+COGBCI,all features,sub-25,sub-25|ses-S2,matb,same-session personal (1-min gap),0.31043956043956045
+COGBCI,all features,sub-25,sub-25|ses-S2,matb,cross-session personal,0.5885225885225887
+COGBCI,all features,sub-25,sub-25|ses-S2,matb,cross-session personal,0.5531135531135531
+COGBCI,all features,sub-25,sub-25|ses-S3,matb,same-session personal (1-min gap),0.05494505494505496
+COGBCI,all features,sub-25,sub-25|ses-S3,matb,cross-session personal,0.44078144078144077
+COGBCI,all features,sub-25,sub-25|ses-S3,matb,cross-session personal,-0.4188034188034188
+COGBCI,all features,sub-25,sub-25|ses-S1,nback,same-session personal (1-min gap),-0.11701496388028895
+COGBCI,all features,sub-25,sub-25|ses-S1,nback,cross-session personal,0.1597330367074527
+COGBCI,all features,sub-25,sub-25|ses-S1,nback,cross-session personal,-0.6023498331479422
+COGBCI,all features,sub-25,sub-25|ses-S2,nback,same-session personal (1-min gap),0.10882352941176471
+COGBCI,all features,sub-25,sub-25|ses-S2,nback,cross-session personal,-0.022809211661204067
+COGBCI,all features,sub-25,sub-25|ses-S2,nback,cross-session personal,0.19555061179087876
+COGBCI,all features,sub-25,sub-25|ses-S3,nback,same-session personal (1-min gap),-0.3399509803921569
+COGBCI,all features,sub-25,sub-25|ses-S3,nback,cross-session personal,0.0386395980679662
+COGBCI,all features,sub-25,sub-25|ses-S3,nback,cross-session personal,0.04293659621802002
+COGBCI,all features,sub-26,sub-26|ses-S1,matb,same-session personal (1-min gap),-0.05494505494505493
+COGBCI,all features,sub-26,sub-26|ses-S1,matb,cross-session personal,-0.23748473748473742
+COGBCI,all features,sub-26,sub-26|ses-S1,matb,cross-session personal,0.044261294261294215
+COGBCI,all features,sub-26,sub-26|ses-S2,matb,same-session personal (1-min gap),0.3543956043956044
+COGBCI,all features,sub-26,sub-26|ses-S2,matb,cross-session personal,-0.5094627594627594
+COGBCI,all features,sub-26,sub-26|ses-S2,matb,cross-session personal,-0.008547008547008517
+COGBCI,all features,sub-26,sub-26|ses-S3,matb,same-session personal (1-min gap),-0.7115384615384615
+COGBCI,all features,sub-26,sub-26|ses-S3,matb,cross-session personal,0.4981684981684982
+COGBCI,all features,sub-26,sub-26|ses-S3,matb,cross-session personal,-0.17094017094017092
+COGBCI,all features,sub-26,sub-26|ses-S1,nback,same-session personal (1-min gap),0.3649509803921569
+COGBCI,all features,sub-26,sub-26|ses-S1,nback,cross-session personal,-0.08992766132643773
+COGBCI,all features,sub-26,sub-26|ses-S1,nback,cross-session personal,0.37441601779755285
+COGBCI,all features,sub-26,sub-26|ses-S2,nback,same-session personal (1-min gap),0.24628114403656198
+COGBCI,all features,sub-26,sub-26|ses-S2,nback,cross-session personal,-0.1112694660734149
+COGBCI,all features,sub-26,sub-26|ses-S2,nback,cross-session personal,-0.4197997775305896
+COGBCI,all features,sub-26,sub-26|ses-S3,nback,same-session personal (1-min gap),-0.08529411764705883
+COGBCI,all features,sub-26,sub-26|ses-S3,nback,cross-session personal,0.27732897664071193
+COGBCI,all features,sub-26,sub-26|ses-S3,nback,cross-session personal,-0.06059113300492609
+COGBCI,all features,sub-27,sub-27|ses-S1,matb,same-session personal (1-min gap),0.035714285714285726
+COGBCI,all features,sub-27,sub-27|ses-S1,matb,cross-session personal,-0.1797924297924298
+COGBCI,all features,sub-27,sub-27|ses-S1,matb,cross-session personal,-0.34798534798534797
+COGBCI,all features,sub-27,sub-27|ses-S2,matb,same-session personal (1-min gap),0.38461538461538464
+COGBCI,all features,sub-27,sub-27|ses-S2,matb,cross-session personal,0.6297313797313797
+COGBCI,all features,sub-27,sub-27|ses-S2,matb,cross-session personal,0.17368742368742368
+COGBCI,all features,sub-27,sub-27|ses-S3,matb,same-session personal (1-min gap),-0.4917582417582418
+COGBCI,all features,sub-27,sub-27|ses-S3,matb,cross-session personal,-0.6156898656898657
+COGBCI,all features,sub-27,sub-27|ses-S3,matb,cross-session personal,-0.20665445665445664
+COGBCI,all features,sub-27,sub-27|ses-S1,nback,same-session personal (1-min gap),-0.20441176470588235
+COGBCI,all features,sub-27,sub-27|ses-S1,nback,cross-session personal,0.45506117908787536
+COGBCI,all features,sub-27,sub-27|ses-S1,nback,cross-session personal,-0.4423645320197044
+COGBCI,all features,sub-27,sub-27|ses-S2,nback,same-session personal (1-min gap),0.02037815126050424
+COGBCI,all features,sub-27,sub-27|ses-S2,nback,cross-session personal,0.09321468298109008
+COGBCI,all features,sub-27,sub-27|ses-S2,nback,cross-session personal,-0.28990147783251224
+COGBCI,all features,sub-27,sub-27|ses-S3,nback,same-session personal (1-min gap),-0.12499999999999997
+COGBCI,all features,sub-27,sub-27|ses-S3,nback,cross-session personal,0.053837597330367075
+COGBCI,all features,sub-27,sub-27|ses-S3,nback,cross-session personal,0.6199110122358176
+COGBCI,all features,sub-28,sub-28|ses-S1,matb,same-session personal (1-min gap),-0.3379120879120879
+COGBCI,all features,sub-28,sub-28|ses-S1,matb,cross-session personal,-0.5396825396825397
+COGBCI,all features,sub-28,sub-28|ses-S1,matb,cross-session personal,0.044261294261294264
+COGBCI,all features,sub-28,sub-28|ses-S2,matb,same-session personal (1-min gap),-0.6758241758241759
+COGBCI,all features,sub-28,sub-28|ses-S2,matb,cross-session personal,-0.4981684981684982
+COGBCI,all features,sub-28,sub-28|ses-S2,matb,cross-session personal,0.03632478632478632
+COGBCI,all features,sub-28,sub-28|ses-S3,matb,same-session personal (1-min gap),0.3324175824175824
+COGBCI,all features,sub-28,sub-28|ses-S3,matb,cross-session personal,-0.08302808302808304
+COGBCI,all features,sub-28,sub-28|ses-S3,matb,cross-session personal,-0.05494505494505495
+COGBCI,all features,sub-28,sub-28|ses-S1,nback,same-session personal (1-min gap),0.11701496388028895
+COGBCI,all features,sub-28,sub-28|ses-S1,nback,cross-session personal,0.1430825917686318
+COGBCI,all features,sub-28,sub-28|ses-S1,nback,cross-session personal,0.2558159860162084
+COGBCI,all features,sub-28,sub-28|ses-S2,nback,same-session personal (1-min gap),0.058333333333333334
+COGBCI,all features,sub-28,sub-28|ses-S2,nback,cross-session personal,-0.06401910470933242
+COGBCI,all features,sub-28,sub-28|ses-S2,nback,cross-session personal,-0.16982361353885267
+COGBCI,all features,sub-28,sub-28|ses-S3,nback,same-session personal (1-min gap),0.004516806722689004
+COGBCI,all features,sub-28,sub-28|ses-S3,nback,cross-session personal,-0.17807594445402794
+COGBCI,all features,sub-28,sub-28|ses-S3,nback,cross-session personal,0.28242491657397106
+COGBCI,all features,sub-29,sub-29|ses-S1,matb,same-session personal (1-min gap),0.30494505494505497
+COGBCI,all features,sub-29,sub-29|ses-S1,matb,cross-session personal,-0.11263736263736263
+COGBCI,all features,sub-29,sub-29|ses-S1,matb,cross-session personal,0.33913308913308915
+COGBCI,all features,sub-29,sub-29|ses-S2,matb,same-session personal (1-min gap),-0.038461538461538436
+COGBCI,all features,sub-29,sub-29|ses-S2,matb,cross-session personal,-0.18009768009768007
+COGBCI,all features,sub-29,sub-29|ses-S2,matb,cross-session personal,-0.29639804639804634
+COGBCI,all features,sub-29,sub-29|ses-S3,matb,same-session personal (1-min gap),0.3159340659340659
+COGBCI,all features,sub-29,sub-29|ses-S3,matb,cross-session personal,-0.00366300366300365
+COGBCI,all features,sub-29,sub-29|ses-S3,matb,cross-session personal,0.36446886446886445
+COGBCI,all features,sub-29,sub-29|ses-S1,nback,same-session personal (1-min gap),0.4897058823529412
+COGBCI,all features,sub-29,sub-29|ses-S1,nback,cross-session personal,-0.31846496106785316
+COGBCI,all features,sub-29,sub-29|ses-S1,nback,cross-session personal,-0.2699507389162561
+COGBCI,all features,sub-29,sub-29|ses-S2,nback,same-session personal (1-min gap),0.2807773109243697
+COGBCI,all features,sub-29,sub-29|ses-S2,nback,cross-session personal,-0.04268631813125696
+COGBCI,all features,sub-29,sub-29|ses-S2,nback,cross-session personal,-0.1817733990147783
+COGBCI,all features,sub-29,sub-29|ses-S3,nback,same-session personal (1-min gap),-0.569642857142857
+COGBCI,all features,sub-29,sub-29|ses-S3,nback,cross-session personal,-0.3388000556173526
+COGBCI,all features,sub-29,sub-29|ses-S3,nback,cross-session personal,-0.1783648498331479
+UNIVERSE,all features,UN_101,UN_101|Lab1,arith,same-session personal (1-min gap),-0.13253160653715695
+UNIVERSE,all features,UN_101,UN_101|Lab1,arith,cross-session personal,-0.30346887545390966
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,arith,same-session personal (1-min gap),-0.18371877890841812
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,arith,cross-session personal,-0.5729790842283777
+UNIVERSE,all features,UN_101,UN_101|Lab2,arith,same-session personal (1-min gap),0.8471000476550892
+UNIVERSE,all features,UN_101,UN_101|Lab2,arith,cross-session personal,0.41091969991664357
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,arith,same-session personal (1-min gap),0.5223544417346452
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,arith,cross-session personal,0.33467629897193674
+UNIVERSE,all features,UN_101,UN_101|Lab1,nback,same-session personal (1-min gap),-0.08837209302325583
+UNIVERSE,all features,UN_101,UN_101|Lab1,nback,cross-session personal,-0.22310744716847644
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,nback,same-session personal (1-min gap),-0.41634954193093726
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,nback,cross-session personal,-0.2882278753575933
+UNIVERSE,all features,UN_101,UN_101|Lab2,nback,same-session personal (1-min gap),-0.4629316420014094
+UNIVERSE,all features,UN_101,UN_101|Lab2,nback,cross-session personal,0.059491217816604644
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,nback,same-session personal (1-min gap),-0.3220577871740662
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,nback,cross-session personal,-0.23658063920760405
+UNIVERSE,all features,UN_101,UN_101|Lab1,stroop,same-session personal (1-min gap),0.39105003523608173
+UNIVERSE,all features,UN_101,UN_101|Lab1,stroop,cross-session personal,-0.31812728782798616
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,stroop,same-session personal (1-min gap),0.46370683579985905
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,stroop,cross-session personal,-0.2585647245739858
+UNIVERSE,all features,UN_101,UN_101|Lab2,stroop,same-session personal (1-min gap),0.04200140944326988
+UNIVERSE,all features,UN_101,UN_101|Lab2,stroop,cross-session personal,0.42455935279461077
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,stroop,same-session personal (1-min gap),-0.20562207335538335
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,stroop,cross-session personal,0.4007198006705836
+UNIVERSE,all features,UN_101,UN_101|Lab1,sudoku,same-session personal (1-min gap),0.3716701902748414
+UNIVERSE,all features,UN_101,UN_101|Lab1,sudoku,cross-session personal,-0.4245901135070289
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,sudoku,same-session personal (1-min gap),0.45849189570119797
+UNIVERSE,cardiac only,UN_101,UN_101|Lab1,sudoku,cross-session personal,-0.37832600203020705
+UNIVERSE,all features,UN_101,UN_101|Lab2,sudoku,same-session personal (1-min gap),0.43171247357293874
+UNIVERSE,all features,UN_101,UN_101|Lab2,sudoku,cross-session personal,-0.31846565566458523
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,sudoku,same-session personal (1-min gap),0.3447498238195912
+UNIVERSE,cardiac only,UN_101,UN_101|Lab2,sudoku,cross-session personal,-0.06502814605186255
+UNIVERSE,all features,UN_102,UN_102|Lab2,arith,same-session personal (1-min gap),0.8304207664059653
+UNIVERSE,all features,UN_102,UN_102|Lab2,nback,same-session personal (1-min gap),-0.26560958421423536
+UNIVERSE,cardiac only,UN_102,UN_102|Lab2,nback,same-session personal (1-min gap),-0.27892210305049603
+UNIVERSE,all features,UN_102,UN_102|Lab1,stroop,same-session personal (1-min gap),0.048696264975334747
+UNIVERSE,all features,UN_102,UN_102|Lab1,stroop,cross-session personal,0.9835430188563168
+UNIVERSE,all features,UN_102,UN_102|Lab2,stroop,same-session personal (1-min gap),0.15503875968992248
+UNIVERSE,all features,UN_102,UN_102|Lab2,stroop,cross-session personal,-0.02337814143775574
+UNIVERSE,all features,UN_102,UN_102|Lab1,sudoku,same-session personal (1-min gap),-0.23227625088090204
+UNIVERSE,all features,UN_102,UN_102|Lab1,sudoku,cross-session personal,0.40764096096465596
+UNIVERSE,all features,UN_102,UN_102|Lab2,sudoku,same-session personal (1-min gap),-0.2668780831571529
+UNIVERSE,all features,UN_102,UN_102|Lab2,sudoku,cross-session personal,-0.06751976375772864
+UNIVERSE,cardiac only,UN_102,UN_102|Lab2,sudoku,same-session personal (1-min gap),-0.2110592574316862
+UNIVERSE,cardiac only,UN_102,UN_102|Lab2,sudoku,cross-session personal,-0.11607965380514626
+UNIVERSE,all features,UN_103,UN_103|Lab1,arith,same-session personal (1-min gap),-0.12878095111562413
+UNIVERSE,all features,UN_103,UN_103|Lab1,arith,cross-session personal,-0.6887769540742565
+UNIVERSE,all features,UN_103,UN_103|Lab2,arith,same-session personal (1-min gap),-0.24476820786224224
+UNIVERSE,all features,UN_103,UN_103|Lab2,arith,cross-session personal,0.10516775743251494
+UNIVERSE,all features,UN_103,UN_103|Lab1,nback,same-session personal (1-min gap),-0.036856941508104285
+UNIVERSE,all features,UN_103,UN_103|Lab1,nback,cross-session personal,-0.39127626195822696
+UNIVERSE,cardiac only,UN_103,UN_103|Lab1,nback,same-session personal (1-min gap),-0.5875791405056467
+UNIVERSE,cardiac only,UN_103,UN_103|Lab1,nback,cross-session personal,0.2645273999958035
+UNIVERSE,all features,UN_103,UN_103|Lab2,nback,same-session personal (1-min gap),0.297815362931642
+UNIVERSE,all features,UN_103,UN_103|Lab2,nback,cross-session personal,-0.1629394936786736
+UNIVERSE,cardiac only,UN_103,UN_103|Lab2,nback,same-session personal (1-min gap),0.1256260033123786
+UNIVERSE,cardiac only,UN_103,UN_103|Lab2,nback,cross-session personal,-0.33083708454193916
+UNIVERSE,all features,UN_103,UN_103|Lab1,stroop,same-session personal (1-min gap),-0.031078224101479868
+UNIVERSE,all features,UN_103,UN_103|Lab1,stroop,cross-session personal,0.8095604294195454
+UNIVERSE,all features,UN_103,UN_103|Lab2,stroop,same-session personal (1-min gap),-0.5062015503875968
+UNIVERSE,all features,UN_103,UN_103|Lab2,stroop,cross-session personal,0.09751145836537575
+UNIVERSE,all features,UN_103,UN_103|Lab1,sudoku,same-session personal (1-min gap),0.1394644115574348
+UNIVERSE,all features,UN_103,UN_103|Lab1,sudoku,cross-session personal,-0.020055984496600947
+UNIVERSE,cardiac only,UN_103,UN_103|Lab1,sudoku,same-session personal (1-min gap),-0.17165863323543323
+UNIVERSE,cardiac only,UN_103,UN_103|Lab1,sudoku,cross-session personal,0.029794768307884665
+UNIVERSE,all features,UN_103,UN_103|Lab2,sudoku,same-session personal (1-min gap),0.33636363636363636
+UNIVERSE,all features,UN_103,UN_103|Lab2,sudoku,cross-session personal,-0.05293918607154943
+UNIVERSE,all features,UN_104,UN_104|Lab1,arith,same-session personal (1-min gap),0.7412905597940986
+UNIVERSE,all features,UN_104,UN_104|Lab1,arith,cross-session personal,0.08221877018671753
+UNIVERSE,all features,UN_104,UN_104|Lab2,arith,same-session personal (1-min gap),0.07499157398045164
+UNIVERSE,all features,UN_104,UN_104|Lab2,arith,cross-session personal,-0.8395259017805411
+UNIVERSE,all features,UN_104,UN_104|Lab1,nback,same-session personal (1-min gap),0.369415081042988
+UNIVERSE,all features,UN_104,UN_104|Lab1,nback,cross-session personal,-0.28982743240333453
+UNIVERSE,cardiac only,UN_104,UN_104|Lab1,nback,same-session personal (1-min gap),-0.2045252201233651
+UNIVERSE,cardiac only,UN_104,UN_104|Lab1,nback,cross-session personal,-0.1903161522278693
+UNIVERSE,all features,UN_104,UN_104|Lab2,nback,same-session personal (1-min gap),0.2898520084566596
+UNIVERSE,all features,UN_104,UN_104|Lab2,nback,cross-session personal,-0.5382509458919069
+UNIVERSE,cardiac only,UN_104,UN_104|Lab2,nback,same-session personal (1-min gap),0.12187159374950013
+UNIVERSE,cardiac only,UN_104,UN_104|Lab2,nback,cross-session personal,0.0031755547101362247
+UNIVERSE,all features,UN_104,UN_104|Lab1,stroop,same-session personal (1-min gap),-0.05271317829457364
+UNIVERSE,all features,UN_104,UN_104|Lab1,stroop,cross-session personal,0.04921713986895937
+UNIVERSE,all features,UN_104,UN_104|Lab2,stroop,same-session personal (1-min gap),0.5794221282593375
+UNIVERSE,all features,UN_104,UN_104|Lab2,stroop,cross-session personal,-0.7904580270079056
+UNIVERSE,all features,UN_104,UN_104|Lab1,sudoku,same-session personal (1-min gap),0.4958421423537702
+UNIVERSE,all features,UN_104,UN_104|Lab1,sudoku,cross-session personal,0.40948660370974194
+UNIVERSE,all features,UN_104,UN_104|Lab2,sudoku,same-session personal (1-min gap),0.17103594080338264
+UNIVERSE,all features,UN_104,UN_104|Lab2,sudoku,cross-session personal,0.058260789319880685
+UNIVERSE,cardiac only,UN_104,UN_104|Lab2,sudoku,same-session personal (1-min gap),0.26849894291754756
+UNIVERSE,cardiac only,UN_104,UN_104|Lab2,sudoku,cross-session personal,-0.3456598616411486
+UNIVERSE,all features,UN_105,UN_105|Lab1,arith,same-session personal (1-min gap),0.7042142484153542
+UNIVERSE,all features,UN_105,UN_105|Lab1,arith,cross-session personal,-0.2759835737795688
+UNIVERSE,all features,UN_105,UN_105|Lab2,arith,same-session personal (1-min gap),0.10310690320801544
+UNIVERSE,all features,UN_105,UN_105|Lab2,arith,cross-session personal,-0.273256485341512
+UNIVERSE,all features,UN_105,UN_105|Lab1,nback,same-session personal (1-min gap),0.30077519379844964
+UNIVERSE,all features,UN_105,UN_105|Lab1,nback,cross-session personal,0.6473899535513243
+UNIVERSE,cardiac only,UN_105,UN_105|Lab1,nback,same-session personal (1-min gap),-0.030156557940070453
+UNIVERSE,cardiac only,UN_105,UN_105|Lab1,nback,cross-session personal,-0.1848942352891653
+UNIVERSE,all features,UN_105,UN_105|Lab2,nback,same-session personal (1-min gap),0.2961240310077519
+UNIVERSE,all features,UN_105,UN_105|Lab2,nback,cross-session personal,0.22667568980897598
+UNIVERSE,all features,UN_105,UN_105|Lab1,stroop,same-session personal (1-min gap),0.0667371388301621
+UNIVERSE,all features,UN_105,UN_105|Lab1,stroop,cross-session personal,-0.09132855516933774
+UNIVERSE,all features,UN_105,UN_105|Lab2,stroop,same-session personal (1-min gap),0.37815362931642
+UNIVERSE,all features,UN_105,UN_105|Lab2,stroop,cross-session personal,-0.4442769694546126
+UNIVERSE,all features,UN_105,UN_105|Lab1,sudoku,same-session personal (1-min gap),0.24834390415785768
+UNIVERSE,all features,UN_105,UN_105|Lab1,sudoku,cross-session personal,0.008736042326740284
+UNIVERSE,cardiac only,UN_105,UN_105|Lab1,sudoku,same-session personal (1-min gap),0.07313285606160969
+UNIVERSE,cardiac only,UN_105,UN_105|Lab1,sudoku,cross-session personal,-0.009001727129778134
+UNIVERSE,all features,UN_105,UN_105|Lab2,sudoku,same-session personal (1-min gap),-0.28668076109936574
+UNIVERSE,all features,UN_105,UN_105|Lab2,sudoku,cross-session personal,-0.007628656679688678
+UNIVERSE,cardiac only,UN_105,UN_105|Lab2,sudoku,same-session personal (1-min gap),0.1697317978032959
+UNIVERSE,cardiac only,UN_105,UN_105|Lab2,sudoku,cross-session personal,-0.012166602725995615
+UNIVERSE,all features,UN_106,UN_106|Lab1,arith,same-session personal (1-min gap),-0.559288537549407
+UNIVERSE,all features,UN_106,UN_106|Lab1,arith,cross-session personal,-0.32580682575165826
+UNIVERSE,cardiac only,UN_106,UN_106|Lab1,arith,same-session personal (1-min gap),-0.2376280303415085
+UNIVERSE,cardiac only,UN_106,UN_106|Lab1,arith,cross-session personal,-0.0648645657836871
+UNIVERSE,all features,UN_106,UN_106|Lab2,arith,same-session personal (1-min gap),0.40326427582843904
+UNIVERSE,all features,UN_106,UN_106|Lab2,arith,cross-session personal,0.5021332554061952
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,arith,same-session personal (1-min gap),0.23787983861189338
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,arith,cross-session personal,0.028666196775924087
+UNIVERSE,all features,UN_106,UN_106|Lab1,nback,same-session personal (1-min gap),0.04615926708949966
+UNIVERSE,all features,UN_106,UN_106|Lab1,nback,cross-session personal,-0.6438524716232429
+UNIVERSE,cardiac only,UN_106,UN_106|Lab1,nback,same-session personal (1-min gap),-0.3823350382379912
+UNIVERSE,cardiac only,UN_106,UN_106|Lab1,nback,cross-session personal,0.13285551693377218
+UNIVERSE,all features,UN_106,UN_106|Lab2,nback,same-session personal (1-min gap),0.3976039464411557
+UNIVERSE,all features,UN_106,UN_106|Lab2,nback,cross-session personal,-0.6397920575840537
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,nback,same-session personal (1-min gap),0.036434108527131776
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,nback,cross-session personal,-0.22021739025055767
+UNIVERSE,all features,UN_106,UN_106|Lab1,stroop,same-session personal (1-min gap),0.6210711768851304
+UNIVERSE,all features,UN_106,UN_106|Lab1,stroop,cross-session personal,0.9705312375034607
+UNIVERSE,all features,UN_106,UN_106|Lab2,stroop,same-session personal (1-min gap),0.7054263565891473
+UNIVERSE,all features,UN_106,UN_106|Lab2,stroop,cross-session personal,0.8478882770924976
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,stroop,same-session personal (1-min gap),-0.13459881413024127
+UNIVERSE,all features,UN_106,UN_106|Lab1,sudoku,same-session personal (1-min gap),0.36793516560958417
+UNIVERSE,all features,UN_106,UN_106|Lab1,sudoku,cross-session personal,-0.2937648035928513
+UNIVERSE,cardiac only,UN_106,UN_106|Lab1,sudoku,same-session personal (1-min gap),-0.07938874868638063
+UNIVERSE,cardiac only,UN_106,UN_106|Lab1,sudoku,cross-session personal,-0.08594543049617032
+UNIVERSE,all features,UN_106,UN_106|Lab2,sudoku,same-session personal (1-min gap),0.22988019732205778
+UNIVERSE,all features,UN_106,UN_106|Lab2,sudoku,cross-session personal,0.03789719769909872
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,sudoku,same-session personal (1-min gap),-0.1273431994362227
+UNIVERSE,cardiac only,UN_106,UN_106|Lab2,sudoku,cross-session personal,-0.24435105710212643
+UNIVERSE,all features,UN_107,UN_107|Lab1,arith,same-session personal (1-min gap),-0.003615479494295415
+UNIVERSE,all features,UN_107,UN_107|Lab1,arith,cross-session personal,0.028168744191394146
+UNIVERSE,cardiac only,UN_107,UN_107|Lab1,arith,same-session personal (1-min gap),0.14032293147060002
+UNIVERSE,cardiac only,UN_107,UN_107|Lab1,arith,cross-session personal,0.3293716645428328
+UNIVERSE,all features,UN_107,UN_107|Lab2,arith,same-session personal (1-min gap),-0.0015740195666190133
+UNIVERSE,all features,UN_107,UN_107|Lab2,arith,cross-session personal,0.3195170701538958
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,arith,same-session personal (1-min gap),-0.07341967314215234
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,arith,cross-session personal,0.079154125257961
+UNIVERSE,all features,UN_107,UN_107|Lab1,nback,same-session personal (1-min gap),0.17533474277660321
+UNIVERSE,all features,UN_107,UN_107|Lab1,nback,cross-session personal,0.12839521363314776
+UNIVERSE,cardiac only,UN_107,UN_107|Lab1,nback,same-session personal (1-min gap),0.11765865808328199
+UNIVERSE,cardiac only,UN_107,UN_107|Lab1,nback,cross-session personal,0.09175920514319112
+UNIVERSE,all features,UN_107,UN_107|Lab2,nback,same-session personal (1-min gap),-0.14503171247357294
+UNIVERSE,all features,UN_107,UN_107|Lab2,nback,cross-session personal,-0.1325171490971731
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,nback,same-session personal (1-min gap),-0.3067653276955602
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,nback,cross-session personal,-0.0703211820568586
+UNIVERSE,all features,UN_107,UN_107|Lab1,stroop,same-session personal (1-min gap),0.20634249471458765
+UNIVERSE,all features,UN_107,UN_107|Lab1,stroop,cross-session personal,0.16333938294010886
+UNIVERSE,all features,UN_107,UN_107|Lab2,stroop,same-session personal (1-min gap),-0.0026074700493305125
+UNIVERSE,all features,UN_107,UN_107|Lab2,stroop,cross-session personal,-0.04143467962718017
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,stroop,same-session personal (1-min gap),-0.2103594080338267
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,stroop,cross-session personal,-0.048077766550850075
+UNIVERSE,all features,UN_107,UN_107|Lab1,sudoku,same-session personal (1-min gap),-0.013812544045102182
+UNIVERSE,all features,UN_107,UN_107|Lab1,sudoku,cross-session personal,0.005167799686240718
+UNIVERSE,cardiac only,UN_107,UN_107|Lab1,sudoku,same-session personal (1-min gap),-0.005040967953360648
+UNIVERSE,cardiac only,UN_107,UN_107|Lab1,sudoku,cross-session personal,0.14312959488141747
+UNIVERSE,all features,UN_107,UN_107|Lab2,sudoku,same-session personal (1-min gap),-0.42142353770260743
+UNIVERSE,all features,UN_107,UN_107|Lab2,sudoku,cross-session personal,-0.16444676858716048
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,sudoku,same-session personal (1-min gap),-0.2406624383368569
+UNIVERSE,cardiac only,UN_107,UN_107|Lab2,sudoku,cross-session personal,0.1166593076396404
+UNIVERSE,all features,UN_108,UN_108|Lab1,arith,same-session personal (1-min gap),0.43706584812042715
+UNIVERSE,all features,UN_108,UN_108|Lab1,arith,cross-session personal,-0.35900817377684574
+UNIVERSE,cardiac only,UN_108,UN_108|Lab1,arith,same-session personal (1-min gap),0.1648297447913078
+UNIVERSE,cardiac only,UN_108,UN_108|Lab1,arith,cross-session personal,-0.203578557554467
+UNIVERSE,all features,UN_108,UN_108|Lab2,arith,same-session personal (1-min gap),-0.048040763029038314
+UNIVERSE,all features,UN_108,UN_108|Lab2,arith,cross-session personal,0.03459821214705236
+UNIVERSE,cardiac only,UN_108,UN_108|Lab2,arith,same-session personal (1-min gap),-0.19544462626302275
+UNIVERSE,cardiac only,UN_108,UN_108|Lab2,arith,cross-session personal,0.40914464037404397
+UNIVERSE,all features,UN_108,UN_108|Lab1,nback,same-session personal (1-min gap),0.20084566596194503
+UNIVERSE,all features,UN_108,UN_108|Lab1,nback,cross-session personal,-0.15660278692054513
+UNIVERSE,cardiac only,UN_108,UN_108|Lab1,nback,same-session personal (1-min gap),-0.0014529148516296553
+UNIVERSE,cardiac only,UN_108,UN_108|Lab1,nback,cross-session personal,0.19459161247323237
+UNIVERSE,all features,UN_108,UN_108|Lab2,nback,same-session personal (1-min gap),0.14045102184637065
+UNIVERSE,all features,UN_108,UN_108|Lab2,nback,cross-session personal,-0.18194961395305914
+UNIVERSE,cardiac only,UN_108,UN_108|Lab2,nback,same-session personal (1-min gap),0.1190445816424289
+UNIVERSE,cardiac only,UN_108,UN_108|Lab2,nback,cross-session personal,0.057388747221773714
+UNIVERSE,all features,UN_108,UN_108|Lab1,stroop,same-session personal (1-min gap),0.4266384778012684
+UNIVERSE,all features,UN_108,UN_108|Lab1,stroop,cross-session personal,0.40262696484050575
+UNIVERSE,all features,UN_108,UN_108|Lab2,stroop,same-session personal (1-min gap),0.3574348132487667
+UNIVERSE,all features,UN_108,UN_108|Lab2,stroop,cross-session personal,0.1733366144759913
+UNIVERSE,all features,UN_108,UN_108|Lab1,sudoku,same-session personal (1-min gap),-0.11096045669977589
+UNIVERSE,all features,UN_108,UN_108|Lab1,sudoku,cross-session personal,-0.672306130609985
+UNIVERSE,cardiac only,UN_108,UN_108|Lab1,sudoku,same-session personal (1-min gap),-0.6321382535679159
+UNIVERSE,cardiac only,UN_108,UN_108|Lab1,sudoku,cross-session personal,0.13164000196192538
+UNIVERSE,all features,UN_108,UN_108|Lab2,sudoku,same-session personal (1-min gap),0.03495419309372788
+UNIVERSE,all features,UN_108,UN_108|Lab2,sudoku,cross-session personal,0.05972585582732281
+UNIVERSE,cardiac only,UN_108,UN_108|Lab2,sudoku,same-session personal (1-min gap),0.24527814765305006
+UNIVERSE,cardiac only,UN_108,UN_108|Lab2,sudoku,cross-session personal,0.17962598097739596
+UNIVERSE,all features,UN_109,UN_109|Lab1,arith,same-session personal (1-min gap),0.3430006958475892
+UNIVERSE,all features,UN_109,UN_109|Lab1,arith,cross-session personal,-0.32629372214247937
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,arith,same-session personal (1-min gap),0.0028628269529680644
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,arith,cross-session personal,-0.32009707266561094
+UNIVERSE,all features,UN_109,UN_109|Lab2,arith,same-session personal (1-min gap),0.27922110102135206
+UNIVERSE,all features,UN_109,UN_109|Lab2,arith,cross-session personal,-0.4615702289516704
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,arith,same-session personal (1-min gap),0.1974429062195434
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,arith,cross-session personal,0.1709915104886149
+UNIVERSE,all features,UN_109,UN_109|Lab1,nback,same-session personal (1-min gap),-0.1730091613812544
+UNIVERSE,all features,UN_109,UN_109|Lab1,nback,cross-session personal,0.14789750530622292
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,nback,same-session personal (1-min gap),-0.3771670190274841
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,nback,cross-session personal,0.25368920688999785
+UNIVERSE,all features,UN_109,UN_109|Lab2,nback,same-session personal (1-min gap),0.07653276955602537
+UNIVERSE,all features,UN_109,UN_109|Lab2,nback,cross-session personal,0.6606170598911072
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,nback,same-session personal (1-min gap),0.1881775965949996
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,nback,cross-session personal,0.2286136146913163
+UNIVERSE,all features,UN_109,UN_109|Lab1,stroop,same-session personal (1-min gap),0.027766032417195205
+UNIVERSE,all features,UN_109,UN_109|Lab1,stroop,cross-session personal,0.1100618290319604
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,stroop,same-session personal (1-min gap),-0.056095842142353775
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,stroop,cross-session personal,0.06396236152683196
+UNIVERSE,all features,UN_109,UN_109|Lab2,stroop,same-session personal (1-min gap),-0.08167723749119098
+UNIVERSE,all features,UN_109,UN_109|Lab2,stroop,cross-session personal,0.8392137561905935
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,stroop,same-session personal (1-min gap),0.03929208732286141
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,stroop,cross-session personal,0.03955827616967611
+UNIVERSE,all features,UN_109,UN_109|Lab1,sudoku,same-session personal (1-min gap),0.27329105003523607
+UNIVERSE,all features,UN_109,UN_109|Lab1,sudoku,cross-session personal,-0.25802085576301953
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,sudoku,same-session personal (1-min gap),-0.153937206259885
+UNIVERSE,cardiac only,UN_109,UN_109|Lab1,sudoku,cross-session personal,0.14992079330514432
+UNIVERSE,all features,UN_109,UN_109|Lab2,sudoku,same-session personal (1-min gap),0.555813953488372
+UNIVERSE,all features,UN_109,UN_109|Lab2,sudoku,cross-session personal,0.12636500661355318
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,sudoku,same-session personal (1-min gap),0.29200848086426795
+UNIVERSE,cardiac only,UN_109,UN_109|Lab2,sudoku,cross-session personal,-0.12067405921834647
+UNIVERSE,all features,UN_110,UN_110|Lab1,arith,same-session personal (1-min gap),-0.36374728614850194
+UNIVERSE,all features,UN_110,UN_110|Lab1,arith,cross-session personal,0.30020384299387515
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,arith,same-session personal (1-min gap),-0.3397360818637875
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,arith,cross-session personal,0.30895431812976043
+UNIVERSE,all features,UN_110,UN_110|Lab2,arith,same-session personal (1-min gap),0.1490959630728471
+UNIVERSE,all features,UN_110,UN_110|Lab2,arith,cross-session personal,-0.3235887096774193
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,arith,same-session personal (1-min gap),0.04042082996781485
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,arith,cross-session personal,0.09018302805005554
+UNIVERSE,all features,UN_110,UN_110|Lab1,nback,same-session personal (1-min gap),0.32177589852008454
+UNIVERSE,all features,UN_110,UN_110|Lab1,nback,cross-session personal,0.48958749884647335
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,nback,same-session personal (1-min gap),-0.16028773027488818
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,nback,cross-session personal,0.4362758239218852
+UNIVERSE,all features,UN_110,UN_110|Lab2,nback,same-session personal (1-min gap),-0.30838618745595486
+UNIVERSE,all features,UN_110,UN_110|Lab2,nback,cross-session personal,0.5300378356762743
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,nback,same-session personal (1-min gap),-0.2973100143249362
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,nback,cross-session personal,0.3506786165893108
+UNIVERSE,all features,UN_110,UN_110|Lab1,stroop,same-session personal (1-min gap),0.3923890063424947
+UNIVERSE,all features,UN_110,UN_110|Lab1,stroop,cross-session personal,-0.5638746193361839
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,stroop,same-session personal (1-min gap),-0.22386406622648186
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,stroop,cross-session personal,-0.243040388815405
+UNIVERSE,all features,UN_110,UN_110|Lab2,stroop,same-session personal (1-min gap),0.36455250176180404
+UNIVERSE,all features,UN_110,UN_110|Lab2,stroop,cross-session personal,-0.27758466886093086
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,stroop,same-session personal (1-min gap),-0.09147286821705428
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,stroop,cross-session personal,0.31317189282950725
+UNIVERSE,all features,UN_110,UN_110|Lab1,sudoku,same-session personal (1-min gap),0.2893587033121917
+UNIVERSE,all features,UN_110,UN_110|Lab1,sudoku,cross-session personal,-0.2029284198222031
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,sudoku,same-session personal (1-min gap),-0.16187871082856076
+UNIVERSE,cardiac only,UN_110,UN_110|Lab1,sudoku,cross-session personal,-0.056001725781074936
+UNIVERSE,all features,UN_110,UN_110|Lab2,sudoku,same-session personal (1-min gap),-0.0843551797040169
+UNIVERSE,all features,UN_110,UN_110|Lab2,sudoku,cross-session personal,0.5123504260358671
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,sudoku,same-session personal (1-min gap),-0.1033723975576227
+UNIVERSE,cardiac only,UN_110,UN_110|Lab2,sudoku,cross-session personal,0.18350748451231585
+UNIVERSE,all features,UN_111,UN_111|Lab1,arith,same-session personal (1-min gap),0.059957105463749966
+UNIVERSE,all features,UN_111,UN_111|Lab1,arith,cross-session personal,-0.36367928881232897
+UNIVERSE,all features,UN_111,UN_111|Lab2,arith,same-session personal (1-min gap),0.8171201397187241
+UNIVERSE,all features,UN_111,UN_111|Lab2,arith,cross-session personal,0.01669287381317872
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,arith,same-session personal (1-min gap),0.22674940345052325
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,arith,cross-session personal,-0.011749611963770223
+UNIVERSE,all features,UN_111,UN_111|Lab1,nback,same-session personal (1-min gap),0.40852713178294564
+UNIVERSE,all features,UN_111,UN_111|Lab1,nback,cross-session personal,0.009166692300593637
+UNIVERSE,all features,UN_111,UN_111|Lab2,nback,same-session personal (1-min gap),0.022269203664552484
+UNIVERSE,all features,UN_111,UN_111|Lab2,nback,cross-session personal,-0.2433172352271679
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,nback,same-session personal (1-min gap),0.10363427114062576
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,nback,cross-session personal,0.11202093461757226
+UNIVERSE,all features,UN_111,UN_111|Lab1,stroop,same-session personal (1-min gap),-0.435799859055673
+UNIVERSE,all features,UN_111,UN_111|Lab1,stroop,cross-session personal,-0.7010366360084901
+UNIVERSE,all features,UN_111,UN_111|Lab2,stroop,same-session personal (1-min gap),0.1623678646934461
+UNIVERSE,all features,UN_111,UN_111|Lab2,stroop,cross-session personal,0.5368051924082562
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,stroop,same-session personal (1-min gap),0.024631237593610272
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,stroop,cross-session personal,-0.2566877632285914
+UNIVERSE,all features,UN_111,UN_111|Lab1,sudoku,same-session personal (1-min gap),-0.4521494009866103
+UNIVERSE,all features,UN_111,UN_111|Lab1,sudoku,cross-session personal,0.2347657571749362
+UNIVERSE,cardiac only,UN_111,UN_111|Lab1,sudoku,same-session personal (1-min gap),-0.10533597568009341
+UNIVERSE,cardiac only,UN_111,UN_111|Lab1,sudoku,cross-session personal,0.08395224676279325
+UNIVERSE,all features,UN_111,UN_111|Lab2,sudoku,same-session personal (1-min gap),0.38005637773079626
+UNIVERSE,all features,UN_111,UN_111|Lab2,sudoku,cross-session personal,0.2664800516779969
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,sudoku,same-session personal (1-min gap),-0.2955597377225021
+UNIVERSE,cardiac only,UN_111,UN_111|Lab2,sudoku,cross-session personal,-0.3702858528384431
+UNIVERSE,all features,UN_112,UN_112|Lab1,arith,same-session personal (1-min gap),0.3243940925942948
+UNIVERSE,cardiac only,UN_112,UN_112|Lab1,arith,same-session personal (1-min gap),0.23091617533082903
+UNIVERSE,all features,UN_112,UN_112|Lab1,nback,same-session personal (1-min gap),0.6128964059196618
+UNIVERSE,cardiac only,UN_112,UN_112|Lab1,nback,same-session personal (1-min gap),0.04768336197750679
+UNIVERSE,all features,UN_112,UN_112|Lab1,stroop,same-session personal (1-min gap),-0.2836504580690627
+UNIVERSE,cardiac only,UN_112,UN_112|Lab1,stroop,same-session personal (1-min gap),0.2173532603796967
+UNIVERSE,all features,UN_112,UN_112|Lab1,sudoku,same-session personal (1-min gap),0.37265680056377726
+UNIVERSE,cardiac only,UN_112,UN_112|Lab1,sudoku,same-session personal (1-min gap),0.06530916107810575
+UNIVERSE,all features,UN_113,UN_113|Lab2,arith,same-session personal (1-min gap),0.46243833685694147
+UNIVERSE,all features,UN_113,UN_113|Lab2,arith,cross-session personal,0.15600645773251193
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,arith,same-session personal (1-min gap),0.1404304529373145
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,arith,cross-session personal,-0.15051506897601818
+UNIVERSE,all features,UN_113,UN_113|Lab1,arith,same-session personal (1-min gap),-0.024063016847475693
+UNIVERSE,all features,UN_113,UN_113|Lab1,arith,cross-session personal,0.5788858469962165
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,arith,same-session personal (1-min gap),0.1755122922097945
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,arith,cross-session personal,-0.19313341416816368
+UNIVERSE,all features,UN_113,UN_113|Lab2,nback,same-session personal (1-min gap),0.3670190274841437
+UNIVERSE,all features,UN_113,UN_113|Lab2,nback,cross-session personal,-0.17167553600541394
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,nback,same-session personal (1-min gap),-0.16661827528376258
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,nback,cross-session personal,0.6581562028976592
+UNIVERSE,all features,UN_113,UN_113|Lab1,nback,same-session personal (1-min gap),-0.5574348132487668
+UNIVERSE,all features,UN_113,UN_113|Lab1,nback,cross-session personal,-0.0879141160909287
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,nback,same-session personal (1-min gap),-0.3909090909090909
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,nback,cross-session personal,0.1331441566949674
+UNIVERSE,all features,UN_113,UN_113|Lab2,stroop,same-session personal (1-min gap),0.23854827343199436
+UNIVERSE,all features,UN_113,UN_113|Lab2,stroop,cross-session personal,0.47992863514719003
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,stroop,same-session personal (1-min gap),-0.060147828410684265
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,stroop,cross-session personal,-0.24544241458172963
+UNIVERSE,all features,UN_113,UN_113|Lab1,stroop,same-session personal (1-min gap),0.7445384073291049
+UNIVERSE,all features,UN_113,UN_113|Lab1,stroop,cross-session personal,-0.9632717093727892
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,stroop,same-session personal (1-min gap),0.06768949040184964
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,stroop,cross-session personal,0.18185478066175456
+UNIVERSE,all features,UN_113,UN_113|Lab2,sudoku,same-session personal (1-min gap),0.5123326286116984
+UNIVERSE,all features,UN_113,UN_113|Lab2,sudoku,cross-session personal,-0.6616629241133225
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,sudoku,same-session personal (1-min gap),-0.06015546992778992
+UNIVERSE,cardiac only,UN_113,UN_113|Lab2,sudoku,cross-session personal,0.4379056826819528
+UNIVERSE,all features,UN_113,UN_113|Lab1,sudoku,same-session personal (1-min gap),-0.7774489076814658
+UNIVERSE,all features,UN_113,UN_113|Lab1,sudoku,cross-session personal,0.37891045556615094
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,sudoku,same-session personal (1-min gap),0.400472180381824
+UNIVERSE,cardiac only,UN_113,UN_113|Lab1,sudoku,cross-session personal,0.3393985185113926
+UNIVERSE,all features,UN_114,UN_114|Lab1,arith,same-session personal (1-min gap),-0.5236357508349418
+UNIVERSE,all features,UN_114,UN_114|Lab1,arith,cross-session personal,0.46110307914731313
+UNIVERSE,all features,UN_114,UN_114|Lab2,arith,same-session personal (1-min gap),0.36145172656800567
+UNIVERSE,all features,UN_114,UN_114|Lab2,arith,cross-session personal,-0.22294595342828144
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,arith,same-session personal (1-min gap),0.2219873150105708
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,arith,cross-session personal,-0.23156498467966052
+UNIVERSE,all features,UN_114,UN_114|Lab1,nback,same-session personal (1-min gap),-0.3601832276250881
+UNIVERSE,all features,UN_114,UN_114|Lab1,nback,cross-session personal,-0.1549417084499677
+UNIVERSE,cardiac only,UN_114,UN_114|Lab1,nback,same-session personal (1-min gap),-0.10281983847381514
+UNIVERSE,cardiac only,UN_114,UN_114|Lab1,nback,cross-session personal,0.07803139210177154
+UNIVERSE,all features,UN_114,UN_114|Lab2,nback,same-session personal (1-min gap),0.10789288231148703
+UNIVERSE,all features,UN_114,UN_114|Lab2,nback,cross-session personal,-0.4256359777292442
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,nback,same-session personal (1-min gap),-0.18539808810187444
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,nback,cross-session personal,-0.15445333454401466
+UNIVERSE,all features,UN_114,UN_114|Lab1,stroop,same-session personal (1-min gap),-0.23939393939393938
+UNIVERSE,all features,UN_114,UN_114|Lab1,stroop,cross-session personal,-0.009443538712356578
+UNIVERSE,cardiac only,UN_114,UN_114|Lab1,stroop,same-session personal (1-min gap),0.05937460959296042
+UNIVERSE,cardiac only,UN_114,UN_114|Lab1,stroop,cross-session personal,-0.09853374184374017
+UNIVERSE,all features,UN_114,UN_114|Lab2,stroop,same-session personal (1-min gap),0.20162085976039462
+UNIVERSE,all features,UN_114,UN_114|Lab2,stroop,cross-session personal,0.34655018610231014
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,stroop,same-session personal (1-min gap),0.06282800869813082
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,stroop,cross-session personal,0.1339210242724132
+UNIVERSE,all features,UN_114,UN_114|Lab1,sudoku,same-session personal (1-min gap),0.13967582804792106
+UNIVERSE,all features,UN_114,UN_114|Lab1,sudoku,cross-session personal,-0.09228213725429876
+UNIVERSE,cardiac only,UN_114,UN_114|Lab1,sudoku,same-session personal (1-min gap),-0.053316567741732296
+UNIVERSE,cardiac only,UN_114,UN_114|Lab1,sudoku,cross-session personal,0.07324148577914248
+UNIVERSE,all features,UN_114,UN_114|Lab2,sudoku,same-session personal (1-min gap),-0.02283298097251582
+UNIVERSE,all features,UN_114,UN_114|Lab2,sudoku,cross-session personal,0.014918945522778296
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,sudoku,same-session personal (1-min gap),-0.09831176125109244
+UNIVERSE,cardiac only,UN_114,UN_114|Lab2,sudoku,cross-session personal,-0.011679895373466892
+UNIVERSE,all features,UN_115,UN_115|Lab2,arith,same-session personal (1-min gap),-0.06464553023294925
+UNIVERSE,all features,UN_115,UN_115|Lab2,arith,cross-session personal,-0.10530733229486522
+UNIVERSE,cardiac only,UN_115,UN_115|Lab2,arith,same-session personal (1-min gap),0.09643079318472547
+UNIVERSE,cardiac only,UN_115,UN_115|Lab2,arith,cross-session personal,-0.24533948764733182
+UNIVERSE,all features,UN_115,UN_115|Lab1,arith,same-session personal (1-min gap),-0.07147761416849041
+UNIVERSE,all features,UN_115,UN_115|Lab1,arith,cross-session personal,0.34679412863726516
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,arith,same-session personal (1-min gap),-0.015352398752399132
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,arith,cross-session personal,0.022853021236021787
+UNIVERSE,all features,UN_115,UN_115|Lab2,nback,same-session personal (1-min gap),0.34284707540521486
+UNIVERSE,all features,UN_115,UN_115|Lab2,nback,cross-session personal,-0.2919499215601834
+UNIVERSE,cardiac only,UN_115,UN_115|Lab2,nback,same-session personal (1-min gap),0.27026698123872805
+UNIVERSE,cardiac only,UN_115,UN_115|Lab2,nback,cross-session personal,0.3448104759470698
+UNIVERSE,all features,UN_115,UN_115|Lab1,nback,same-session personal (1-min gap),0.13319238900634248
+UNIVERSE,all features,UN_115,UN_115|Lab1,nback,cross-session personal,0.3670368205727645
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,nback,same-session personal (1-min gap),0.026416144988051504
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,nback,cross-session personal,0.28856406316932354
+UNIVERSE,all features,UN_115,UN_115|Lab2,stroop,same-session personal (1-min gap),0.23706835799859055
+UNIVERSE,all features,UN_115,UN_115|Lab2,stroop,cross-session personal,0.09237441939155314
+UNIVERSE,all features,UN_115,UN_115|Lab1,stroop,same-session personal (1-min gap),0.6518675123326286
+UNIVERSE,all features,UN_115,UN_115|Lab1,stroop,cross-session personal,-0.17290596450213788
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,stroop,same-session personal (1-min gap),0.15274689071217093
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,stroop,cross-session personal,-0.12399748273900796
+UNIVERSE,all features,UN_115,UN_115|Lab2,sudoku,same-session personal (1-min gap),-0.17808315715292458
+UNIVERSE,all features,UN_115,UN_115|Lab2,sudoku,cross-session personal,-0.025838998431203672
+UNIVERSE,cardiac only,UN_115,UN_115|Lab2,sudoku,same-session personal (1-min gap),0.20668412341241404
+UNIVERSE,cardiac only,UN_115,UN_115|Lab2,sudoku,cross-session personal,0.014371106703389005
+UNIVERSE,all features,UN_115,UN_115|Lab1,sudoku,same-session personal (1-min gap),0.34101479915433397
+UNIVERSE,all features,UN_115,UN_115|Lab1,sudoku,cross-session personal,-0.509243594081639
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,sudoku,same-session personal (1-min gap),0.0535618959126825
+UNIVERSE,cardiac only,UN_115,UN_115|Lab1,sudoku,cross-session personal,-0.36280882551271215
+UNIVERSE,all features,UN_116,UN_116|Lab1,arith,same-session personal (1-min gap),-0.18627088495696376
+UNIVERSE,all features,UN_116,UN_116|Lab1,arith,cross-session personal,0.28269094712233533
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,arith,same-session personal (1-min gap),-0.09787566817867505
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,arith,cross-session personal,-0.2362115304740276
+UNIVERSE,all features,UN_116,UN_116|Lab2,arith,same-session personal (1-min gap),0.4789288231148696
+UNIVERSE,all features,UN_116,UN_116|Lab2,arith,cross-session personal,-0.47021245989740884
+UNIVERSE,cardiac only,UN_116,UN_116|Lab2,arith,same-session personal (1-min gap),-0.1677490976412261
+UNIVERSE,cardiac only,UN_116,UN_116|Lab2,arith,cross-session personal,-0.14113150093886342
+UNIVERSE,all features,UN_116,UN_116|Lab1,nback,same-session personal (1-min gap),-0.23199436222692033
+UNIVERSE,all features,UN_116,UN_116|Lab1,nback,cross-session personal,0.1636162293518718
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,nback,same-session personal (1-min gap),-0.13232998247045355
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,nback,cross-session personal,-0.06636876854416765
+UNIVERSE,all features,UN_116,UN_116|Lab2,nback,same-session personal (1-min gap),-0.11162790697674418
+UNIVERSE,all features,UN_116,UN_116|Lab2,nback,cross-session personal,0.26205050908979055
+UNIVERSE,cardiac only,UN_116,UN_116|Lab2,nback,same-session personal (1-min gap),-0.014998191585799181
+UNIVERSE,cardiac only,UN_116,UN_116|Lab2,nback,cross-session personal,0.6767671725684645
+UNIVERSE,all features,UN_116,UN_116|Lab1,stroop,same-session personal (1-min gap),0.31592670894996466
+UNIVERSE,all features,UN_116,UN_116|Lab1,stroop,cross-session personal,0.6117382878587468
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,stroop,same-session personal (1-min gap),0.020498597842270927
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,stroop,cross-session personal,-0.1883155785886671
+UNIVERSE,all features,UN_116,UN_116|Lab2,stroop,same-session personal (1-min gap),0.1132487667371388
+UNIVERSE,all features,UN_116,UN_116|Lab2,stroop,cross-session personal,-0.29619489987388115
+UNIVERSE,all features,UN_116,UN_116|Lab1,sudoku,same-session personal (1-min gap),-0.5742776603241719
+UNIVERSE,all features,UN_116,UN_116|Lab1,sudoku,cross-session personal,0.023870312836445286
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,sudoku,same-session personal (1-min gap),-0.30014094432699084
+UNIVERSE,cardiac only,UN_116,UN_116|Lab1,sudoku,cross-session personal,-0.24091789965855614
+UNIVERSE,all features,UN_116,UN_116|Lab2,sudoku,same-session personal (1-min gap),0.6574348132487666
+UNIVERSE,all features,UN_116,UN_116|Lab2,sudoku,cross-session personal,-0.2273216647697561
+UNIVERSE,cardiac only,UN_116,UN_116|Lab2,sudoku,same-session personal (1-min gap),0.24031007751937983
+UNIVERSE,cardiac only,UN_116,UN_116|Lab2,sudoku,cross-session personal,0.11449137162016675
+UNIVERSE,all features,UN_117,UN_117|Lab1,arith,same-session personal (1-min gap),0.4458718778908419
+UNIVERSE,all features,UN_117,UN_117|Lab1,arith,cross-session personal,-0.9086206896551726
+UNIVERSE,all features,UN_117,UN_117|Lab2,arith,same-session personal (1-min gap),0.3659420289855072
+UNIVERSE,all features,UN_117,UN_117|Lab2,arith,cross-session personal,0.32298143560911796
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,arith,same-session personal (1-min gap),0.4180104720592326
+UNIVERSE,all features,UN_117,UN_117|Lab1,nback,same-session personal (1-min gap),0.6468639887244538
+UNIVERSE,all features,UN_117,UN_117|Lab1,nback,cross-session personal,0.6317635116429298
+UNIVERSE,cardiac only,UN_117,UN_117|Lab1,nback,same-session personal (1-min gap),0.05909684197673276
+UNIVERSE,cardiac only,UN_117,UN_117|Lab1,nback,cross-session personal,-0.10896527671313813
+UNIVERSE,all features,UN_117,UN_117|Lab2,nback,same-session personal (1-min gap),0.10894996476391827
+UNIVERSE,all features,UN_117,UN_117|Lab2,nback,cross-session personal,-0.33449198683441517
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,nback,same-session personal (1-min gap),-0.03156281870324944
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,nback,cross-session personal,-0.18771806848281625
+UNIVERSE,all features,UN_117,UN_117|Lab1,stroop,same-session personal (1-min gap),0.39577167019027476
+UNIVERSE,all features,UN_117,UN_117|Lab1,stroop,cross-session personal,0.3260327909194377
+UNIVERSE,all features,UN_117,UN_117|Lab2,stroop,same-session personal (1-min gap),0.5693446088794927
+UNIVERSE,all features,UN_117,UN_117|Lab2,stroop,cross-session personal,-0.6307791688455505
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,stroop,same-session personal (1-min gap),0.026248035533160574
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,stroop,cross-session personal,-0.0643912698590621
+UNIVERSE,all features,UN_117,UN_117|Lab1,sudoku,same-session personal (1-min gap),-0.38026779422128254
+UNIVERSE,all features,UN_117,UN_117|Lab1,sudoku,cross-session personal,0.8918453351379618
+UNIVERSE,all features,UN_117,UN_117|Lab2,sudoku,same-session personal (1-min gap),-0.1565186751233263
+UNIVERSE,all features,UN_117,UN_117|Lab2,sudoku,cross-session personal,-0.5243471038789259
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,sudoku,same-session personal (1-min gap),-0.5221712147392273
+UNIVERSE,cardiac only,UN_117,UN_117|Lab2,sudoku,cross-session personal,0.1934222309113154
+UNIVERSE,all features,UN_118,UN_118|Lab2,arith,same-session personal (1-min gap),0.3702597202365935
+UNIVERSE,all features,UN_118,UN_118|Lab2,arith,cross-session personal,0.27986950383381415
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,arith,same-session personal (1-min gap),0.16331539259383848
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,arith,cross-session personal,-0.08597270009895133
+UNIVERSE,all features,UN_118,UN_118|Lab1,arith,same-session personal (1-min gap),-0.1819544393318676
+UNIVERSE,all features,UN_118,UN_118|Lab1,arith,cross-session personal,0.34539987779326914
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,arith,same-session personal (1-min gap),-0.4880158320160963
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,arith,cross-session personal,0.3699262803504001
+UNIVERSE,all features,UN_118,UN_118|Lab2,nback,same-session personal (1-min gap),0.19725158562367862
+UNIVERSE,all features,UN_118,UN_118|Lab2,nback,cross-session personal,0.320557384109016
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,nback,same-session personal (1-min gap),0.0646934460887949
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,nback,cross-session personal,0.6162601125842075
+UNIVERSE,all features,UN_118,UN_118|Lab1,nback,same-session personal (1-min gap),0.5287526427061311
+UNIVERSE,all features,UN_118,UN_118|Lab1,nback,cross-session personal,-0.3242179088867698
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,nback,same-session personal (1-min gap),0.007258632840028189
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,nback,cross-session personal,-0.29456458211572184
+UNIVERSE,all features,UN_118,UN_118|Lab2,stroop,same-session personal (1-min gap),-0.6374207188160677
+UNIVERSE,all features,UN_118,UN_118|Lab2,stroop,cross-session personal,-0.20929588729274973
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,stroop,same-session personal (1-min gap),-0.5460254771330038
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,stroop,cross-session personal,-0.21120305146267188
+UNIVERSE,all features,UN_118,UN_118|Lab1,stroop,same-session personal (1-min gap),-0.6887244538407329
+UNIVERSE,all features,UN_118,UN_118|Lab1,stroop,cross-session personal,-0.7440401119689932
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,stroop,same-session personal (1-min gap),-0.3376321353065539
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,stroop,cross-session personal,-0.6944140450944791
+UNIVERSE,all features,UN_118,UN_118|Lab2,sudoku,same-session personal (1-min gap),0.3565186751233262
+UNIVERSE,all features,UN_118,UN_118|Lab2,sudoku,cross-session personal,0.20655818388753883
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,sudoku,same-session personal (1-min gap),0.4369274136715997
+UNIVERSE,cardiac only,UN_118,UN_118|Lab2,sudoku,cross-session personal,-0.17558214648251252
+UNIVERSE,all features,UN_118,UN_118|Lab1,sudoku,same-session personal (1-min gap),0.0042988019732205784
+UNIVERSE,all features,UN_118,UN_118|Lab1,sudoku,cross-session personal,0.5949736995908825
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,sudoku,same-session personal (1-min gap),-0.12889358703312193
+UNIVERSE,cardiac only,UN_118,UN_118|Lab1,sudoku,cross-session personal,0.41093235719339266
+UNIVERSE,all features,UN_119,UN_119|Lab1,arith,same-session personal (1-min gap),0.35629082219045216
+UNIVERSE,all features,UN_119,UN_119|Lab1,arith,cross-session personal,-0.5711451634131532
+UNIVERSE,cardiac only,UN_119,UN_119|Lab1,arith,same-session personal (1-min gap),0.04191650548033524
+UNIVERSE,cardiac only,UN_119,UN_119|Lab1,arith,cross-session personal,-0.32221809014356384
+UNIVERSE,all features,UN_119,UN_119|Lab2,arith,same-session personal (1-min gap),-0.4301747494522273
+UNIVERSE,all features,UN_119,UN_119|Lab2,arith,cross-session personal,-0.18259275765947838
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,arith,same-session personal (1-min gap),-0.34468484792019494
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,arith,cross-session personal,-0.1362330594241819
+UNIVERSE,all features,UN_119,UN_119|Lab1,nback,same-session personal (1-min gap),-0.5826638477801268
+UNIVERSE,all features,UN_119,UN_119|Lab1,nback,cross-session personal,-0.25199175612907193
+UNIVERSE,cardiac only,UN_119,UN_119|Lab1,nback,same-session personal (1-min gap),-0.21846370683579988
+UNIVERSE,cardiac only,UN_119,UN_119|Lab1,nback,cross-session personal,-0.2410479128795092
+UNIVERSE,all features,UN_119,UN_119|Lab2,nback,same-session personal (1-min gap),0.13079633544749825
+UNIVERSE,all features,UN_119,UN_119|Lab2,nback,cross-session personal,0.2950567535144114
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,nback,same-session personal (1-min gap),0.11223106075959324
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,nback,cross-session personal,0.5811621397151558
+UNIVERSE,all features,UN_119,UN_119|Lab1,stroop,same-session personal (1-min gap),-0.4546863988724453
+UNIVERSE,all features,UN_119,UN_119|Lab1,stroop,cross-session personal,0.6083238487803377
+UNIVERSE,all features,UN_119,UN_119|Lab2,stroop,same-session personal (1-min gap),0.3220577871740662
+UNIVERSE,all features,UN_119,UN_119|Lab2,stroop,cross-session personal,0.6899012581131381
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,stroop,same-session personal (1-min gap),0.23502802565142616
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,stroop,cross-session personal,-0.08682824765341551
+UNIVERSE,all features,UN_119,UN_119|Lab1,sudoku,same-session personal (1-min gap),0.19880197322057785
+UNIVERSE,all features,UN_119,UN_119|Lab1,sudoku,cross-session personal,0.30234704235750104
+UNIVERSE,cardiac only,UN_119,UN_119|Lab1,sudoku,same-session personal (1-min gap),-0.15207892882311488
+UNIVERSE,cardiac only,UN_119,UN_119|Lab1,sudoku,cross-session personal,-0.20261537885619813
+UNIVERSE,all features,UN_119,UN_119|Lab2,sudoku,same-session personal (1-min gap),-0.12917547568710358
+UNIVERSE,all features,UN_119,UN_119|Lab2,sudoku,cross-session personal,0.06428988895382819
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,sudoku,same-session personal (1-min gap),-0.06662808264631694
+UNIVERSE,cardiac only,UN_119,UN_119|Lab2,sudoku,cross-session personal,-0.279799440155034
+UNIVERSE,all features,UN_120,UN_120|Lab1,arith,same-session personal (1-min gap),0.3947309589885908
+UNIVERSE,cardiac only,UN_120,UN_120|Lab1,arith,same-session personal (1-min gap),0.06860160345359234
+UNIVERSE,all features,UN_120,UN_120|Lab1,nback,same-session personal (1-min gap),-0.3243833685694151
+UNIVERSE,cardiac only,UN_120,UN_120|Lab1,nback,same-session personal (1-min gap),0.20404686370935224
+UNIVERSE,all features,UN_120,UN_120|Lab1,stroop,same-session personal (1-min gap),0.7570119802677941
+UNIVERSE,cardiac only,UN_120,UN_120|Lab1,stroop,same-session personal (1-min gap),0.2021375716484054
+UNIVERSE,all features,UN_120,UN_120|Lab1,sudoku,same-session personal (1-min gap),0.18442565186751234
+UNIVERSE,cardiac only,UN_120,UN_120|Lab1,sudoku,same-session personal (1-min gap),-0.24277660324171954
+UNIVERSE,all features,UN_121,UN_121|Lab1,arith,same-session personal (1-min gap),0.8111274144538995
+UNIVERSE,all features,UN_121,UN_121|Lab1,arith,cross-session personal,0.020864184394838503
+UNIVERSE,all features,UN_121,UN_121|Lab2,arith,same-session personal (1-min gap),-0.3313089373175856
+UNIVERSE,all features,UN_121,UN_121|Lab2,arith,cross-session personal,0.5496320207076366
+UNIVERSE,all features,UN_121,UN_121|Lab1,nback,same-session personal (1-min gap),-0.16821705426356587
+UNIVERSE,all features,UN_121,UN_121|Lab1,nback,cross-session personal,0.19714540588760038
+UNIVERSE,all features,UN_121,UN_121|Lab2,nback,same-session personal (1-min gap),-0.18012684989429173
+UNIVERSE,all features,UN_121,UN_121|Lab2,nback,cross-session personal,-0.046817804300347585
+UNIVERSE,cardiac only,UN_121,UN_121|Lab2,nback,same-session personal (1-min gap),-0.1337363798353711
+UNIVERSE,cardiac only,UN_121,UN_121|Lab2,nback,cross-session personal,-0.11795218202543012
+UNIVERSE,all features,UN_121,UN_121|Lab1,stroop,same-session personal (1-min gap),-0.28569415081042987
+UNIVERSE,all features,UN_121,UN_121|Lab1,stroop,cross-session personal,-0.5853148358915994
+UNIVERSE,all features,UN_121,UN_121|Lab2,stroop,same-session personal (1-min gap),0.29365750528541223
+UNIVERSE,all features,UN_121,UN_121|Lab2,stroop,cross-session personal,0.08862161247654496
+UNIVERSE,all features,UN_121,UN_121|Lab1,sudoku,same-session personal (1-min gap),0.3417899929527836
+UNIVERSE,all features,UN_121,UN_121|Lab1,sudoku,cross-session personal,0.411055400043065
+UNIVERSE,cardiac only,UN_121,UN_121|Lab1,sudoku,same-session personal (1-min gap),-0.1883794238044446
+UNIVERSE,cardiac only,UN_121,UN_121|Lab1,sudoku,cross-session personal,-0.0045712524110585635
+UNIVERSE,all features,UN_121,UN_121|Lab2,sudoku,same-session personal (1-min gap),-0.3006342494714588
+UNIVERSE,all features,UN_121,UN_121|Lab2,sudoku,cross-session personal,0.09148235873142825
+UNIVERSE,cardiac only,UN_121,UN_121|Lab2,sudoku,same-session personal (1-min gap),0.15431827438937817
+UNIVERSE,cardiac only,UN_121,UN_121|Lab2,sudoku,cross-session personal,-0.017506298092257882
+UNIVERSE,all features,UN_122,UN_122|Lab1,arith,same-session personal (1-min gap),-0.43156693323528506
+UNIVERSE,all features,UN_122,UN_122|Lab1,arith,cross-session personal,-0.18031929619489992
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,arith,same-session personal (1-min gap),0.10474308300395255
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,arith,cross-session personal,0.21250201628330842
+UNIVERSE,all features,UN_122,UN_122|Lab2,arith,same-session personal (1-min gap),-0.07399577167019028
+UNIVERSE,all features,UN_122,UN_122|Lab2,arith,cross-session personal,-0.05132886277646193
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,arith,same-session personal (1-min gap),-0.471717012437705
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,arith,cross-session personal,0.17297517610507862
+UNIVERSE,all features,UN_122,UN_122|Lab1,nback,same-session personal (1-min gap),-0.01923890063424946
+UNIVERSE,all features,UN_122,UN_122|Lab1,nback,cross-session personal,-0.3249254052723861
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,nback,same-session personal (1-min gap),0.1711768851303735
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,nback,cross-session personal,-0.30788671057087863
+UNIVERSE,all features,UN_122,UN_122|Lab2,nback,same-session personal (1-min gap),0.15398167723749118
+UNIVERSE,all features,UN_122,UN_122|Lab2,nback,cross-session personal,0.04817127564674398
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,nback,same-session personal (1-min gap),0.23592608234434514
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,nback,cross-session personal,-0.27696945461256883
+UNIVERSE,all features,UN_122,UN_122|Lab1,stroop,same-session personal (1-min gap),0.2905567300916138
+UNIVERSE,all features,UN_122,UN_122|Lab1,stroop,cross-session personal,0.48143591005567693
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,stroop,same-session personal (1-min gap),-0.04053234275913222
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,stroop,cross-session personal,-0.05231820908644316
+UNIVERSE,all features,UN_122,UN_122|Lab2,stroop,same-session personal (1-min gap),-0.22713178294573644
+UNIVERSE,all features,UN_122,UN_122|Lab2,stroop,cross-session personal,0.1023408902150174
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,stroop,same-session personal (1-min gap),0.05776272227314193
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,stroop,cross-session personal,-0.2927356594777445
+UNIVERSE,all features,UN_122,UN_122|Lab1,sudoku,same-session personal (1-min gap),0.23213530655391118
+UNIVERSE,all features,UN_122,UN_122|Lab1,sudoku,cross-session personal,0.43264942016057095
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,sudoku,same-session personal (1-min gap),0.3804087385482734
+UNIVERSE,cardiac only,UN_122,UN_122|Lab1,sudoku,cross-session personal,0.36500661355316993
+UNIVERSE,all features,UN_122,UN_122|Lab2,sudoku,same-session personal (1-min gap),0.9441155743481324
+UNIVERSE,all features,UN_122,UN_122|Lab2,sudoku,cross-session personal,-0.3116367775077671
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,sudoku,same-session personal (1-min gap),0.459830866807611
+UNIVERSE,cardiac only,UN_122,UN_122|Lab2,sudoku,cross-session personal,0.06484358177735397
+UNIVERSE,all features,UN_123,UN_123|Lab1,arith,same-session personal (1-min gap),-0.22259796610596136
+UNIVERSE,all features,UN_123,UN_123|Lab1,arith,cross-session personal,-0.44271808733352713
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,arith,same-session personal (1-min gap),-0.2887149401851397
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,arith,cross-session personal,0.17469780309701266
+UNIVERSE,all features,UN_123,UN_123|Lab2,arith,same-session personal (1-min gap),-0.06247616530423456
+UNIVERSE,all features,UN_123,UN_123|Lab2,arith,cross-session personal,0.01607226619102664
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,arith,same-session personal (1-min gap),-0.11683299571663266
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,arith,cross-session personal,-0.08172802737063418
+UNIVERSE,all features,UN_123,UN_123|Lab1,nback,same-session personal (1-min gap),0.6790697674418604
+UNIVERSE,all features,UN_123,UN_123|Lab1,nback,cross-session personal,-0.04860192562059738
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,nback,same-session personal (1-min gap),0.42304439746300204
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,nback,cross-session personal,-0.24568581008336154
+UNIVERSE,all features,UN_123,UN_123|Lab2,nback,same-session personal (1-min gap),0.20260747004933052
+UNIVERSE,all features,UN_123,UN_123|Lab2,nback,cross-session personal,0.932326432680181
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,nback,same-session personal (1-min gap),-0.09704016913319238
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,nback,cross-session personal,0.2749084868805562
+UNIVERSE,all features,UN_123,UN_123|Lab1,stroop,same-session personal (1-min gap),-0.024383368569415087
+UNIVERSE,all features,UN_123,UN_123|Lab1,stroop,cross-session personal,-0.42665108123904155
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,stroop,same-session personal (1-min gap),-0.17229417343861256
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,stroop,cross-session personal,-0.30442109619808205
+UNIVERSE,all features,UN_123,UN_123|Lab2,stroop,same-session personal (1-min gap),-0.2033826638477801
+UNIVERSE,all features,UN_123,UN_123|Lab2,stroop,cross-session personal,0.9032883201574949
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,stroop,same-session personal (1-min gap),-0.10404556459373751
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,stroop,cross-session personal,-0.17500655461516673
+UNIVERSE,all features,UN_123,UN_123|Lab1,sudoku,same-session personal (1-min gap),-0.024876673713882996
+UNIVERSE,all features,UN_123,UN_123|Lab1,sudoku,cross-session personal,-0.49773908763726976
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,sudoku,same-session personal (1-min gap),-0.017618040873854796
+UNIVERSE,cardiac only,UN_123,UN_123|Lab1,sudoku,cross-session personal,-0.2006109097763746
+UNIVERSE,all features,UN_123,UN_123|Lab2,sudoku,same-session personal (1-min gap),0.11324876673713882
+UNIVERSE,all features,UN_123,UN_123|Lab2,sudoku,cross-session personal,-0.9641945307453321
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,sudoku,same-session personal (1-min gap),0.0808870436691464
+UNIVERSE,cardiac only,UN_123,UN_123|Lab2,sudoku,cross-session personal,0.018640991725368365
+UNIVERSE,all features,UN_124,UN_124|Lab1,arith,same-session personal (1-min gap),0.16003953805893728
+UNIVERSE,all features,UN_124,UN_124|Lab1,arith,cross-session personal,-0.2516533882924729
+UNIVERSE,cardiac only,UN_124,UN_124|Lab1,arith,same-session personal (1-min gap),0.3821074041989818
+UNIVERSE,cardiac only,UN_124,UN_124|Lab1,arith,cross-session personal,0.2123255931713545
+UNIVERSE,all features,UN_124,UN_124|Lab2,arith,same-session personal (1-min gap),-0.008456659619450323
+UNIVERSE,all features,UN_124,UN_124|Lab2,arith,cross-session personal,0.20997527579225295
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,arith,same-session personal (1-min gap),0.02232702962702761
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,arith,cross-session personal,-0.0671707327023166
+UNIVERSE,all features,UN_124,UN_124|Lab1,nback,same-session personal (1-min gap),0.2260747004933051
+UNIVERSE,all features,UN_124,UN_124|Lab1,nback,cross-session personal,0.08376141991448527
+UNIVERSE,cardiac only,UN_124,UN_124|Lab1,nback,same-session personal (1-min gap),0.28283195985588777
+UNIVERSE,cardiac only,UN_124,UN_124|Lab1,nback,cross-session personal,-0.12613310228425229
+UNIVERSE,all features,UN_124,UN_124|Lab2,nback,same-session personal (1-min gap),0.22093023255813954
+UNIVERSE,all features,UN_124,UN_124|Lab2,nback,cross-session personal,-0.05909132855516935
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,nback,same-session personal (1-min gap),-0.09594706308069226
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,nback,cross-session personal,0.053691063384679855
+UNIVERSE,all features,UN_124,UN_124|Lab1,stroop,same-session personal (1-min gap),0.6570119802677942
+UNIVERSE,all features,UN_124,UN_124|Lab1,stroop,cross-session personal,0.4054569503829709
+UNIVERSE,cardiac only,UN_124,UN_124|Lab1,stroop,same-session personal (1-min gap),-0.0953387481216997
+UNIVERSE,cardiac only,UN_124,UN_124|Lab1,stroop,cross-session personal,-0.07812595729231292
+UNIVERSE,all features,UN_124,UN_124|Lab2,stroop,same-session personal (1-min gap),0.3390415785764622
+UNIVERSE,all features,UN_124,UN_124|Lab2,stroop,cross-session personal,0.43861699836968226
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,stroop,same-session personal (1-min gap),0.0902463814789882
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,stroop,cross-session personal,-0.37696577543120025
+UNIVERSE,all features,UN_124,UN_124|Lab2,sudoku,same-session personal (1-min gap),-0.33685694150810425
+UNIVERSE,cardiac only,UN_124,UN_124|Lab2,sudoku,same-session personal (1-min gap),-0.4336533061489749

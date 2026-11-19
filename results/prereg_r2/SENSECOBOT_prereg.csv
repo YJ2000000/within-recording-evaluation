@@ -1,0 +1,10 @@
+pred,device,features,estimate,ci,n,prediction,verdict,p,note
+P5a,LAB,"hr_mean,hr_std,rmssd,sdnn,pnn50,scl_mean,scl_slope,phasic_std,scr_rate",0.3282749310655736,"[0.174, 0.479]",20,task-vs-rest > task1-vs-task5,confirmed,0.0004253387451171875,task vs rest 0.820; task1 vs task5 0.492
+P5a,WRIST,"scl_mean,scl_slope,phasic_std,scr_rate,temp_mean,temp_slope,acc_std",0.14291436878213137,"[0.047, 0.247]",19,task-vs-rest > task1-vs-task5,confirmed,0.004209386797904912,task vs rest 0.897; task1 vs task5 0.754
+P5b,WRIST/LAB,HR effect ratio (task - rest),,"[nan, nan]",0,CI lower > 0.5,not testable,,"chest nan SD, wrist nan SD; usable task windows chest 0.53, wrist 0.00; wrist usable by movement (0 jog,1 freedrive,2 mix) {0.0: 0.0, 1.0: 0.0, 2.0: 0.002}"
+P5c,WRIST,temp,0.8454552489307552,"[0.75, 0.92]",20,> 0.6,confirmed,,
+P5c,WRIST,eda,0.7307385714611464,"[0.641, 0.813]",20,> 0.6,confirmed,,
+P5c,WRIST,motion,0.41265457698796376,"[0.343, 0.487]",20,,report only,,
+P5c,LAB,cardiac,0.5724860608013456,"[0.381, 0.758]",9,< 0.6,inconclusive,,
+P5c,LAB,finger GSR,0.7285026197086886,"[0.634, 0.828]",20,,report only,,
+P5d,-,effort (B) by task 1-5,,"{1: 2.35, 2: 2.3, 3: 2.75, 4: 3.85, 5: 4.45}",20,,descriptive,,task order from file timestamps: baseline first for all; tasks mostly 1->5 (see DECISION_LOG CP10)

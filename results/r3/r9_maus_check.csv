@@ -1,0 +1,6 @@
+contrast,bpm,lo,hi,n,p
+"3- vs 0-back, linear position (Figure 2)",3.3927476589829153,2.1269964505484102,4.65849886741742,22,
+"3- vs 2-back, middle blocks 2-5, linear position",0.9711349079245949,-0.35345068416442305,2.295720500013613,22,
+"n-back minus adjacent 0-back, both ends (linear drift cancels)",3.8122295549592793,2.568,5.239,22,6.67572021484375e-06
+start: 2-back (block 2) minus 0-back (block 1),4.29762841811454,2.437,6.421,22,8.058547973632812e-05
+end: 3-back (block 5) minus 0-back (block 6),3.326830691804021,1.892,4.813,22,0.0005044937133789062

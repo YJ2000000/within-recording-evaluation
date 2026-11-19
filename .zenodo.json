@@ -1,0 +1,11 @@
+{
+  "title": "Code and results for: Within-Recording Evaluation Inflates Personalised Wearable Detection of Workload and Stress",
+  "upload_type": "software",
+  "description": "Analysis code, result tables and pre-written claims files for the manuscript 'Within-Recording Evaluation Inflates Personalised Wearable Detection of Workload and Stress: Block Identity, Drift and Simple Controls' (submitted to Sensors, MDPI). The study re-analyses seven public datasets (COG-BCI, UNIVERSE, MultiPhysio-HRC, WESAD, MAUS, ds007554, CogWear); the datasets themselves are not redistributed.",
+  "creators": [
+    {"name": "Jin, Yuxuan", "affiliation": "The College of Post and Telecommunication of WIT, Wuhan, China"},
+    {"name": "Chen, Ming", "affiliation": "Department of Product Design, School of Arts and Media, Sichuan Agricultural University, Ya'an, China"}
+  ],
+  "license": "MIT",
+  "keywords": ["wearable sensors", "physiological computing", "cognitive workload", "stress detection", "evaluation protocol", "data leakage"]
+}

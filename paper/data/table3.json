@@ -1,0 +1,72 @@
+[
+[
+"Engagement minus difficulty (AUROC easy-vs-rest − hard-vs-easy)",
+"COG-BCI",
+"0.08 (0.03, 0.13)",
+"0.007",
+"supported; order-confounded†"
+],
+[
+"",
+"UNIVERSE",
+"0.34 (0.30, 0.39)",
+"<0.001",
+"supported; order-confounded†"
+],
+[
+"",
+"MultiPhysio-HRC (day-1 Stroop)",
+"0.29 (0.20, 0.38)",
+"<0.001",
+"supported; order-confounded†"
+],
+[
+"Difficulty effect on heart rate (rest SD)",
+"COG-BCI",
+"1.04 (0.56, 1.52)",
+"<0.001",
+"supported"
+],
+[
+"Heart-rate drift (rest SD per task position / per min)",
+"COG-BCI",
+"−0.21 (−0.32, −0.11)",
+"<0.001",
+"supported"
+],
+[
+"Heart-rate drift (rest SD per task position / per min)",
+"UNIVERSE",
+"−0.017 (−0.027, −0.007)",
+"0.003",
+"supported"
+],
+[
+"Skin-conductance-level drift (rest SD per min)",
+"UNIVERSE",
+"0.45 (0.20, 0.71)",
+"0.003",
+"supported; not robust*"
+],
+[
+"Skin-temperature drift (rest SD per min)",
+"UNIVERSE",
+"−0.10 (−0.14, −0.07)",
+"<0.001",
+"supported"
+],
+[
+"Split-half null above chance (AUROC − 0.5)",
+"UNIVERSE",
+"0.24 (0.20, 0.28)",
+"<0.001",
+"supported"
+],
+[
+"",
+"COG-BCI",
+"0.038 (0.011, 0.065)",
+"0.010",
+"supported"
+]
+]

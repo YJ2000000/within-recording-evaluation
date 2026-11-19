@@ -1,0 +1,9 @@
+data,contrast,protocol,auc,ci,n
+UNIVERSE wrist E4,hard vs. easy,same-session personal,0.5777863603746912,"[0.545, 0.614]",24
+UNIVERSE wrist E4,hard vs. easy,population (LOSO),0.5387862953142094,"[0.501, 0.575]",24
+WESAD wrist E4,stress vs. baseline,same-session personal,0.8358277750409848,"[0.732, 0.922]",15
+WESAD wrist E4,stress vs. baseline,population (LOSO),0.8607516026761801,"[0.79, 0.926]",15
+CogWear wrist E4,Stroop vs. baseline,same-session personal,0.679132175390399,"[0.537, 0.795]",13
+CogWear wrist E4,Stroop vs. baseline,population (LOSO),0.5826216674173404,"[0.445, 0.713]",13
+MAUS wrist PPG,3- vs. 0-back,same-session personal,0.6539772727272728,"[0.566, 0.735]",22
+MAUS wrist PPG,3- vs. 0-back,population (LOSO),0.5585285250463822,"[0.462, 0.657]",22

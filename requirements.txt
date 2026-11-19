@@ -1,0 +1,12 @@
+# versions used for the analyses in the paper
+numpy==2.5.3
+pandas==2.3.3
+pyarrow==26.0.0
+scipy==1.18.1
+scikit-learn==1.9.1
+statsmodels==0.15.0
+neurokit2==0.2.13
+matplotlib==3.11.2
+mne==1.13.2
+tabulate==0.10.0
+remotezip==0.12.6

@@ -1,0 +1,19 @@
+dataset,rep,folds,mean,ci,n
+MAUS_ECG,clock,crossed,0.0,"[0.0, 0.0]",22
+MAUS_ECG,clock,halves,0.0,"[0.0, 0.0]",22
+MAUS_ECG,physiology,crossed,0.4326712827988338,"[0.271, 0.593]",21
+MAUS_ECG,physiology,halves,0.6451955782312925,"[0.511, 0.764]",21
+MAUS_FINGER,clock,crossed,0.0,"[0.0, 0.0]",22
+MAUS_FINGER,clock,halves,0.0,"[0.0, 0.0]",22
+MAUS_FINGER,physiology,crossed,0.6362670068027212,"[0.515, 0.753]",21
+MAUS_FINGER,physiology,halves,0.6298590864917396,"[0.504, 0.754]",21
+MAUS_WRIST,clock,crossed,0.0,"[0.0, 0.0]",22
+MAUS_WRIST,clock,halves,0.0,"[0.0, 0.0]",22
+MAUS_WRIST,physiology,crossed,0.557033527696793,"[0.443, 0.667]",21
+MAUS_WRIST,physiology,halves,0.5669794703595723,"[0.443, 0.682]",21
+MAUS_ECG,clock,all four,0.0,"[0.0, 0.0]",22
+MAUS_ECG,physiology,all four,0.5389334305150631,"[0.405, 0.682]",21
+MAUS_FINGER,clock,all four,0.0,"[0.0, 0.0]",22
+MAUS_FINGER,physiology,all four,0.6330630466472303,"[0.511, 0.741]",21
+MAUS_WRIST,clock,all four,0.0,"[0.0, 0.0]",22
+MAUS_WRIST,physiology,all four,0.5620064990281828,"[0.457, 0.668]",21
